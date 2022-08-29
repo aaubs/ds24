@@ -3,7 +3,7 @@ title: Modules
 weight: 3
 ---
 
-The course is structured in 3 modules.
+### For Business Data Science Students
 
 **M1: Data Handling, Exploration & Applied Machine Learning 10 ECTS**
 
