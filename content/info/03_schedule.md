@@ -4,6 +4,9 @@ weight: 4
 
 ---
 
+This will be shortly updated with additional key dates and topics for the semester. For now, please follow [CalMoodle](https://www.moodle.aau.dk/local/planning/calendar.php?fid=1710).
+
+<!-- 
 ## M1: Week 35-39
 
 ### Topics
@@ -57,3 +60,4 @@ weight: 4
 * Group assignment: 24.11.-01.12.2020 (Digital Eksamen)
 * Final exam: 03.12.2021
   
+-->

@@ -8,6 +8,12 @@ While this course does not come with a list of mandatory readings, we will often
 ## Main Literature
 
 These pieces of work can be seen as main references for data science using R and Python. We will frequently refer to selected chapters for further study.
+Documentation of the used packages, tutorials, papers, podcasts etc. will be added throughout. 
+
+### Python
+
+* VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. O'Reilly Media, Inc. [Online available here](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
 
 ### R
 
@@ -15,19 +21,15 @@ These pieces of work can be seen as main references for data science using R and
 * Baumer, B., Kaplan, D. & Horton, N. (2020) Modern Data Science with R (2nd Ed.). CRC Press [Online available here](https://beanumber.github.io/mdsr2e/)
 * Kuhn, M., Silge, J. (2020) Tidy Modeling with R [Online available here](https://www.tmwr.org/)
 
-### Python
-
-* VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. O'Reilly Media, Inc. [Online available here](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-
 
 ## Supplementary literature
-
-### R
 
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 * [Efficient R Programming](https://csgillespie.github.io/efficientR/)
 * [Functional Programming in R (Stanford, Hadley)](https://dcl-prog.stanford.edu/)
 * [Exploring Enterprise Databases with R](https://smithjd.github.io/sql-pet/)
+* [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/) O'Reilly Media. Nield, T. (2022).
+* [Econometrics with Python - Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 
 
 ## Further Ressources
@@ -45,6 +47,7 @@ These pieces of work can be seen as main references for data science using R and
 ### Community
 
 * [Kaggle](https://www.kaggle.com/): Crowdsourced data science challanges. Nowadays also provides a vivid community where you find datasets, notebooks for all kind of data science exercises. 
+* [madewithml](https://madewithml.com/)
 
 ### Tools & Helpers
 

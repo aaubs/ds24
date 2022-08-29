@@ -1,17 +1,17 @@
-baseURL = "https://sds-aau.github.io/SDS-2021/"
+baseURL = "https://aaubs.github.io/ds22/"
 staticDir = 'static'
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Social Data Science 2021"
+title = "Social / Business Data Science 2022"
 theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  # editURL = "https://github.com/SDS-AAU/SDS2021-test/tree/master/content"
-  description = "Social Data Science 2021"
+  # editURL = "https://github.com/aaubs/ds22/tree/master/content"
+  description = "Social / Business Data Science 2022"
   author = "Roman Jurowetzki & Daniel Hain"
   showVisitedLinks = true
   disableBreadcrumb = false
