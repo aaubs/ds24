@@ -2,7 +2,7 @@
 title: Info, Schedule & Co
 weight: 1
 chapter: true
-pre = "<i class="fa-solid fa-circle-info"></i>"
+pre: = "<i class="fa-solid fa-circle-info"></i>"
 ---
 
 General info about the semester will be updated here. Check out the calendar [on moodle](https://www.moodle.aau.dk/local/planning/calendar.php?fid=1710).

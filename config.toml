@@ -1,4 +1,4 @@
-baseURL = "https://aaubs.github.io/ds22/"
+baseURL = "https://aaubs.github.io/ds22"
 staticDir = 'static'
 languageCode = "en-US"
 defaultContentLanguage = "en"
