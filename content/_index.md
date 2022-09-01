@@ -1,6 +1,5 @@
 ---
 title: "Social / Business Data Science 2022"
-
 ---
 
 # Social & Business Data Science 2022
