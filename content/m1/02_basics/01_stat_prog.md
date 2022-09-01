@@ -8,17 +8,19 @@ draft: false
 {{% notice tip %}}  Theory part is general, Python application part hands-on and language specific.
 {{% /notice %}}
 
-This session is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be "old news", but many will certainly benefit from reviewing this material. We start with a general theory lecture on data structures and properties, and then dive into R and Python specific applications of statistical programming.
+This session is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be "old news", but many will certainly benefit from reviewing this material. We start with a general theory lecture on data structures and properties, and then dive into Python specific applications of statistical programming.
 
 # Part 1: Basics
 
 ## Slides
 
-<!-- {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}} -->
+{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}} -->
 
 ## Notebooks
 
 * [Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-data.ipynb)
+
+# Part 2: Basic Data Manipulation
 
 
 <!---
