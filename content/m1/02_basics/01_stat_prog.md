@@ -14,7 +14,7 @@ This session is a basic introduction to statistical programming as well as a sho
 
 ## Slides
 
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}}
+<!-- {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}} -->
 
 ## Notebooks
 
