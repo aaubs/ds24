@@ -1,6 +1,7 @@
 ---
 title: Infrastructure
 weight: 1
+draft: false
 ---
 
 ## Main Infrastructure
