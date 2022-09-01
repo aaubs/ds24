@@ -12,8 +12,10 @@ This session is a basic introduction to statistical programming as well as a sho
 
 # Part 1: Basics
 
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}} 
+{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/n
+otebooks/DS_basics_data.html" >}} 
 
+## Follow along
 * [Slides fullscreen](https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html)
 * [Notebook: Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-data.ipynb)
 
