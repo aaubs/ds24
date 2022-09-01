@@ -11,7 +11,7 @@ draft: false
 This module provides a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.
 
 
-<!---
+<!--
 ## Content by week for this module
 
 {{% notice note %}}
@@ -61,7 +61,7 @@ Click on the **to do** for the week to see what you should do to keep up with th
 
 * W 38: Supervised Machine Learning (SML)
 * W 39: Project work + exam
---->
+-->
 
 
 
