@@ -12,17 +12,18 @@ This session is a basic introduction to statistical programming as well as a sho
 
 # Part 1: Basics
 
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}} -->
+{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}} 
 
-* [Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-data.ipynb)
+* [Slides fullscreen](https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html)
+* [Notebook: Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-data.ipynb)
 
 # Part 2: Basic Data Manipulation
 
-* [Python Data Manipulation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-manipilation.ipynb)
+* [Notebook: Python Data Manipulation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-manipilation.ipynb)
 
 # Exercises
 
-* [Python DS Handbook, C.2-3 exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-ex.ipynb)
+* [Notebook: Python DS Handbook, C.2-3 exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-ex.ipynb)
 
 <!---
 * [Python DS Handbook, C.2-3 answers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-answers.ipynb)
