@@ -1,6 +1,6 @@
 ---
-title: "Basics Statistical Programming"
-weight: 1
+title: "Statistics Refresher"
+weight: 2
 disableToc: true
 draft: false
 ---
@@ -8,7 +8,7 @@ draft: false
 {{% notice tip %}}  Theory part is general, Python application part hands-on and language specific.
 {{% /notice %}}
 
-This session is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be "old news", but many will certainly benefit from reviewing this material. We start with a general theory lecture on data structures and properties, and then dive into Python specific applications of statistical programming.
+This session is a basic introduction and refresher of statistical concepts importan t to data science
 
 # Part 1: Basics
 
@@ -21,6 +21,8 @@ This session is a basic introduction to statistical programming as well as a sho
 # Exercises
 
 * [Notebook: Python DS Handbook, C.2-3 exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-ex.ipynb)
+
+# Further ressources
 
 
 
