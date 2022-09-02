@@ -11,10 +11,8 @@ These pieces of work can be seen as main references for data science using  Pyth
 
 * VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. O'Reilly Media, Inc. [Online available here](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
-
 ## Supplementary literature
 
-* [The markdown guide](https://www.markdownguide.org/): Introduction to markdown, the formating language used in ipython notebooks.
 * [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/) O'Reilly Media. Nield, T. (2022): Math refresher targeting data science relevant concepts.
 * [Econometrics with Python - Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html): More thorrough inferential statistics in Python
 
