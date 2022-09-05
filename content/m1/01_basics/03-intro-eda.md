@@ -5,6 +5,8 @@ disableToc: true
 draft: false
 ---
 
+![](/ds22/images/ds_corgi.png)
+
 In this session we will be trying out some of the techniques already learned on real world data from AirBnb as well as experiment with Kaggle
 
 ## Part 1: AirBnb
