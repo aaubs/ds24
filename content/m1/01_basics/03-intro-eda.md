@@ -10,8 +10,8 @@ In this session we will be trying out some of the techniques already learned on 
 ## Part 1: AirBnb
 In this notebook we will be using data from AirBnb for some basic EDA and geoplotting
 
-* [EDA & Geoviz starter](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-starter.ipynb)
-* [EDA & Geoviz class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-class.ipynb.ipynb)
+* [EDA and Geoviz starter](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-starter.ipynb)
+* [EDA and Geoviz class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-class.ipynb.ipynb)
 
 ## Part 2: Kaggle
 
@@ -23,12 +23,12 @@ In this notebook we will be learning how to work with data from Kaggle as well a
 ### What to do now?!
 * Replay code from the course and see if you do understand the core mechanics - you DO NOT need to remember everything.
 * [Android app market project on datacamp](https://app.datacamp.com/learn/projects/android-app-market)
-* [Course: Python DS toolbox 1](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-1) & * [Course: Python DS toolbox 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2)
-* [Opendata.dk](https://admin.opendata.dk) - build a map of different attractions in Aalborg based on public data. See preprocessing example below:
+* [Course: Python DS toolbox 1](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-1) & [Course: Python DS toolbox 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2)
+* [Opendata.dk](https://admin.opendata.dk) - build a map of different attractions in Aalborg based on public data. See preprocessing example - how to get data out of nested JSON - below:
 
 
 
-** this is how you can preprocess the GeoCoordinates from the JSON file:
+**This is how you can preprocess the GeoCoordinates from the JSON file:**
 
 ```python
 #Load pandas
