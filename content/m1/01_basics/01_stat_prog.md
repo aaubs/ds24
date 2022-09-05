@@ -5,8 +5,6 @@ disableToc: true
 draft: false
 ---
 
-{{% notice tip %}}  Theory part is general, Python application part hands-on and language specific.
-{{% /notice %}}
 
 This session is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be "old news", but many will certainly benefit from reviewing this material. We start with a general theory lecture on data structures and properties, and then dive into Python specific applications of statistical programming.
 
