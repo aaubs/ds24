@@ -6,6 +6,8 @@ draft: false
 ---
 
 ![](/ds22/images/ds_corgi.png)
+Corgi by Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
+
 
 In this session we will be trying out some of the techniques already learned on real world data from AirBnb as well as experiment with Kaggle
 
