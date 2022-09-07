@@ -20,6 +20,9 @@ This session is a basic introduction to statistical programming as well as a sho
 
 * [Notebook: Python DS Handbook, C.2-3 exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-ex.ipynb)
 
+
+Here, you will find the answers
+
 <!---
 * [Python DS Handbook, C.2-3 answers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-answers.ipynb)
 --->
