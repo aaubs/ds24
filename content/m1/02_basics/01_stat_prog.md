@@ -35,7 +35,7 @@ This session is a basic introduction to statistical programming as well as a sho
 ### Recommended readings
 * [Python fo Data Science Handbook (VanderPlas, 2016), Chapter 2-3](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-###€ Further resources
+### Further resources
 * x
 
 
