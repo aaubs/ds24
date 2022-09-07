@@ -6,58 +6,60 @@ weight: 4
 
 This will be shortly updated with additional key dates and topics for the semester. For now, please follow [CalMoodle](https://www.moodle.aau.dk/local/planning/calendar.php?fid=1710).
 
-<!-- 
+
+
+## General appointments
+
+* Introduction to Semester Project and group formation: 12.10.2022, 10:30-12:00
+
+
 ## M1: Week 35-39
 
 ### Topics
 
 * W 35: Introduction & landing
-* W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
-* W 37: Unsupervised Machine Learning (UML)
-* W 38: Supervised Machine Learning (SML)
-* W 39: Project work + exam
+* W 36: Data Manipulation, Exploratory Data Analysis (EDA)
+* W 37: Exploratory Data Analysis (EDA) / Dashboard development / Hackathon
+* W 38: Unsupervised Machine Learning (UML), Math for ML
+* W 39: Supervised Machine Learning (SML)
+* W 40: Group Assignment
+* W 41: Exam
 
    
 ### Key Dates
 
-* Individual assignment 
-   * 1: 08.-13.09.2021, 23:59:00 at the latest (Peergrade) 
-   * 2: 15.-20.09.2021, 23:59:00 at the latest (Peergrade)
-* Group assignment: 21.-27.09.2021 (Digital Eksamen)
-* Final exam: 29.09.2021
+* EDA Hackathon
+   * In groups: Developing EDA Dashboard
+   * 9.09.2022 - 15.09.2022
+
+* Group assignment: 30.09.-05.10.2022 (Digital Eksamen)
+* Final exam: 10-11.09.2022
   
 
 ## M2: Week 40-44
 
 ### Topics
 
-* W 40: Introduction to Network Analysis
-* W 41: Introduction to Natural-Language-Processing (NLP)
-* W 43: Advanced applications in Network and Text Analysis
-* W 44: Project work + exam
+* W 41: Introduction to Network Analysis (NW)
+* W 42: Autumn break 🎉🍁
+* W 43: NW applications, Introduction to Natural-Language-Processing (NLP)
+* W 44: Advanced applications in Network and Text Analysis / Module Assignment group work
+* W 45: Exam
    
 ### Key Dates
 
-* M2 individual assignment 
-   * 1: 04.-07.10.2021, 23:59:00 at the latest (Peergrade)
-   * 2: 12.-15.10.2021, 23:59:00 at the latest (Peergrade)
-* Group assignment: 25.10.-01.11.2021 (Digital Eksamen)
-* Final exam: 03.11.2021
+* Group assignment: 31.10.-04.11.2022 (Digital Eksamen)
+* Final exam: 9-10.11.2022
   
-## M3: Week 45-48
+## M3 / Semester-Project: Week 45-48
 
 ### Topics
 
-* W 45: Introduction to Artificial Neural Networks (ANN) & Deep Learning (DL)
-* W 46: Neural networks for spatial data: Recurrent Neural Networks (RNN)
-* W 47: Neural Networks for sequential data: Recurrent Neural networks (RNN & LSTM)
-* W 48: project work + exam
+* W 41: Kick-off M3 course and semester project (12.10.2022, 10:30-12:00)
+* W 44: Strategy and Business Modelling Workshop
+* W 45: Project Management Workshop
 
 ### Key Dates
 
-* M3 individual assignment 
-   * 1: 17.-22.11.2021 23:59:00 at the latest (Peergrade)
-* Group assignment: 24.11.-01.12.2020 (Digital Eksamen)
-* Final exam: 03.12.2021
-  
--->
+* Semester Project Submission: ~ 21/12.
+* Exam: ~ 3-4 Week in January
