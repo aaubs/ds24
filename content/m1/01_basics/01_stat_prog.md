@@ -23,7 +23,7 @@ This session is a basic introduction to statistical programming as well as a sho
 
 * [Notebook: Pandas exercises](https://github.com/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises.ipynb)
 
-Here, you will find the answers to Exercises:
+Here, you will find the answers to the exercises:
 
 * [Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://github.com/aaubs/ds-master/blob/main/notebooks/M1-solutions_Chapters_2_3.ipynb)
 
