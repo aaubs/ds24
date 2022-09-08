@@ -25,3 +25,6 @@ In this tutorial we will look into JSON, the probably most common datatype on th
 For the tutorial you will either need to install a local copy of [MongoDB](https://www.mongodb.com/) or make a free-tier account with [Atlas (MongoDB Cloud version)](https://www.mongodb.com/cloud/atlas/register).
 
 [{{< awesome fas fa-laptop-code >}} Colab Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-API-JSON-MongoDB.ipynb)
+
+## What to do now?
+* Datacamp course: [Intro to MongoDB](https://app.datacamp.com/learn/courses/introduction-to-using-mongodb-for-data-science-with-python)
