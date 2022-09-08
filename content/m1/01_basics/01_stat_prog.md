@@ -21,13 +21,13 @@ This session is a basic introduction to statistical programming as well as a sho
 
 * [Notebook: Python DS Handbook, C.2-3 exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-ex.ipynb)
 
-* [Notebook: Pandas exercises](https://github.com/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises.ipynb)
+* [Notebook: Pandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises.ipynb)
 
 Here, you will find the answers to the exercises:
 
-* [Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://github.com/aaubs/ds-master/blob/main/notebooks/M1-solutions_Chapters_2_3.ipynb)
+* [Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)
 
-* [Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_pandas_exercises_solutions.ipynb)
+* [Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises-solutions.ipynb)
 
 <!---
 * [Python DS Handbook, C.2-3 answers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-answers.ipynb)
