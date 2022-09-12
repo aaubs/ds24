@@ -38,3 +38,6 @@ home = [ "HTML", "RSS", "JSON"]
 #identifier = "ds"
 #url = "https://github.com/matcornic/hugo-theme-learn"
 #weight = 10
+
+[markup.goldmark.renderer]
+unsafe = true
