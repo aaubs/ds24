@@ -23,7 +23,7 @@ In this tutorial, we will be going back to [{{< awesome fas fa-laptop-code >}} t
 {{% /notice %}}
 
 
-<iframe src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com/" width="800" height="600" frameBorder="0"></iframe>
+<iframe src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com?embed=true" width="800" height="600" frameBorder="0"></iframe>
 
 
 ### UCloud Set-up
