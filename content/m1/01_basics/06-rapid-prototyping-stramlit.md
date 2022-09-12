@@ -22,9 +22,10 @@ In this tutorial, we will be going back to [{{< awesome fas fa-laptop-code >}} t
 [uCloud](https://cloud.sdu.dk) is a uninversity cloud service. You get 1000 DKK and 50GB storage to start with but you can apply for more. This is usually granted, as the service is not used a lot. It's a great place to learn about modern platforms, infrastructure and more. You can play with different types of installations in a safe environment. You can also request very powerful machines.
 {{% /notice %}}
 
+<!--
 <iframe allow="accelerometer; ambient-light-sensor; autoplay; battery; camera; clipboard-write; document-domain; encrypted-media; fullscreen; geolocation; gyroscope; layout-animations; legacy-image-formats; magnetometer; microphone; midi; oversized-images; payment; picture-in-picture; publickey-credentials-get; sync-xhr; usb; vr ; wake-lock; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-downloads" height="900" title="streamlitApp" src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com?embed=true" frameBorder="0" width="1100"></iframe>
-
-
+-->
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com?embed=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ### UCloud Set-up
