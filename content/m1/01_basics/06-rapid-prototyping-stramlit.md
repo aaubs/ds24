@@ -23,9 +23,14 @@ In this tutorial, we will be going back to [{{< awesome fas fa-laptop-code >}} t
 {{% /notice %}}
 
 
-<iframe src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com/" width="800" height="600" frameBorder="0"></iframe>
+{{< rawhtml <iframe src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com/" width="800" height="600" frameBorder="0"></iframe> >}}
 
 
+### UCloud Set-up
+
+For this project you will need 2 app-containers running: Coder-python and Streamlit. Both can run with minimal CPU/RAM requirements.
+Streamlit can only run once you created a project in Code-python and saved an `app.py` file. It is a good idea, to create a public link and connect it to the streamlit-app. Thus, you can try out your app on your phone or share it.
+Saving changes in `app.py` will trigger imediate recomplies and your app will update everywhere.
 
 ### Loading and preprocessing the data
 

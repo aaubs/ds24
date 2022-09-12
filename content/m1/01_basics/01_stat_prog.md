@@ -43,11 +43,8 @@ Here, you will find the answers to the exercises:
 * [Python fo Data Science Handbook (VanderPlas, 2016), Chapter 2-3](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Further resources
-<<<<<<< HEAD:content/m1/02_basics/01_stat_prog.md
-* x
-=======
 
->>>>>>> bce35387d9d3934a6592de313b94d94af1350206:content/m1/01_basics/01_stat_prog.md
+
 
 
 
