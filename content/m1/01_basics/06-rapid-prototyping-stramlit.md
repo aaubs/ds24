@@ -22,7 +22,7 @@ In this tutorial, we will be going back to [{{< awesome fas fa-laptop-code >}} t
 [uCloud](https://cloud.sdu.dk) is a uninversity cloud service. You get 1000 DKK and 50GB storage to start with but you can apply for more. This is usually granted, as the service is not used a lot. It's a great place to learn about modern platforms, infrastructure and more. You can play with different types of installations in a safe environment. You can also request very powerful machines.
 {{% /notice %}}
 
-<iframe allow="accelerometer; ambient-light-sensor; autoplay; battery; camera; clipboard-write; document-domain; encrypted-media; fullscreen; geolocation; gyroscope; layout-animations; legacy-image-formats; magnetometer; microphone; midi; oversized-images; payment; picture-in-picture; publickey-credentials-get; sync-xhr; usb; vr ; wake-lock; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-downloads" height="800" title="streamlitApp" src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com?embed=true" frameBorder="0" width="1000"></iframe>
+<iframe allow="accelerometer; ambient-light-sensor; autoplay; battery; camera; clipboard-write; document-domain; encrypted-media; fullscreen; geolocation; gyroscope; layout-animations; legacy-image-formats; magnetometer; microphone; midi; oversized-images; payment; picture-in-picture; publickey-credentials-get; sync-xhr; usb; vr ; wake-lock; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-downloads" height="900" title="streamlitApp" src="https://rjuro-streamlit-prep-app-5xws2a.streamlitapp.com?embed=true" frameBorder="0" width="1100"></iframe>
 
 
 
@@ -192,9 +192,8 @@ In contrast to a notebook, we cannot really install packages on the fly. Conside
 This is often done by adding a `requirements.txt` file to the project folder. We add all libraries that we loaded just to be sure. This is not always the best idea, as things can clash... but that is a chapter of its own to be covered at a later point. 😵
 
 ```txt
-altair
 pydeck
+altair
 numpy
 pandas
-streamlit
 ```
