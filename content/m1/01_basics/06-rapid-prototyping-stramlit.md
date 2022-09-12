@@ -33,6 +33,28 @@ For this project you will need 2 app-containers running: Coder-python and Stream
 Streamlit can only run once you created a project in Code-python and saved an `app.py` file. It is a good idea, to create a public link and connect it to the streamlit-app. Thus, you can try out your app on your phone or share it.
 Saving changes in `app.py` will trigger imediate recomplies and your app will update everywhere.
 
+### Streamlit syntax and layout
+
+Now, what do we need to turn our notebook into a web app?
+
+```python
+
+# 1. page-config
+
+st.set_page_config(page_title='Streamlit - Dashboard 🤯',
+                    page_icon="🚀",
+                    layout='wide'
+)
+
+# 2. Page layout - e.g. a title
+
+st.title("AirBnb rentals in Copenhagen 🇩🇰")
+
+```
+
+Streamlit layout follows your script - things that come first, will be displayed first...etc.
+
+
 ### Loading and preprocessing the data
 
 We can just proceed as in a notebook, but it is useful to rewrite the data loading and preprocessing into a function and add the `@st.experimental_singleton` decorator. Streamlit performs a re-run every time something is chaged (UI) by the user e.g. a new filter is set. To reduce processing time it's a good idea not to re-run data-loading every single time.
@@ -56,27 +78,6 @@ def load_data():
 # LOAD THE DATA NOW!
 data = load_data()
 ```
-
-### Streamlit syntax and layout
-
-Now, what do we need to turn our notebook into a web app?
-
-```python
-
-# 1. page-config
-
-st.set_page_config(page_title='Streamlit - Dashboard 🤯',
-                    page_icon="🚀",
-                    layout='wide'
-)
-
-# 2. Page layout - e.g. a title
-
-st.title("AirBnb rentals in Copenhagen 🇩🇰")
-
-```
-
-Streamlit layout follows your script - things that come first, will be displayed first...etc.
 
 
 ### The plots to be rendered
