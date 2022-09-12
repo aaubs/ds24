@@ -14,9 +14,7 @@ The corresponding Aalborg University Moodle course page can be found [here](http
 {{% /notice %}}
 
 
-{{% notice info %}}
-some important info
-{{% /notice %}}
+
 
 
 

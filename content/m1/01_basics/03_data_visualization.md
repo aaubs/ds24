@@ -5,8 +5,6 @@ disableToc: true
 draft: false
 ---
 
-{{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
-{{% /notice %}}
 
 This session introduces some fundamental concepts of data visualization. After a theoretical lecture on types and dimensions of data visualization, we will explore the visualization of different data types, structure, and properties in R and Python specific applications.
 
