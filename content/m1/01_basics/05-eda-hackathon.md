@@ -43,3 +43,10 @@ Mathias is Head of Data & Analytics & IT at SMS (Scandinavian Medical Solutions)
 Data Analyst Co-op @ Schneider Electric, Boston US
 
 Karolina currently works as a data analyst at Schneider Electric. She's also been chosen as a Tableau Student Ambassador for the upcoming academic year. In her free time, she likes to participate in data visualization challenges.
+
+
+![](/ds22/images/david.jpg?height=200px)
+**David Jan Lazar**
+Data Scientist at DataSentics, an Atos Company.
+
+David has completed a Social Data Science semester at Aalborg University and a Masters Degree from Business Intelligence at Aarhus University. He works as a data scientist at DataSentics, a consulting firm that provides business solutions based on machine learning in areas of business, finance, insurance, natural language processing, computer vision and more.  
