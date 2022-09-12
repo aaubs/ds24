@@ -5,8 +5,7 @@ disableToc: true
 draft: false
 ---
 
-{{% notice tip %}}  Theory part is general, Python application part hands-on and language specific.
-{{% /notice %}}
+![](/ds22/images/corgi_color1.png)
 
 This session is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be "old news", but many will certainly benefit from reviewing this material. We start with a general theory lecture on data structures and properties, and then dive into Python specific applications of statistical programming.
 
@@ -22,6 +21,14 @@ This session is a basic introduction to statistical programming as well as a sho
 
 * [Notebook: Python DS Handbook, C.2-3 exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-ex.ipynb)
 
+* [Notebook: Pandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises.ipynb)
+
+Here, you will find the answers to the exercises:
+
+* [Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)
+
+* [Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises-solutions.ipynb)
+
 <!---
 * [Python DS Handbook, C.2-3 answers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-answers.ipynb)
 --->
@@ -36,7 +43,11 @@ This session is a basic introduction to statistical programming as well as a sho
 * [Python fo Data Science Handbook (VanderPlas, 2016), Chapter 2-3](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Further resources
+<<<<<<< HEAD:content/m1/02_basics/01_stat_prog.md
 * x
+=======
+
+>>>>>>> bce35387d9d3934a6592de313b94d94af1350206:content/m1/01_basics/01_stat_prog.md
 
 
 
