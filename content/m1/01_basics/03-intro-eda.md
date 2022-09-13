@@ -15,7 +15,7 @@ In this session we will be trying out some of the techniques already learned on 
 In this notebook we will be using data from AirBnb for some basic EDA and geoplotting
 
 * [EDA and Geoviz starter](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-starter.ipynb)
-* [EDA and Geoviz class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-class.ipynb.ipynb)
+* [EDA and Geoviz class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-class.ipynb)
 
 ## Part 2: Kaggle
 
