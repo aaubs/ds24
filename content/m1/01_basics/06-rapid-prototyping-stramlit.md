@@ -203,7 +203,7 @@ pandas
 
 
 `requirements.txt`
-{{%expand "Weekly to do" %}}
+{{%expand "Expand to see code..." %}}
 ```txt
 pydeck
 numpy
@@ -213,7 +213,7 @@ altair
 {{% /expand%}}
 
 `app.py`
-{{%expand "Weekly to do" %}}
+{{%expand "Expand to see code..." %}}
 ```python
 
 #imports
