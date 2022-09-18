@@ -15,7 +15,7 @@ Machines can only understand numbers. To perform ML algorithms on text and multi
 
 We will focus on understanding the mathematics behind ML algorithms in two dimensions. This tutorial will provide you with an overview of how machine learning algorithms work when applied to higher-dimensional data.
 
-
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Math.jpeg)
 
 ## Part 1: Vectors
 
