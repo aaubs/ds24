@@ -7,8 +7,7 @@ draft: false
 
 ## How does Math help us?
 
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Math.png" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![](/ds22/images/corgi_color1.png)
 
 Machines can only understand numbers. To perform ML algorithms on text and multimedia, they need to be stored in vectors, matrices, and tensors. Text, for example, can be represented as a vector with 768 dimensions. Linear Algebra is used to manipulate vectors, matrices, and tensors. 
 
