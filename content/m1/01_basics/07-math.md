@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-## Why do we need Math?
+## How does Math help us?
 
 Machines can only understand numbers. To perform ML algorithms on text and multimedia, they need to be stored in vectors, matrices, and tensors. Text, for example, can be represented as a vector with 768 dimensions. Linear Algebra is used to manipulate vectors, matrices, and tensors. 
 
