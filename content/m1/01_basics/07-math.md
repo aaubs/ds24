@@ -21,3 +21,8 @@ We will focus on understanding the mathematics behind ML algorithms in two dimen
 
 * [Notebook: Vectors - Definition, Properties, Types, and Applications](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Linear-Algebra-Vectors-V4.ipynb)
 * [Notebook: Vectors - Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/%20M1-Linear-Algebra-Vectors-V4-Exercises.ipynb)
+
+## Part 2: Matrices
+
+* [Notebook: Matrices - Definition, Properties, Types, and Applications](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Linear-Algebra-Matrices-V4.ipynb)
+* [Notebook: Matrices - Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Linear-Algebra-Matrices-V4-Exercises.ipynb)
