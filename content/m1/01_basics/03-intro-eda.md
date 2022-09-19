@@ -35,6 +35,7 @@ In this notebook we will be learning how to work with data from Kaggle as well a
 Using GeoPandas to analyze geospatial data will be our focus in this notebook.
 
 * [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Part1.ipynb)
+* [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Exercises.ipynb)
 
 **This is how you can preprocess the GeoCoordinates from the JSON file:**
 
