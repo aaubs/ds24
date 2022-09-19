@@ -9,7 +9,7 @@ draft: false
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Math-ML.jpeg)
 
-Machines can only understand numbers. To perform ML algorithms on text and multimedia, they need to be stored in vectors, matrices, and tensors. Text, for example, can be represented as a vector with 768 dimensions. Linear Algebra is used to manipulate vectors, matrices, and tensors. 
+Machines can only understand numbers. For instance, to perform ML algorithms on text and multimedia, they need to be stored in vectors, matrices, and tensors. An example would be the representation of text as a vector of 768 dimensions. Using linear algebra, you can manipulate vectors, matrices, and tensors.
 
 
 
