@@ -30,13 +30,6 @@ In this notebook we will be learning how to work with data from Kaggle as well a
 * [Course: Python DS toolbox 1](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-1) & [Course: Python DS toolbox 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2)
 * [Opendata.dk](https://admin.opendata.dk) - build a map of different attractions in Aalborg based on public data. See preprocessing example - how to get data out of nested JSON - below:
 
-### Introduction to GeoPandas
-
-Using GeoPandas to analyze geospatial data will be our focus in this notebook.
-
-* [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Part1.ipynb)
-* [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Exercises.ipynb)
-
 **This is how you can preprocess the GeoCoordinates from the JSON file:**
 
 ```python
@@ -64,3 +57,9 @@ data['latitude'] = [x['Latitude'] for x in data['GeoCoordinate']]
 data['longitude'] = [x['Longitude'] for x in data['GeoCoordinate']]
 ````
 
+### Introduction to GeoPandas
+
+Using GeoPandas to analyze geospatial data will be our focus in this notebook.
+
+* [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Part1.ipynb)
+* [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Exercises.ipynb)
