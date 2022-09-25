@@ -12,18 +12,18 @@ In this workshop we are going to learn about recommender systems as a type of UM
 Such systems are probably the most widely used and commercialy valuable form of AI today. Specifically we will be looking into collaborative filtering and matrix factorization.
 
 ## Plan for today
-    * Collaborative filtering / SVD recommender using Nomadlist Trips-data in a Notebooks
-    * Streamlit recommender-app
+* Collaborative filtering / SVD recommender using Nomadlist Trips-data in a Notebooks
+* Streamlit recommender-app
 
 ## Notebook(s)
-    * [{{< awesome fas fa-laptop-code >}} Uncommented code-snippet notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-recommender-nomadlis.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Uncommented code-snippet notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-recommender-nomadlis.ipynb)
 
 ## Recommended Readings and resources
-    * This excellent [PyData Talk](https://youtu.be/EgE0DUrYmo8) by the developer of LightFM
+* This excellent [PyData Talk](https://youtu.be/EgE0DUrYmo8) by the developer of LightFM
 
 ## Recommended Datacamp exercises:
-   * [Beginner Tutorial](https://www.datacamp.com/tutorial/recommender-systems-python)
-   * [RecSys-Course](https://www.datacamp.com/courses/building-recommendation-engines-in-python) 
+* [Beginner Tutorial](https://www.datacamp.com/tutorial/recommender-systems-python)
+* [RecSys-Course](https://www.datacamp.com/courses/building-recommendation-engines-in-python) 
 
 
 <!-- 
