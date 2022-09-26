@@ -18,6 +18,10 @@ Such systems are probably the most widely used and commercialy valuable form of 
 ## Notebook(s)
 * [{{< awesome fas fa-laptop-code >}} Uncommented code-snippet notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-recommender-nomadlis.ipynb)
 
+## App
+* [source code for the app](/ds22/apps/nomadrecommender.zip)
+* [deployed recommender app](https://rjuro-streamlit-nomad-recommender-app-recommender-b2qt3y.streamlitapp.com/)
+
 ## Recommended Readings and resources
 * This excellent [PyData Talk](https://youtu.be/EgE0DUrYmo8) by the developer of LightFM
 
