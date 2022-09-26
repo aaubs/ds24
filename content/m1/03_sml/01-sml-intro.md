@@ -14,7 +14,10 @@ This session introduces supervised machine learning (SML)
 ## Recommended Datacamp exercises:
    * [Python - Intro to supervised learning](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)
    * [Python - Decision Tree modeling](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
-
+   * [Python - SML Preprocessing](https://app.datacamp.com/learn/courses/preprocessing-for-machine-learning-in-python)
+   * [Python - SML Feature Engineering](https://app.datacamp.com/learn/courses/preprocessing-for-machine-learning-in-python](https://app.datacamp.com/learn/courses/feature-engineering-for-machine-learning-in-python)
+   * [Python - SML Model validation]([https://app.datacamp.com/learn/courses/preprocessing-for-machine-learning-in-python](https://app.datacamp.com/learn/courses/model-validation-in-python))  
+   
 ## Recommended Readings and resources
 * [Python Data Science Handbook Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
