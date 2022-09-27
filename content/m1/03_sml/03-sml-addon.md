@@ -1,6 +1,6 @@
 ---
 title: "SML - Further topics"
-weight: 2
+weight: 3
 disableToc: true
 ---
 
@@ -12,8 +12,6 @@ This session introduces adittional topics of intertest in SML
 -   [{{< awesome fas fa-laptop-code >}} Introduction to Explainable ML](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_Explainable_ML.ipynb)
 
 ## Recommended Datacamp exercises:
-
-Explainable ML
 
 -   ...
 
