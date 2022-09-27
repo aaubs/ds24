@@ -15,7 +15,6 @@ This session introduces to time series analysis and forecasting
 
 ## Recommended Datacamp exercises:
 
-Time Series
    * [Python - Time Series Analysis](https://app.datacamp.com/learn/courses/time-series-analysis-in-python)
    * [Python - SML for Time Series Data](https://app.datacamp.com/learn/courses/machine-learning-for-time-series-data-in-python)
    
