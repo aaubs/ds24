@@ -4,7 +4,7 @@ weight: 2
 disableToc: true
 ---
 
-This session introduces Time Series Data and Forecasts
+This session introduces further topics of interest in supervised ML.
 
 
 ## Notebook(s)
