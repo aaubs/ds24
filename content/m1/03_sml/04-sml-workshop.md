@@ -19,7 +19,7 @@ In this workshop we will try to use SML, explainability methods and build an app
 
 ## App and repo
 * [{{< awesome fas fa-laptop-code >}} Streamlit App 🚀](https://rjuro-predict-airbnb-price-streamlit-predict-air-pjmcfb.streamlitapp.com/)
-* [{{< awesome fa fa-github >}} App Repo](https://github.com/RJuro/predict-airbnb-price-streamlit)
+* [{{< awesome fab fa-github >}} App Repo](https://github.com/RJuro/predict-airbnb-price-streamlit)
 
 <!-- 
 ## App
