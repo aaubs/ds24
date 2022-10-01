@@ -22,7 +22,7 @@ In this workshop we will try to use SML, explainability methods and build an app
 * [{{< awesome fab fa-github >}} App Repo](https://github.com/RJuro/predict-airbnb-price-streamlit)
 
 ## The App Embedded...
-<div style="position: relative; padding-bottom: 100%; height: 0;"><iframe src="https://rjuro-predict-airbnb-price-streamlit-predict-air-pjmcfb.streamlitapp.com?embed=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 140%; height: 0;"><iframe src="https://rjuro-predict-airbnb-price-streamlit-predict-air-pjmcfb.streamlitapp.com?embed=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- 
 ## App
