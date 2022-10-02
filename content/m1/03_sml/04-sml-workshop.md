@@ -10,8 +10,6 @@ Unsplash.com @febiyanr
 
 In this workshop we will try to use SML, explainability methods and build an app on top of that 😵
 
-## Plan for today
-* 
 
 ## Notebook(s)
 * [{{< awesome fas fa-laptop-code >}} Model Training NB](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-new-room-on-airbnb-dev.ipynb)
@@ -23,6 +21,10 @@ In this workshop we will try to use SML, explainability methods and build an app
 
 ## The App Embedded...
 <div style="position: relative; padding-bottom: 140%; height: 0;"><iframe src="https://rjuro-predict-airbnb-price-streamlit-predict-air-pjmcfb.streamlitapp.com?embed=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+## uCloud vs Streamlit vs ML tutorial
+
+{{< loom 3515e14002814444bd21cc6966fdfe8d>}}
 
 <!-- 
 ## App
