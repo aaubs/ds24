@@ -13,7 +13,7 @@ This session introduces basic concepts of network theory and analysis.
    
 ## Notebooks
 
-* [Basics Network Analysis]()
+* [Basics Network Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb)
 
 
 ## Slides
