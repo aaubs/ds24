@@ -75,12 +75,10 @@ C: Relational Characteristics: Answer the following questions:
 
 Everything goes. Show us some pretty and informative plots. Choose what to plot, and how, on your own. Interpret the results and share some insights.
 
+### Solution
 
-<!---
-## Solutions
-* R team [:::: HERE ::::](https://sds-aau.github.io/SDS-master/M2/exercises/nw_assignment_solution.nb.html)
-* Py team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/Solution_M2_A1.ipynb)
---->
+*  [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/Solution_M2_A1.ipynb)
+
 
 # Exercise 2: Crime Network
 
