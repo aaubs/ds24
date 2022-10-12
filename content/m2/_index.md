@@ -20,15 +20,3 @@ Click on the **to do** for the week to see what you should do to keep up with th
 * W 44: Advanced Applications in Network and Text Analysis
 * W 45: Project work + exam
 
-
-<!---
-{{%expand "Weekly to do" %}}
-- [X] **Continue with the Course material** (Datacamp, recommended but not mandatorye)
-   * [Python: UML](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
-   * [R: UML](https://learn.datacamp.com/courses/unsupervised-learning-in-r)
-- [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
-   * [Unsupervised ML]({{< ref "m1/03_ml/01_UML.md" >}})
-- [X] **2nd Workshop**
-- [X] **2nd Peergrade Assignment**
-{{% /expand%}}
---->
