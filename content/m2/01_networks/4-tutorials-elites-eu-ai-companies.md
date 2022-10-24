@@ -47,6 +47,8 @@ This is a typical network structure, which can be explored to answer following q
 - Are there prominent suppliers / customers?
 - Are there clusters or other agglomerations?
 
+Before venturing into analysis, you will have to prepare the data (filter, clean up etc.)
+
 We've prepared a starter notebook for you to get started: [👉 Starter EU AI companies](https://colab.research.google.com/github/aaubs/ds-master/blob/master/notebooks/M2_mapping_european_ai.ipynb)
 
 <!--
