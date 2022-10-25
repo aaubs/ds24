@@ -51,11 +51,12 @@ Before venturing into analysis, you will have to prepare the data (filter, clean
 
 We've prepared a starter notebook for you to get started: [👉 Starter EU AI companies](https://colab.research.google.com/github/aaubs/ds-master/blob/master/notebooks/M2_mapping_european_ai.ipynb)
 
-<!--
+
 ## Notebooks
 
 * [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai.ipynb)
 * [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
-* [Python Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
 
+<!--
+* [Python Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
 -->
