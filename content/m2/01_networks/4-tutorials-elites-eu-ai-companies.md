@@ -55,7 +55,14 @@ We've prepared a starter notebook for you to get started: [👉 Starter EU AI co
 ## Notebooks
 
 * [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai.ipynb)
+* [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai-class.ipynb)
 * [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+
+
+## Resources
+
+* https://gephi.org/ - Gephi: "Photoshop for networks"
+* [Mapping Controversies](https://jacomyma.github.io/mapping-controversies/)
 
 <!--
 * [Python Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
