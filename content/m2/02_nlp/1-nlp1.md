@@ -53,4 +53,4 @@ The best-reported results for this dataset are.
 
 This notebook contains an extended solution.
 
-* [Hate Speech Detection](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb)
+* [Hate Speech Detection](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-hatespeech-nlp-explainer-tm.ipynb)
