@@ -70,3 +70,9 @@ Yes, we are going back in time to the Presidential Debate in the US 2020 - the t
 
 Both datasets are in JSON format.
 Task: Build a classifier that can distinguish Dem/Rep tweets. Bonus: 1. Explore discussed topics; 2. find out what drives predictions.
+
+## Notebook
+
+In-class-solution and add-ons (TM)
+
+* [Political Tweets Prediction](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-pol_tweets_workshop.ipynb)
