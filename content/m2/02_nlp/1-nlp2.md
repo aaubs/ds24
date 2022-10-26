@@ -14,7 +14,7 @@ This session will continue with statistical NLP techniques in a "less guided fas
 
 - Finish up political tweets (dem/rep classifier)
 - Vectorization, distance and similarity for text (maybe even Word2Vec)
-- What research is published at AAUBS? (Scopus + Topic Models)
+- What research is published at AAUBS? (Scopus + Topic Models) - Hamid takes over.
 
 ### Homework
 - Finish up reseach topic modeling
