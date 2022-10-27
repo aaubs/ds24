@@ -20,7 +20,7 @@ This session will continue with statistical NLP techniques in a "less guided fas
 - Finish up reseach topic modeling
 - Turning it into an app... (build & deploy a text classifier app - template code below)
 - Can you beat the score? 🎃🎃🎃 [Spooky NLP](https://www.kaggle.com/competitions/spooky-author-identification)
-```- Spooky Author Identification [Spooky NLP Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_spookyauthor_identification_nlp_explainer_tm_v2.ipynb)```
+- Spooky Author Identification [Spooky NLP Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_spookyauthor_identification_nlp_explainer_tm_v2.ipynb)
 
 ```python
 import streamlit as st
