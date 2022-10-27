@@ -14,13 +14,13 @@ This session will continue with statistical NLP techniques in a "less guided fas
 
 - Finish up political tweets (dem/rep classifier)
 - Vectorization, distance and similarity for text (maybe even Word2Vec)
-- What research is published at AAUBS? (Scopus + Topic Models) - Hamid takes over.
+- What research is published at AAUBS? (Scopus + Topic Models) - Hamid takes over. [Scopus Topic Models](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-scopus-AAUBS.ipynb)
 
 ### Homework
 - Finish up reseach topic modeling
 - Turning it into an app... (build & deploy a text classifier app - template code below)
 - Can you beat the score? 🎃🎃🎃 [Spooky NLP](https://www.kaggle.com/competitions/spooky-author-identification)
-
+```- Spooky Author Identification [Spooky NLP Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_spookyauthor_identification_nlp_explainer_tm_v2.ipynb)```
 
 ```python
 import streamlit as st
