@@ -14,7 +14,7 @@ We will also explore approaches to representing text using pretrained vectors.
 
 By the way: Embeddings can also be used non-sequential inputs. Here a cool project where recipes are used to create food-vectors: [Food2Vec](https://jaan.io/food2vec-augmented-cooking-machine-intelligence/
 )
-<div style="position: relative; padding-bottom: 140%; height: 0;"><iframe src="https://jaan.io/files/food2vec_food_embeddings_tsne.html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 800; height: 500;"></iframe></div>
+<div style="position: relative; padding-bottom: 0; height: 0;"><iframe src="https://jaan.io/files/food2vec_food_embeddings_tsne.html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 We are actually also going to work with food related data...
 
