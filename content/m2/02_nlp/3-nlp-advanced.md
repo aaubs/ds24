@@ -20,7 +20,7 @@ Modern bots are more complex. They evaluate the whole (or large parts of the) di
 
 The iput data looks like this:
 
-👉{{%expand "Expand to see JSON..." %}}
+{{%expand "👉 Expand to see JSON..." %}}
 ```json
 {
   "intents": [
