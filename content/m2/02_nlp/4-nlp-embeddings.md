@@ -22,4 +22,4 @@ We are actually also going to work with food related data...
 
 ## Notebook
 
-[{{< awesome fas fa-laptop-code >}} Training Chatbot](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-training-word-vectors.ipynb)
+[{{< awesome fas fa-laptop-code >}} Training WordVectors](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-training-word-vectors.ipynb)
