@@ -1,5 +1,5 @@
 ---
-title: "NLP Word Embeddings"
+title: "NLP Word Vectors"
 weight: 4
 disableToc: true
 draft: false
