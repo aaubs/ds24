@@ -3,7 +3,7 @@ title:  Applied Deep Learning and Artificial Intelligence
 weight: 4
 pre: "<b>4. </b>"
 chapter: false
-draft: true
+draft: false
 ---
 
 ## M4 - Applied Deep Learning and Artificial Intelligence
@@ -15,14 +15,14 @@ Throughout the course, we will apply transformers to real-world business problem
 Likewise, we will use real-world business examples to illustrate the concepts and techniques covered in the lectures. By the end of the course, students will have a solid understanding of deep learning and its current applications in business.
 We will have frequent opportunities to work in groups on four mini-projects. These projects will involve applying the concepts and techniques learned in the lectures to real-world business examples. The goal of these projects is to give you hands-on experience with deep learning and help them build a portfolio of work to showcase your skills..
 
-## Content by week for this module
+## Content for this module
 
 {{% notice note %}}
 Click on the **to do** for the week to see what you should do to keep up with the module
 {{% /notice %}}
 
-* W 41: Introduction to Network Analysis
-* W 43: Introduction to Natural-Language-Processing (NLP)
-* W 44: Advanced Applications in Network and Text Analysis
-* W 45: Project work + exam
+* Part 1: Intro to Deep Learning
+* Part 2: Traditional neural network architectures
+* Part 3: Intro to transformer models
+* Part 4: Training and publishing transformer models
 
