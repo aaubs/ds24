@@ -25,6 +25,8 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 
 ### Tasks
 
+* First step: We will create a simple Artificial Neural Network with 1 node and training with 1 sample of data 
+* Second step: The simple Artificial Neural Network will be trained through the dataset
 
 
 
