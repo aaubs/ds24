@@ -11,47 +11,22 @@ In this session, you will review PyTorch and learn how to train, infer, and eval
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Auto-Insurance.jpeg)
 
-> Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. [read more](https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite)
-
-In this project we are going to construct and explore a network of Danish power elites derived from boards of various organisations in th country.
-We will construct an association network: Who is being in the same board? And first explore "basic" centrality indicators. Then identify communities and central persons within those. Finally we look at some "fancier" interactive network visualisation.
+> Swedish Committee on Analysis of Risk Premium in Motor Insurance. [read more](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/slr06.html)
 
 
-### Context: The Danish Power Elites
+### Overview
 
-* [Antons PhD Thesis](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
-* [Brief Summary of findings (CBS)](https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite)
-* [Journal Paper in Sociology](https://journals.sagepub.com/doi/abs/10.1177/0038038512454349)
-* More to be found with googleling...
+In the dataset:
 
-### Data
+X = number of claims
+Y = total payment for all the claims in thousands of Swedish Kronor
+for geographical zones in Sweden
 
-* [Github (R Repository)](https://github.com/antongrau/eliter)
-* [Magteliten website](https://magtelite.dk/data/)
-* Or, easier... on [our github](https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv)
+Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 
 ### Tasks
 
-* Who are the most central persons?
-* Communities?
-* What characterizes them?
-* Link up with additional data?
 
-
-## European AI Companies
-
-![](https://source.unsplash.com/9SoCnyQmkzI) 
-
-The [European AI Startup Landscape](https://www.ai-startups-europe.eu/) is a project that collects and catalogues AI-related startups in 5 European countries. We created a dataset based on webpages in the catalogue. In this data, we collected all URLs these companies link to on their websites.
-This is a typical network structure, which can be explored to answer following questions:
-
-- Which companies are most central players?
-- Are there prominent suppliers / customers?
-- Are there clusters or other agglomerations?
-
-Before venturing into analysis, you will have to prepare the data (filter, clean up etc.)
-
-We've prepared a starter notebook for you to get started: [👉 Starter EU AI companies](https://colab.research.google.com/github/aaubs/ds-master/blob/master/notebooks/M2_mapping_european_ai.ipynb)
 
 
 ## Notebooks
