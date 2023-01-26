@@ -6,7 +6,7 @@ chapter: false
 draft: true
 ---
 
-## M2 - Network Analysis & NLP
+## M4 - Applied Deep Learning and Artificial Intelligence
 
 This course is an applied introduction to deep learning for business students. We will cover the basics of deep learning, including its foundations, tensors, typical architectures, and applications. We will also discuss the different training paradigms and tooling used in deep learning.
 In the first half of the course, we will focus on different classical neural network architectures, including artificial neural networks (ANNs), convolutional neural networks (CNNs), recurrent neural networks (RNNs), and long short-term memory (LSTM) networks.
