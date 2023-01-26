@@ -18,9 +18,8 @@ In this session, you will review PyTorch and learn how to train, infer, and eval
 
 In the dataset:
 
-X = number of claims
-Y = total payment for all the claims in thousands of Swedish Kronor
-for geographical zones in Sweden
+* X = number of claims
+* Y = total payment for all the claims in thousands of Swedish Kronor for geographical zones in Sweden
 
 Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 
@@ -31,15 +30,15 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 
 ## Notebooks
 
-* [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai.ipynb)
-* [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai-class.ipynb)
-* [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+* [Implementing Simple ANN using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch.ipynb)
+* [Implementing Simple ANN using PyTorch - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
+
 
 
 ## Resources
 
-* https://gephi.org/ - Gephi: "Photoshop for networks"
-* [Mapping Controversies](https://jacomyma.github.io/mapping-controversies/)
+* [PyTorch](https://pytorch.org/docs/stable/nn.html)
+* [PyTorch NN Linear](https://www.sharetechnote.com/html/Python_PyTorch_nn_Linear_01.html)
 
 <!--
 * [Python Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
