@@ -2,7 +2,7 @@
 title: "Basics Deep Learning"
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 
