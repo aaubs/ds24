@@ -2,7 +2,7 @@
 title: "NW Exercises"
 weight: 2
 disableToc: true
-draft: tfalserue
+draft: true
 ---
 
 # Exercise 1: Manager Networks
