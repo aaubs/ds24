@@ -19,10 +19,10 @@ Using a dataset of your choice from the first semester, build and train an ANN. 
 
 ## Tasks
 
-### 1. Create a network
+### 1. 
 
 
 
-### 2. Analysis
+### 2. 
 
 Make a little analysis on:
