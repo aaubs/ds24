@@ -1,6 +1,6 @@
 ---
 title: "Exercise Session 1"
-weight: 4
+weight: 3
 disableToc: true
 draft: false
 ---
@@ -9,7 +9,7 @@ In this session, you will review PyTorch and learn how to train, infer, and eval
 
 ## Auto Insurance in Sweden
 
-![](https://github.com/aaubs/ds-master/blob/main/data/Images/Auto-Insurance.jpeg)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Auto-Insurance.jpeg)
 
 > Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. [read more](https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite)
 
