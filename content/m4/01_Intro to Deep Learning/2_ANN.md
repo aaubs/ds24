@@ -1,18 +1,18 @@
 ---
-title: 2 Mode Networks
+title: Neural network architectures
 weight: 2
 disableToc: true
 draft: true
 ---
 
-This session introduces to multimodel (2+) network analysis concepts.
+In this session, we will introduce you to artificial neural networks (ANNs) and show how they can be used to solve various business problems. We will also discuss the different types of ANNs and their strengths and weaknesses.
 
 * [X] **Recommended Datacamp exercises:**
-   * [Intermediate Network Analysis in Python](https://app.datacamp.com/learn/courses/intermediate-network-analysis-in-python) 
+   * []() 
 
 ## Notebooks
 
-* [2-Mode Networks](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s3-nw-2mode.ipynb)
+* [Neural network architectures]()
 
 
 

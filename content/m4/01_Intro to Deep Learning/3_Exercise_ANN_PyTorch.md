@@ -1,13 +1,15 @@
 ---
-title: "NW Cases"
+title: "Exercise Session 1"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 ---
 
-## Danish Power Elites
+In this session, you will review PyTorch and learn how to train, infer, and evaluate a simple ANN.
 
-![](https://source.unsplash.com/GWe0dlVD9e0)
+## Auto Insurance in Sweden
+
+![](https://github.com/aaubs/ds-master/blob/main/data/Images/Auto-Insurance.jpeg)
 
 > Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. [read more](https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite)
 
