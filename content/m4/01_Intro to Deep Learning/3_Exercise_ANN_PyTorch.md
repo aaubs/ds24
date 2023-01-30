@@ -2,7 +2,7 @@
 title: "Exercise Session 1"
 weight: 3
 disableToc: true
-draft: true
+draft: false
 ---
 
 In this session, you will review PyTorch and learn how to train, infer, and evaluate a simple ANN.
