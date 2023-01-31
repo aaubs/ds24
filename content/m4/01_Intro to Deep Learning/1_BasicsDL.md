@@ -17,9 +17,15 @@ Literature: LeCun, Y., Bengio, Y., & Hinton, G. (2015)
 
 
 
+
 ## Slides
 
-  Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides]()
+  Use arrows keys on keyboard to navigate. Alternatively use fullscreen slides [part I](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) and [part II](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html)
     
-  {{< IncludeSlides "" >}}
+### Slides I
 
+{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html" >}}
+
+## Slides 2
+
+{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html" >}}
