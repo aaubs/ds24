@@ -6,14 +6,16 @@ draft: false
 ---
 
 
-Introduction to deep learning. This session will cover the basics of deep learning, including its history, important concepts, and applications. We will review model architectures and parameters, including the loss function and optimizer. We will also cover training regimes and the basics of gradient descent and backpropagation.
+* This session will cover the basics of deep learning, including its history, important concepts, and applications. 
+* We will review model architectures and parameters, including the loss function and optimizer. 
+* We will also cover training regimes and the basics of gradient descent and backpropagation.
 
 Literature: LeCun, Y., Bengio, Y., & Hinton, G. (2015)
 
    
 ## Notebooks
 
-* [Basics Deep Learning]()
+* [Basics Deep Learning](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro.ipynb)
 
 
 
