@@ -10,24 +10,10 @@ draft: false
 * We will review model architectures and parameters, including the loss function and optimizer. 
 * We will also cover training regimes and the basics of gradient descent and backpropagation.
 
-Literature: LeCun, Y., Bengio, Y., & Hinton, G. (2015)
-
-   
-## Notebooks
-
-* [Basics Deep Learning](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro.ipynb)
-
-
-
-
 ## Slides
 
-  Use arrows keys on keyboard to navigate. Alternatively use fullscreen slides [part I](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) and [part II](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html)
-    
-### Slides I
+  Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html).
 
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html" >}}
+{{< IncludeSlides "https://aaubs.github.io/ds-master/slides/M4_1_ANN_intro.html" >}}
 
-## Slides 2
 
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html" >}}

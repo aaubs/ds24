@@ -33,8 +33,10 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 ## Notebooks
 
 * [Implementing Simple ANN using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch.ipynb)
-* [Implementing Simple ANN using PyTorch - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
 
+<!---
+* [Implementing Simple ANN using PyTorch - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
+--->
 
 
 ## Resources
@@ -42,6 +44,3 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 * [PyTorch](https://pytorch.org/docs/stable/nn.html)
 * [PyTorch NN Linear](https://www.sharetechnote.com/html/Python_PyTorch_nn_Linear_01.html)
 
-<!--
-* [Python Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
--->
