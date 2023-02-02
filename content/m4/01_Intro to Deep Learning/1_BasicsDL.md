@@ -15,19 +15,19 @@ Literature: LeCun, Y., Bengio, Y., & Hinton, G. (2015)
    
 ## Notebooks
 
-* [Basics Deep Learning](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro.ipynb)
+* [Basics Deep Learning](https://colab.research.google.com/github/aaubs/ds-master/blob/main/slides/M4_1_ANN_intro.html)
 
 
 
 
 ## Slides
 
-  Use arrows keys on keyboard to navigate. Alternatively use fullscreen slides [part I](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) and [part II](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html)
+  Use arrows keys on keyboard to navigate. Alternatively use fullscreen slides [part I](https://sds-aau.github.io/SDS-master/slides/M4_2_ANN_learning.html) and [part II](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html)
     
 ### Slides I
 
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html" >}}
+{{< IncludeSlides "https://sds-aau.github.io/SDS-master/slides/M4_1_ANN_intro.html" >}}
 
 ## Slides 2
 
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html" >}}
+{{< IncludeSlides "https://sds-aau.github.io/SDS-master/slides/M4_2_ANN_learning.html" >}}
