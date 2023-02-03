@@ -2,27 +2,30 @@
 title: "Group assignment 1"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 ---
 
-Using a dataset of your choice from the first semester, build and train an ANN. Evaluate. Use gradio to build a simple interactive demo (in the notebook).
-
-# Exercise 1: 
+# Portfolio Exercise 1: 
 
 ## Introduction
 
+## Task 
 
-## Data: What do I get?
+* Build, train, and evaluate a neural network with Pytorch. 
+* It should have minimum 2 hidden layers
+* Experiment with at least 5 different variations of hyperparameters (n layers / neurons, activation function, epochs, optimizers, learning rate etc.).
+* Use gradio to build a simple interactive demo (in the notebook).
 
-### Background
+## Data
+
+* Self choosen dataset from the M1 module last semester.
+
+## Delivery
+
+* Create a github repository
+* Save colab notebook in the github.
+* Provide a readme.md with brief description.
+* Submission can be in groups up to 3.
+* Submit by sending an email with link to repo to Hamid (hamidb@business.aau.dk) with Daniel & Roman in cc. (dsh@..., roman@...)
 
 
-## Tasks
-
-### 1. 
-
-
-
-### 2. 
-
-Make a little analysis on:
