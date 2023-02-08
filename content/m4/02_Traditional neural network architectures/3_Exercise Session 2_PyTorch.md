@@ -19,7 +19,7 @@ Headquartered in the Starbucks Center, the company was founded in 1971 by Jerry 
 * First step: We will create RNNs and LSTMs 
 * Second step: RNNs and LSTMs will be trained through the dataset
 
-
+<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/LSTM_dynamic.gif" width="20">
 
 ## Notebooks
 
