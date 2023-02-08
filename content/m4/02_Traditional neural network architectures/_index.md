@@ -7,7 +7,7 @@ draft: false
 
 The purpose of this chapter is to introduce you to the various types of traditional deep learning, including CNNs, RNNs, and LSTMs, along with their histories, key concepts, and applications.
 
-<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/LSTMRNNCNN.jpg" width="100">
+<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/LSTMRNNCNN.jpg" width="20">
 
 In this course, we will focus on different classical neural network architectures, including artificial neural networks (ANNs), convolutional neural networks (CNNs), recurrent neural networks (RNNs), and long short-term memory (LSTM) networks.
 
