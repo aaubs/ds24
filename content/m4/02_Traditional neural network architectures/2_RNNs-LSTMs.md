@@ -9,10 +9,8 @@ In this session, we will introduce students to recurrent neural networks (RNNs) 
 
 <img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/rnn_timestamps.gif" width="20">
    
-## Notebooks
+## Slides
 
-Here you will find the notebooks for this session:
 
-* [Neural network architectures 3: RNNs](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/RNN_Tutorial.ipynb)
-* [Neural network architectures 3: LSTMs](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/LSTM_Tutorial.ipynb)
+
 
