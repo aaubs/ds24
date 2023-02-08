@@ -17,4 +17,9 @@ LeCun, Y., Bengio, Y., & Hinton, G. (2015)
 
 * [Neural network architectures 2: CNNs](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/CNN_lecture.ipynb)
 
+## Slides
+
+* [Neural network architectures 2: CNNs](aaubs.github.io/ds-master/slides/M4_3_CNN_lecture.pdf)
+
+
 
