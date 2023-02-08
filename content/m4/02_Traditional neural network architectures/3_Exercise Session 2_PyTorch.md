@@ -23,6 +23,8 @@ Headquartered in the Starbucks Center, the company was founded in 1971 by Jerry 
 
 ## Notebooks
 
+Here you will find the notebooks for this session:
+
 * [Implementing RNNs using PyTorch]()
 * [Implementing RNNs using PyTorch - Solution]()
 * [Implementing LSTMs using PyTorch]()
