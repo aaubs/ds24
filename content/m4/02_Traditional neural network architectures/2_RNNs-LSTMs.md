@@ -1,5 +1,5 @@
 ---
-title: "Neural network architectures 3: RNNs and LSTMs"
+title: "RNNs and LSTMs"
 weight: 2
 disableToc: true
 draft: false

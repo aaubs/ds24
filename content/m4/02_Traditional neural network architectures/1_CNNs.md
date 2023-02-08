@@ -1,5 +1,5 @@
 ---
-title: "Neural network architectures 2: CNNs"
+title: "CNNs"
 weight: 1
 disableToc: true
 draft: false

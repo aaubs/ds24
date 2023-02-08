@@ -1,5 +1,5 @@
 ---
-title: Intro to Deep Learning
+title: Neural network architectures
 weight: 3
 disableToc: true
 draft: false
