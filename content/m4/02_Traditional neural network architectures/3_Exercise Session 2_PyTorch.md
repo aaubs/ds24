@@ -25,9 +25,10 @@ Headquartered in the Starbucks Center, the company was founded in 1971 by Jerry 
 
 Here you will find the notebooks for this session:
 
-* [Implementing RNNs using PyTorch]()
-* [Implementing RNNs using PyTorch - Solution]()
-* [Implementing LSTMs using PyTorch]()
+* [Implementing RNNs using PyTorch](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_RNN_Tutorial.ipynb)
+* [Implementing RNNs using PyTorch - Exercise](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_RNN_Exercise_Seession_2.ipynb)
+* [Implementing LSTMs using PyTorch](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Tutorial.ipynb)
+* [Implementing LSTMs using PyTorch - Exercise](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Exercise_Seession_2.ipynb)
 * [Implementing LSTMs using PyTorch - Solution]()
 
 ## Resources
