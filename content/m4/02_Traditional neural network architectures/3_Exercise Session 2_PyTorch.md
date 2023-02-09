@@ -29,7 +29,7 @@ Here you will find the notebooks for this session:
 * [Implementing RNNs using PyTorch - Exercise](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_RNN_Exercise_Seession_2.ipynb)
 * [Implementing LSTMs using PyTorch](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Tutorial.ipynb)
 * [Implementing LSTMs using PyTorch - Exercise](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Exercise_Seession_2.ipynb)
-* [Implementing LSTMs using PyTorch - Solution]()
+* [Implementing LSTMs using PyTorch - Solution](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Exercise_Seession_2_Solution.ipynb)
 
 ## Resources
 
