@@ -1,6 +1,6 @@
 ---
 title: Neural network architectures
-weight: 3
+weight: 2
 disableToc: true
 draft: false
 ---
