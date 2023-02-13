@@ -31,7 +31,7 @@ Here you will find the notebooks for this session:
 * [Implementing LSTMs using PyTorch - Exercise](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Exercise_Seession_2.ipynb)
 * [Implementing LSTMs using PyTorch - Solution](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Exercise_Seession_2_Solution.ipynb)
 * [Implementing LSTMs using PyTorch - Text Generation](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_Character_Level_LSTM_PyTorch.ipynb)
-
+* [Implementing LSTMs using PyTorch - Text Generation with embeddings layer]()
 
 ## Resources
 
