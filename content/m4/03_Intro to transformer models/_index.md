@@ -8,7 +8,7 @@ draft: false
 The purpose of this chapter is to introduce you to transformer models, the core idea of attention, and milestone transformer architectures. We will also cover the tooling used in the transformer ecosystem, including libraries like sbert, transformers, and simpletransformers.
 
 
-<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/LSTMRNNCNN.jpg" width="20">
+<!-- <img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/LSTMRNNCNN.jpg" width="20"> -->
 
 Throughout the course, we will apply transformers to real-world business problems. This will include using sbert for sentence and image embedding, finetuning and inference of common transformer-based language models like BERT, and training timeseries transformers for time-sensitive business applications.
 
