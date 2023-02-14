@@ -1,13 +1,13 @@
 ---
-title: "RNNs and LSTMs"
+title: "Sentence-Transformers SBERT"
 weight: 2
 disableToc: true
-draft: True
+draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/rnn_timestamps.gif" width="20">
+![](https://source.unsplash.com/vuMTQj6aQQ0)
 
-In this session, we will introduce students to recurrent neural networks (RNNs) and long short-term memory (LSTM) networks. We will discuss the basics of RNNs and LSTMs, how they differ from other neural network architectures, and how they can be applied to business problems.
+In this session we will learn how to work with 
 
 ## Slides
 
