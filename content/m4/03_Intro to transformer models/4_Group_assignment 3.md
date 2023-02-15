@@ -1,45 +1,50 @@
 ---
-title: "Group assignment 2"
+title: "Group assignment 3"
 weight: 4
 disableToc: true
 draft: True
 ---
 
-# Portfolio Exercise 2: 
+# Portfolio Exercise 3: 
+
+![](/ds22/images/viz-corgi-nlp1.png)
 
 ## Introduction
 
 ## Task 
 
+Create something cool 🚀 using SBERT and semantic search or perhaps more?!
+That's a bit of a vague description but there are many options.
 
-* Build, train, and evaluate 2 special types of networks neural network with Pytorch. 
-  1. A CNN for a spatial prediction problem
-  2. A RNN or LSTM for a sequential problem
-* Experiment with at least 2 different variations of hyperparameters for each network.
-* Optional: Use gradio to build a simple interactive demo (in the notebook).
+- You are welcome to use images and CLIP
+- You can also use SetFit for supervised tasks with SBERT models.
 
-This should include:
+Here are some projects for inspiration:
 
-1. Feature selection and/or engineering (if necessary)
-3. SPreprocessing (if necessary)
-4. Train-test split.
-5. Defining a neural network architecture in putorch
-6. Define a training loop. 
-7. training the model.
-8. Try out different hyperparameters. 
-9. Evaluate the final model on the test data.
-10. Visualize results with Grad.io
+- [GIF search engine](https://www.pinecone.io/learn/gif-search/)
+- [Youtube search](https://www.pinecone.io/learn/youtube-search/)
+
+some more ideas:
+
+- get some podcast transcripts for a specific topic (or create transcripts with Whisper - search for OpenAI Whisper Colab)
+- Finetune an SBERT model using [domain adaptation](https://www.sbert.net/examples/domain_adaptation/README.html)
+- Embed and build a search engine
+- Build a Gradio app
+
+Feel free to choose any of these ideas or come up with your own. The goal is to use SBERT and semantic search (or other techniques) to create something interesting and useful.
+
 
 
 ## Data
 
-* 2 self choosen datasets not used in M4 so far.
-* One dataset on image or other spatial data, eg. the classical [MNIST dataset](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html)
-* One dataset on timeseries from last semesters [M1 timeseries forecast part](https://aaubs.github.io/ds22/m1/03_sml/02-sml-ts/), or [M2 text classification](https://aaubs.github.io/ds22/m2/02_nlp/1-nlp-intro-sml/).
+* 🤗 datasets
+* Kaggle
+* make your own
 
 ## Delivery
 
 * Create a github repository (or use the existing one and adapt it)
+* Create a Gradio demo of the model in inference mode
 * Save colab notebook in the github.
 * Provide a readme.md with brief description.
 * Submission can be in groups up to 3.
