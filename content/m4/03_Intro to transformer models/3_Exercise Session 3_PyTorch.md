@@ -39,17 +39,20 @@ The dataset used for this project consists of Tweets labeled as hate_speech, off
 Here you will find the notebooks for this session:
 
 
+### Core contents
+* [SetFit Hatespeech vs bert and distilroberta](https://colab.research.google.com/drive/16HQiC0prlNUABusajZN4Fp71op0e6YuR?usp=sharing)
 
-* [SetFit Hatespeech \& distilroberta](https://colab.research.google.com/drive/16HQiC0prlNUABusajZN4Fp71op0e6YuR?usp=sharing)
+* [SBERT for Patent Search using PatentSBERTa in PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PatentSBERTa_For_PatentSearch.ipynb)
+
+
+### Classification with various vectorization approaches
 * [TF-IDF and W2V Multi-Class Text Classification](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_TFIDF_W2V_multiclass_text_classification.ipynb)
 * [BERT Multi-Class Text Classification](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_BERT_multiclass_text_classification.ipynb)
 * [Implementing Multi-Class Text Classification LSTMs using PyTorch](https://colab.research.google.com/github/HamidBekamiri/ds-master/blob/main/notebooks/M4_LSTM_multiclass_text_classification_PyTorch_v1.ipynb)
-* [Implementing SBERT for Patent Search using PatentSBERTa in PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PatentSBERTa_For_PatentSearch.ipynb)
+
+
+
+### Add-on
 * [Implementing LSTMs using PyTorch - Text Generation](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_Character_Level_LSTM_PyTorch.ipynb)
 * [Basic LSTMs using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_Basic_LSTM_PyTorch.ipynb)
-
-## Resources
-
-* [PyTorch](https://pytorch.org/docs/stable/nn.html)
-* [PyTorch NN Linear](https://www.sharetechnote.com/html/Python_PyTorch_nn_Linear_01.html)
 
