@@ -43,7 +43,7 @@ Here you will find the notebooks for this session:
 * [SetFit Hatespeech & distilroberta]()
 * [TF-IDF and W2V Multi-Class Text Classification](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_TFIDF_W2V_multiclass_text_classification.ipynb)
 * [BERT Multi-Class Text Classification](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_BERT_multiclass_text_classification.ipynb)
-* [Implementing Multi-Class Text Classification LSTMs using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_LSTM_multiclass_text_classification_PyTorch_v1.ipynb)
+* [Implementing Multi-Class Text Classification LSTMs using PyTorch](https://colab.research.google.com/github/HamidBekamiri/ds-master/blob/main/notebooks/M4_LSTM_multiclass_text_classification_PyTorch_v1.ipynb)
 * [Implementing SBERT for Patent Search using PatentSBERTa in PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PatentSBERTa_For_PatentSearch.ipynb)
 * [Implementing LSTMs using PyTorch - Text Generation](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_Character_Level_LSTM_PyTorch.ipynb)
 * [Basic LSTMs using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_Basic_LSTM_PyTorch.ipynb)
