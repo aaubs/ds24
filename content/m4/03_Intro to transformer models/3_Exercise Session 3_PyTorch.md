@@ -30,7 +30,7 @@ The dataset used for this project consists of Tweets labeled as hate_speech, off
 
 ### Tasks
 
-* First step: The performance of Transformer models and traditional models for computing embeddings
+* First step: Performance comparison of Transformer models and traditional embedding models
 * Second step: SBERT for semantic similarity (Patent Search using PatentSBERTa)
 
 
