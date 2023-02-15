@@ -25,6 +25,9 @@ Sentence Transformers are a recent breakthrough in natural language processing t
 
 ## Slides
 
+{{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vRC0UpqCe7rDW_pqGPs4da76hjozk-Byz1k2tFlog0ZH1sMz3rsAN7cHZbWCwRVP5TsdfstRtK_OwnR/embed?start=false&loop=false&delayms=3000" >}}
 
 
+## Notebooks
 
+[Semantic Search](https://colab.research.google.com/drive/1vXF_h1j0XS7t6KKLeoWEI0Vcs3IsZC7Z?usp=sharing)
