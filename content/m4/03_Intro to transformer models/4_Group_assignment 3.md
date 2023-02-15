@@ -2,12 +2,12 @@
 title: "Group assignment 3"
 weight: 4
 disableToc: true
-draft: True
+draft: False
 ---
 
 # Portfolio Exercise 3: 
 
-![](/ds22/images/viz-corgi-nlp1.png)
+![](/ds22/images/nw_puppies.png)
 
 ## Introduction
 
