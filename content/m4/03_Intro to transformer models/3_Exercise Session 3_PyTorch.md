@@ -12,7 +12,7 @@ In this session, you will learn how to finetune SBERT embeddings and use them in
 
 ![](https://media.licdn.com/dms/image/C4D12AQGixW0ur9HJgg/article-cover_image-shrink_423_752/0/1520125944764?e=1681948800&v=beta&t=HGNUzbylZaCSKZBQy-ajyeUfL9oUAZv5plMLChAhfck)
 
-> Online hate speech on social media networks can influence hate violence and even crimes against a certain group of people in this digital age. According to FBI statistics, hate-related attacks on specific groups of people are at a 16-year high [1](https://www.nytimes.com/2019/11/12/us/hate-crimes-fbi-report.html). Due to this, there is a growing need to eradicate hate speech through automatic detection to reduce the burden on moderators Datasets were obtained from Reddit and a white supremacist forum, Gab, where human-labeled comments are classified as hate speech [2](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech). 
+> Online hate speech on social media networks can influence hate violence and even crimes against a certain group of people in this digital age. According to FBI statistics, hate-related attacks on specific groups of people are at a 16-year high [[1]](https://www.nytimes.com/2019/11/12/us/hate-crimes-fbi-report.html). Due to this, there is a growing need to eradicate hate speech through automatic detection to reduce the burden on moderators Datasets were obtained from Reddit and a white supremacist forum, Gab, where human-labeled comments are classified as hate speech [[2]](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech). 
 
 
 ### Overview
@@ -39,12 +39,11 @@ The dataset used for this project consists of Tweets labeled as hate_speech, off
 Here you will find the notebooks for this session:
 
 * [TF-IDF and W2V Multi-Class Text Classification](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_TFIDF_W2V_multiclass_text_classification.ipynb)
-* [Implementing RNNs using PyTorch - Exercise](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_RNN_Exercise_Seession_2.ipynb)
-* [Implementing LSTMs using PyTorch](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Tutorial.ipynb)
-* [Implementing LSTMs using PyTorch - Exercise](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Exercise_Seession_2.ipynb)
-* [Implementing LSTMs using PyTorch - Solution](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Exercise_Seession_2_Solution.ipynb)
+* [BERT Multi-Class Text Classification](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_BERT_multiclass_text_classification.ipynb)
+* [Implementing Multi-Class Text Classification LSTMs using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_LSTM_multiclass_text_classification_PyTorch_v1.ipynb)
+* [Implementing SBERT for Patent Search using PatentSBERTa in PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PatentSBERTa_For_PatentSearch.ipynb)
 * [Implementing LSTMs using PyTorch - Text Generation](https://github.com/aaubs/ds-master/blob/main/notebooks/M3_Character_Level_LSTM_PyTorch.ipynb)
-* [Implementing LSTMs using PyTorch - Text Generation with embeddings layer]()
+* [Basic LSTMs using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_Basic_LSTM_PyTorch.ipynb)
 
 ## Resources
 
