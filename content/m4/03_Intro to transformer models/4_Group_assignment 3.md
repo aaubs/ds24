@@ -7,7 +7,7 @@ draft: False
 
 # Portfolio Exercise 3: 
 
-![](/ds22/images/nw_puppies.png)
+![](/ds22/images/corgi_pups_neon.png)
 
 ## Introduction
 
