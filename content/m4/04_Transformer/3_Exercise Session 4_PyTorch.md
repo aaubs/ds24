@@ -42,13 +42,9 @@ pipe(['Du er en idiot!', 'Jeg er sulten!'])
 You can also deploy your fine-tuned Hugging Face model on Streamlit through the Hugging Face web interface. Here are the steps to do so:
 
 1. After uploading your fine-tuned Hugging Face model to the Hugging Face Model Hub, create a new space in your Hugging Face profile and enter the details for your app, including the name of your application.
-
-2. click "New space".
-
-3. Select "Streamlit" (or Gradio) as the deployment type.
-
+2. Select "Streamlit" (or Gradio) as the deployment type.
+3. click "New space".
 4. Upload your app.py and requirements.txt files to the Hugging Face web interface.
-
 5. Your app is automatically deployed.
 
 That's it! Your fine-tuned Hugging Face model is now deployed on Streamlit through the Hugging Face web interface and can be accessed using your app.
@@ -72,9 +68,10 @@ def classify(text):
 #Creating the Gradio interface with input textbox and output text
 gr.Interface(fn=classify, inputs=["textbox"], outputs="text").launch()
 ''''
+***Also we should upload requirements.txt file:***
 
 ```python
-# requirements.txt.py
+# requirements.txt
 transformers
 gradio
 torch
