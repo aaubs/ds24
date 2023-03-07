@@ -31,7 +31,7 @@ Finally, the code loads a pre-trained Danish emotion classification model using 
 #Defining the path to the trained model checkpoint on the Hugging Face Hub
 model_ckpt = 'Your Fine-Tuned HuggingFace Model'
 
-#Creating a pipeline for text classification using the fine-tuned model from the Hugging Face Hub
+#Creating a pipeline for example text classification using the fine-tuned model from the Hugging Face Hub
 pipe = pipeline('text-classification', model=model_ckpt)
 
 #Passing the Danish text examples to the pipeline and getting the predicted labels
