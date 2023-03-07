@@ -37,3 +37,18 @@ pipe = pipeline('text-classification', model=model_ckpt)
 #Passing the Danish text examples to the pipeline and getting the predicted labels
 pipe(['Du er en idiot!', 'Jeg er sulten!'])
 ````
+
+### How to deploy your fine-tuned model on HuggingFace
+You can also deploy your fine-tuned Hugging Face model on Streamlit through the Hugging Face web interface. Here are the steps to do so:
+
+1. After uploading your fine-tuned Hugging Face model to the Hugging Face Model Hub, create a new space in your Hugging Face profile and enter the details for your app, including the name of your application.
+
+2. click "New space".
+
+3. Select "Streamlit" (or Gradio) as the deployment type.
+
+4. Upload your app.py and requirements.txt files to the Hugging Face web interface.
+
+5. Your app is automatically deployed.
+
+That's it! Your fine-tuned Hugging Face model is now deployed on Streamlit through the Hugging Face web interface and can be accessed using your app.
