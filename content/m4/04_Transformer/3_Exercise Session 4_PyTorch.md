@@ -53,8 +53,9 @@ You can also deploy your fine-tuned Hugging Face model on Streamlit through the 
 
 That's it! Your fine-tuned Hugging Face model is now deployed on Streamlit through the Hugging Face web interface and can be accessed using your app.
 
-### Two Simple Examples for Deploying an App using Streamlit and Gradio
-***Danish text sentiment analysis ***
+#### Two Simple Examples for Deploying an App using Streamlit and Gradio
+**Danish text sentiment analysis:**
+
 ```python
 #Pushing the trained model, trainer and dataset to the Hugging Face Hub
 trainer.push_to_hub(output_dir)
