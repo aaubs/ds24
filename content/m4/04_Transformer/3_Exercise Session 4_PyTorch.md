@@ -17,4 +17,11 @@ from transformers import pipeline
 #Login to Hugging Face account from the Jupyter notebook
 notebook_login()
 ````
+Next, it pushes the trainer object, model object, and dataset object to the Hub using their push_to_hub() methods. This uploads these objects to the Hub for others to use and access.
 
+```python
+#Pushing the trained model, trainer and dataset to the Hugging Face Hub
+trainer.push_to_hub(output_dir)
+model.push_to_hub(output_dir)
+dataset.push_to_hub('go-emotion-dk-autotranlated-10k')
+````
