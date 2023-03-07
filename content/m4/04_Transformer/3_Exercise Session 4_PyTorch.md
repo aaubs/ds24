@@ -54,10 +54,28 @@ You can also deploy your fine-tuned Hugging Face model on Streamlit through the 
 That's it! Your fine-tuned Hugging Face model is now deployed on Streamlit through the Hugging Face web interface and can be accessed using your app.
 
 #### Two Simple Examples for Deploying an App using Streamlit and Gradio
-**Danish text sentiment analysis:**
+**Danish text sentiment analysis using Gradio:**
 
 ```python
-#Pushing the trained model, trainer and dataset to the Hugging Face Hub
-trainer.push_to_hub(output_dir)
-model.push_to_hub(output_dir)
-data
+# app.py
+import gradio as gr
+from transformers import pipeline
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+
+#Defining the classify function which takes text as input and returns the label of the sentiment
+def classify(text):
+  # Initializing the pipeline for sentiment analysis
+  cls = pipeline('text-classification', model='RJuro/dk_emotion_bert_in_class')
+  # Predicting the sentiment label for the input text
+  return cls(text)[0]['label']
+
+#Creating the Gradio interface with input textbox and output text
+gr.Interface(fn=classify, inputs=["textbox"], outputs="text").launch()
+''''
+
+```python
+# requirements.txt.py
+transformers
+gradio
+torch
+''''
