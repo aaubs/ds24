@@ -67,8 +67,7 @@ def classify(text):
 
 #Creating the Gradio interface with input textbox and output text
 gr.Interface(fn=classify, inputs=["textbox"], outputs="text").launch()
-''''
-***Also we should upload requirements.txt file:***
+````
 
 ```python
 # requirements.txt
