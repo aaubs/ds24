@@ -74,4 +74,37 @@ gr.Interface(fn=classify, inputs=["textbox"], outputs="text").launch()
 transformers
 gradio
 torch
-''''
+````
+
+**Hugging Face Sentiment Analysis Spaces Example using Streamlit:**
+
+```python
+# app.py
+import streamlit as st
+from transformers import pipeline
+from textblob import TextBlob
+
+pipe = pipeline('sentiment-analysis')
+st.title("Hugging Face Sentiment Analysis Spaces Example")
+st.subheader("What framework would you like to use for Sentiment Analysis")
+#Picking what NLP task you want to do
+option = st.selectbox('Framework',('Transformers', 'TextBlob')) #option is stored in this variable
+#Textbox for text user is entering
+st.subheader("Enter the text you'd like to analyze.")
+text = st.text_input('Enter text') #text is stored in this variable
+
+if option == 'Transformers':
+    out = pipe(text)
+else:
+    out = TextBlob(text)
+    out = out.sentiment
+st.write("Sentiment of Text: ")
+st.write(out)
+````
+
+```python
+# requirements.txt
+torch
+transformers
+textblob
+````
