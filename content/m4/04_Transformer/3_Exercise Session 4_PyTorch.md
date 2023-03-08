@@ -108,3 +108,8 @@ torch
 transformers
 textblob
 ````
+
+
+### How to use Inference APIs for connecting to HuggingFace models
+
+* [Using Openai API and Requests to connect HuggingFace models](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_TMs_Exercise_4_APIs_HuggingFace.ipynb)
