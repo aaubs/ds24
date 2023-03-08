@@ -9,6 +9,7 @@ In this session, you will learn how to upload your fine-tuned HuggingFace model 
 
 ### How to upload your fine-tuned model on HuggingFace
 First, it logs in to the Hugging Face Hub using notebook_login(), which allows for easy uploading and access to Hugging Face models.
+
 ```python
 #Importing the necessary libraries
 from huggingface_hub import notebook_login
@@ -16,7 +17,7 @@ from transformers import pipeline
 
 #Login to Hugging Face account from the Jupyter notebook
 notebook_login()
-````
+```
 Next, it pushes the trainer object, model object, and dataset object to the Hub using their push_to_hub() methods. This uploads these objects to the Hub for others to use and access.
 
 ```python
@@ -24,7 +25,7 @@ Next, it pushes the trainer object, model object, and dataset object to the Hub 
 trainer.push_to_hub(output_dir)
 model.push_to_hub(output_dir)
 dataset.push_to_hub('Your Fine-Tuned HuggingFace Model')
-````
+```
 Finally, the code loads a pre-trained Danish emotion classification model using model_ckpt = 'Your Fine-Tuned HuggingFace Model', and creates a pipeline using the pipeline() method from the transformers library. This pipeline can then be used to classify text inputs into one of several emotional categories.
 
 ```python
@@ -36,7 +37,7 @@ pipe = pipeline('text-classification', model=model_ckpt)
 
 #Passing the Danish text examples to the pipeline and getting the predicted labels
 pipe(['Du er en idiot!', 'Jeg er sulten!'])
-````
+```
 
 ### How to deploy your fine-tuned model on HuggingFace
 You can also deploy your fine-tuned Hugging Face model on Streamlit through the Hugging Face web interface. Here are the steps to do so:
@@ -67,14 +68,14 @@ def classify(text):
 
 #Creating the Gradio interface with input textbox and output text
 gr.Interface(fn=classify, inputs=["textbox"], outputs="text").launch()
-````
+```
 
 ```python
 # requirements.txt
 transformers
 gradio
 torch
-````
+```
 
 **2. Hugging Face Sentiment Analysis Spaces Example using Streamlit:**
 
@@ -100,16 +101,32 @@ else:
     out = out.sentiment
 st.write("Sentiment of Text: ")
 st.write(out)
-````
+```
 
 ```python
 # requirements.txt
 torch
 transformers
 textblob
-````
+```
 
 
 ### How to use Inference APIs for connecting to HuggingFace models
 
 * [Using Openai API and Requests to connect HuggingFace models](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_TMs_Exercise_4_APIs_HuggingFace.ipynb)
+
+
+## Assignment
+
+Build an exctiting and perhapps also fun application using techniques learned in this module
+
+### Minimal requirements:
+- relevant task solved
+- self-trained or fine-tuned transformer, however not sentence transformer for semantic search only (you are welcome to explore techniques beyond the scope of the course e.g. on HF)
+- published on HF
+- gradio (in-notebook) app or HF spaces
+
+### Nice-to:
+- Streamlit app on Hub
+- optional use of API (HF Inference API, Cohere, be careful with OpenAI 💸)
+- optional more complex LLM setup with e.g. langchain, promptify, pinecone and other integrations etc.
