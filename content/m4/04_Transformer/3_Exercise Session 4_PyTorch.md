@@ -41,7 +41,7 @@ pipe(['Du er en idiot!', 'Jeg er sulten!'])
 ### How to deploy your fine-tuned model on HuggingFace
 You can also deploy your fine-tuned Hugging Face model on Streamlit through the Hugging Face web interface. Here are the steps to do so:
 
-1. After uploading your fine-tuned Hugging Face model to the Hugging Face Model Hub, create a new space in your Hugging Face profile and enter the details for your app, including the name of your application.
+1. After uploading your fine-tuned Hugging Face model on the Hugging Face Model Hub, create a new space in your Hugging Face profile and enter the details for your app, including the name of your application.
 2. Select "Streamlit" (or Gradio) as the deployment type.
 3. click "New space".
 4. Upload your app.py and requirements.txt files to the Hugging Face web interface.
