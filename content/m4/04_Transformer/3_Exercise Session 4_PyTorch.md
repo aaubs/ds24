@@ -22,8 +22,8 @@ Next, it pushes the trainer object, model object, and dataset object to the Hub 
 
 ```python
 #Pushing the trained model, trainer and dataset to the Hugging Face Hub
-trainer.push_to_hub(output_dir)
-model.push_to_hub(output_dir)
+trainer.push_to_hub('Your Fine-Tuned HuggingFace Model')
+model.push_to_hub('Your Fine-Tuned HuggingFace Model')
 dataset.push_to_hub('Your Fine-Tuned HuggingFace Model')
 ```
 Finally, the code loads a pre-trained Danish emotion classification model using model_ckpt = 'Your Fine-Tuned HuggingFace Model', and creates a pipeline using the pipeline() method from the transformers library. This pipeline can then be used to classify text inputs into one of several emotional categories.
