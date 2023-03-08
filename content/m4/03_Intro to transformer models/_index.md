@@ -17,10 +17,4 @@ we will use real-world business examples to illustrate the concepts and techniqu
 > The students will have frequent opportunities to work in groups on four mini-projects. These projects will involve applying the concepts and techniques learned in the lectures to real-world business examples. The goal of these projects is to give students hands-on experience with deep learning and help them build a portfolio of work to showcase their skills. By the end of the course, each student will have a collection of four mini-projects that demonstrate their ability to apply deep learning to solve business problems.
 
 
-## Literature
-
-
-
-## Recommended Datacamp exercises
-
 

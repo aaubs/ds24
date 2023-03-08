@@ -116,9 +116,10 @@ textblob
 * [Using Openai API and Requests to connect HuggingFace models](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_TMs_Exercise_4_APIs_HuggingFace.ipynb)
 
 
-## Assignment
+## Assignment for part 4
 
 Build an exctiting and perhapps also fun application using techniques learned in this module
+Submission: Github repo as usual.
 
 ### Minimal requirements:
 - relevant task solved
@@ -130,3 +131,8 @@ Build an exctiting and perhapps also fun application using techniques learned in
 - Streamlit app on Hub
 - optional use of API (HF Inference API, Cohere, be careful with OpenAI 💸)
 - optional more complex LLM setup with e.g. langchain, promptify, pinecone and other integrations etc.
+
+
+## ‼️ Submission 
+- 13/3 noon
+- Submission also via DigitalExam, where you compile all your previous assignments and submit in one file for the overall portfolio for the module exam. You are welcome to tweak/improve previous module submissions for that.
