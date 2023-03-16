@@ -1,8 +1,10 @@
 ---
 title: Data Governance and Ethics
 weight: 4
+pre: "<b>5. </b>"
 disableToc: false
 draft: false
+
 ---
 
 ![](/ds22/images/cyber_corgi.png)
