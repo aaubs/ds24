@@ -5,7 +5,7 @@ disableToc: false
 draft: false
 ---
 
-![](/ds22/images/cybor_corgi.png)
+![](/ds22/images/cyber_corgi.png)
 
 This module explores ethical, legal, and policy aspects of data use in business, covering law, privacy, bias, and fairness. Students will learn to navigate challenges and opportunities in data-driven business models while developing practical skills in algorithmic bias and aligning objectives. The module includes two legal workshops, five AI ethics seminars, student presentations, and requires an individual essay portfolio submission.
 
