@@ -1,7 +1,7 @@
 ---
 title: Data Governance and Ethics
-weight: 1
-disableToc: true
+weight: 4
+disableToc: false
 draft: false
 ---
 

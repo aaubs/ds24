@@ -1,7 +1,7 @@
 ---
 title: In-calss Presentations
 weight: 1
-disableToc: true
+disableToc: false
 draft: false
 ---
 
