@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-In this section, we will introduce databases and related concepts. We will start with classical relational datab ases and the associated Structual Query LAnguage, and then glimpse a bit into NoSQL (Not only SQL) database concepts
+In this section, we will introduce databases and related concepts. We will start with classical relational datab ases and the associated Structual Query Language, and then glimpse a bit into NoSQL (Not only SQL) database concepts.
 
 ## Recommended datacamp exercises.
 
