@@ -1,16 +1,17 @@
 ---
-title: LEgal
+title: Databases
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
-This chapter introduces you to the basics of deep learning, including its history, important concepts, and applications.
+In this section, we will introduce databases and related concepts. We will start with classical relational datab ases and the associated Structual Query LAnguage, and then glimpse a bit into NoSQL (Not only SQL) database concepts
 
-## Literature
+## Recommended datacamp exercises.
 
-* Literature: LeCun, Y., Bengio, Y., & Hinton, G. (2015)
-
-## Recommended Datacamp exercises
-
-* [Deep Learning with PyTorch](https://campus.datacamp.com/courses/deep-learning-with-pytorch) 
+* Relational databases (SQL)
+  * [Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)
+  * [intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql)
+* NoSQL
+  * [NoSQL Concepts (no coding)](https://app.datacamp.com/learn/courses/nosql-concepts)
+  * [Introduction to MongoDB](https://app.datacamp.com/learn/courses/introduction-to-using-mongodb-for-data-science-with-python)
