@@ -5,6 +5,8 @@ disableToc: true
 draft: false
 ---
 
+![](/ds22/images/goldie_space.jpeg)
+
 In this lecture, we will provide brief examples how to populate and query SQL and NoSQL databases. We will also demonstrate how to use them in a ML workflow.
 
 ## Ressources
