@@ -20,6 +20,7 @@ We will be using Python along with the TinyDB and SQLite libraries to accomplish
 * [Building PoC with DB_backend SQLite](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Building_PoC_with_DB_backend_SQLite.ipynb)
 * [Building PoC with DB_backend SQLite - Solution]()
 <!-- * [Building PoC with DB_backend SQLite - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Building_PoC_with_DB_backend_SQLite_Solutions.ipynb) -->
+
 * [Building PoC with DB_backend TinyDB](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Building_PoC_with_DB_backend_TinyDB.ipynb)
 * [Building PoC with DB_backend TinyDB - Solution]()
 <!-- * [Building PoC with DB_backend TinyDB - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Building_PoC_with_DB_backend_TinyDB_Solutions.ipynb) -->
