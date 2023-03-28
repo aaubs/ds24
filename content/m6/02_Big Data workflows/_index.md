@@ -1,26 +1,18 @@
 ---
-title: Neural network architectures
+title: Big Data workflows
 weight: 2
 disableToc: true
 draft: false
 ---
 
-The purpose of this chapter is to introduce you to the various types of traditional deep learning, including CNNs, RNNs, and LSTMs, along with their histories, key concepts, and applications.
+Introduction to Big Data workflows: In ML projects, it is often necessary to process large amounts of data, known as Big Data. 
 
-<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/LSTMRNNCNN.jpg" width="20">
-
-In this course, we will focus on different classical neural network architectures, including artificial neural networks (ANNs), convolutional neural networks (CNNs), recurrent neural networks (RNNs), and long short-term memory (LSTM) networks.
-
-we will use real-world business examples to illustrate the concepts and techniques covered in the lectures. By the end of the course, students will have a solid understanding of deep learning and its current applications in business.
-
-> The students will have frequent opportunities to work in groups on four mini-projects. These projects will involve applying the concepts and techniques learned in the lectures to real-world business examples. The goal of these projects is to give students hands-on experience with deep learning and help them build a portfolio of work to showcase their skills. By the end of the course, each student will have a collection of four mini-projects that demonstrate their ability to apply deep learning to solve business problems.
+This will be demonstrated at the case of Spark, a powerful Big Data processing engine allowing to work with large datasets in ML projects. The introduction will include tasks such as setting up a Spark environment, reading and writing data, and performing transformations and aggregations on data.
 
 
-## Literature
-
-* Olah, Christopher. "Understanding lstm networks." (2015).
 
 
 ## Recommended Datacamp exercises
 
-* [Deep Learning with PyTorch](https://campus.datacamp.com/courses/deep-learning-with-pytorch) 
+* [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html) 
+* [Polars Documentation](https://pola-rs.github.io/polars-book/user-guide/) 
