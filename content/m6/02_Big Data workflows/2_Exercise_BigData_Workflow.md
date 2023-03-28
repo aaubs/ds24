@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-<img src="https://github.com/aaubs/ds-master/blob/main/data/Images/Spark.png" width="20">
+<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Spark.png" width="20">
 
 In this session, we will demonstrate how to use Apache Spark, a powerful Big Data processing engine, for processing large datasets in ML projects. The session will cover tasks such as setting up a Spark environment, reading and writing data, and performing transformations and aggregations on data. Additionally, we will also introduce Polars, a similar data manipulation library for Rust, and compare its features to those of Spark.
 
