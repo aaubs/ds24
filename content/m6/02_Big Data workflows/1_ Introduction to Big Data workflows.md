@@ -24,6 +24,7 @@ Both Spark and Polars offer powerful solutions for handling Big Data in ML proje
 * [Performing a Big Data workflow with Pandas and Polars](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Pandas_and_Polars.ipynb)
 * [Performing a Big Data workflow with Polars - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Polars_Into.ipynb)
 * [Polars Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises.ipynb)
+ * [Polars Exercises - Solutions]()
 <!-- * [Polars Exercises - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises_Soultions.ipynb) -->
 
 #### Spark
@@ -31,4 +32,5 @@ Both Spark and Polars offer powerful solutions for handling Big Data in ML proje
 * [Performing a Big Data workflow with Spark - Part 2](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Spark_Part2.ipynb)
 * [Performing a Big Data workflow with Spark - Part 3](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Spark_Part3.ipynb)
 * [Spark Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Spark_Exercises.ipynb)
+* [Spark Exercises - Solutions]()
 <!-- * [Spark Exercises - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Spark_Exercises_Soultions.ipynb) -->
