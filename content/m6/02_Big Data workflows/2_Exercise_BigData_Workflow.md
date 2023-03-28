@@ -23,7 +23,6 @@ This session will provide hands-on exercises to reinforce your understanding and
 
 #### Spark
 * [Exercises for the Bike Sharing Demand Dataset using Spark](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Exercises_for_the_Bike_Sharing_Demand_Dataset_using_Spark.ipynb)
-* [Exercises and solutions for the Bike Sharing Demand Dataset using Spark]()
-<!-- * [Exercises and solutions for the Bike Sharing Demand Dataset using Spark](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Exercises_and_solutions_for_the_Bike_Sharing_Demand_Dataset_using_Spark.ipynb) -->
+* [Exercises and solutions for the Bike Sharing Demand Dataset using Spark](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Exercises_and_solutions_for_the_Bike_Sharing_Demand_Dataset_using_Spark.ipynb)
 
 
