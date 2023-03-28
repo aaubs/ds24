@@ -18,13 +18,13 @@ This session will provide hands-on exercises to reinforce your understanding and
 ## Notebooks
 
 #### Polars
-* [Performing a Big Data workflow with Pandas and Polars](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Pandas_and_Polars.ipynb)
-* [Performing a Big Data workflow with Polars - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Polars_Into.ipynb)
-* [Polars Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises.ipynb)
+* [Exercises for the Bike Sharing Demand Dataset using Polars](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Exercises_for_the_Bike_Sharing_Demand_Dataset_using_Polars.ipynb)
+* [Exercises and solutions for the Bike Sharing Demand Dataset using Polars]()
+<!-- * [Exercises and solutions for the Bike Sharing Demand Dataset using Polars](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Exercises_and_solutions_for_the_Bike_Sharing_Demand_Dataset_using_Polars.ipynb) -->
 
 #### Spark
-* [Performing a Big Data workflow with Pandas and Polars]()
-
-
+* [Exercises for the Bike Sharing Demand Dataset using Spark](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Exercises_for_the_Bike_Sharing_Demand_Dataset_using_Spark.ipynb)
+* [Exercises and solutions for the Bike Sharing Demand Dataset using Spark]()
+<!-- * [Exercises and solutions for the Bike Sharing Demand Dataset using Spark](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Exercises_and_solutions_for_the_Bike_Sharing_Demand_Dataset_using_Spark.ipynb) -->
 
 
