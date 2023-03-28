@@ -17,12 +17,15 @@ Both Spark and Polars offer powerful solutions for handling Big Data in ML proje
 ![](https://www.dominodatalab.com/hs-fs/hubfs/Imported_Blog_Media/polars_benchmark.png?width=774&name=polars_benchmark.png)
 
    
+
 ## Notebooks
 
-* [Performing a Big Data workflow with Pandas and Polars]()
-* [Performing a Big Data workflow with Pandas and Polars]()
-* [Performing a Big Data workflow with Pandas and Polars]()
-* [Performing a Big Data workflow with Pandas and Polars]()
+#### Polars
+* [Performing a Big Data workflow with Pandas and Polars](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Pandas_and_Polars.ipynb)
+* [Performing a Big Data workflow with Polars - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Polars_Into.ipynb)
+* [Polars Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises.ipynb)
 
+#### Spark
+* [Performing a Big Data workflow with Spark - Into]()
 
 
