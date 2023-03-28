@@ -17,9 +17,12 @@ This session will provide hands-on exercises to reinforce your understanding and
 
 ## Notebooks
 
+#### Polars
 * [Performing a Big Data workflow with Pandas and Polars](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Pandas_and_Polars.ipynb)
 * [Performing a Big Data workflow with Polars - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Polars_Into.ipynb)
-* [Performing a Big Data workflow with Pandas and Polars]()
+* [Polars Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises.ipynb)
+
+#### Spark
 * [Performing a Big Data workflow with Pandas and Polars]()
 
 
