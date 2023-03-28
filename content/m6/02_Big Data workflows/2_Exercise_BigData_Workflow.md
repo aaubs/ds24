@@ -1,19 +1,26 @@
 ---
-title: "RNNs and LSTMs"
+title: "Exercise 2: Performing a Big Data workflow with Spark and Polars"
 weight: 2
 disableToc: true
 draft: false
 ---
 
-<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/rnn_timestamps.gif" width="20">
+<!-- <img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/rnn_timestamps.gif" width="20"> -->
 
-In this session, we will introduce students to recurrent neural networks (RNNs) and long short-term memory (LSTM) networks. We will discuss the basics of RNNs and LSTMs, how they differ from other neural network architectures, and how they can be applied to business problems.
+In this session, we will demonstrate how to use Apache Spark, a powerful Big Data processing engine, for processing large datasets in ML projects. The session will cover tasks such as setting up a Spark environment, reading and writing data, and performing transformations and aggregations on data. Additionally, we will also introduce Polars, a similar data manipulation library for Rust, and compare its features to those of Spark.
 
-## Slides
+This session will provide hands-on exercises to reinforce your understanding and skills in working with Spark and Polars for processing big data in ML projects.
 
-Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides](https://aaubs.github.io/ds-master/slides/M4_4_RNN_intro.html).
 
-{{< IncludeSlides "https://aaubs.github.io/ds-master/slides/M4_4_RNN_intro.html" >}}
+
+
+
+## Notebooks
+
+* [Performing a Big Data workflow with Pandas and Polars]()
+* [Performing a Big Data workflow with Pandas and Polars]()
+* [Performing a Big Data workflow with Pandas and Polars]()
+* [Performing a Big Data workflow with Pandas and Polars]()
 
 
 
