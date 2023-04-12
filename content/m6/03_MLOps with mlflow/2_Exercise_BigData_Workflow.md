@@ -2,7 +2,7 @@
 title: "Exercise 2: Performing a Big Data workflow with Spark and Polars"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 <img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Spark.png" width="20">
