@@ -24,7 +24,7 @@ Wikipedia defines MLOps as:
 
 ![](https://en.wikipedia.org/wiki/MLOps#/media/File:ML_Ops_Venn_Diagram.svg)
 
-## references
+## References
 
 * [No, You Don’t Need MLOps](https://becominghuman.ai/no-you-dont-need-mlops-5e1ce9fdaa4b) 
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html) 
