@@ -22,7 +22,7 @@ Wikipedia defines MLOps as:
 **MLOps is the process of taking an experimental Machine Learning model into a production system.**
 
 
-![](https://en.wikipedia.org/wiki/MLOps#/media/File:ML_Ops_Venn_Diagram.svg)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/ML_Ops_Venn_Diagram.svg.png)
 
 ## References
 
