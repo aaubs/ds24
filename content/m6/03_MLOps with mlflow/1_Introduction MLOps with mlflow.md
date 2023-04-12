@@ -30,3 +30,7 @@ Here are the main components of MLflow:
 * [Basic MLOps workflow using MLflow - Google Drive and Ngrok](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_GoogleDrive_Ngrok.ipynb)
 * [Basic MLOps workflow using MLflow - SQLite and Ngrok](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_SQLite.ipynb)
 
+
+#### CI/CD
+* [Continuous Integration and Continuous Deployment - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/CI_CD_GitHub_Streamlit.ipynb)
+* [Continuous Integration and Continuous Deployment - GitHub Action and Heroku](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_Functions.ipynb)
