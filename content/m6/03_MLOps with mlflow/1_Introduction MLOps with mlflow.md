@@ -27,6 +27,6 @@ Here are the main components of MLflow:
 #### MLflow
 * [MLflow - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_intro.ipynb)
 * [MLflow - Functions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_Functions.ipynb)
-* [Polars Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises.ipynb)
+* [MLflow - Google Drive and Ngrok](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_GoogleDrive_Ngrok.ipynb)
 * [Polars Exercises - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises_Soultions.ipynb)
 
