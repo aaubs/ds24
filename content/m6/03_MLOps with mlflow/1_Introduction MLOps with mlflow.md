@@ -25,7 +25,7 @@ Here are the main components of MLflow:
 ## Notebooks
 
 #### Polars
-* [Performing a Big Data workflow with Pandas and Polars](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Pandas_and_Polars.ipynb)
+* [MLflow_intro](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_intro.ipynb)
 * [Performing a Big Data workflow with Polars - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Polars_Into.ipynb)
 * [Polars Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises.ipynb)
 * [Polars Exercises - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises_Soultions.ipynb)
