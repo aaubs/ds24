@@ -16,6 +16,11 @@ ML is revolutionizing the world by modernizing industries like healthcare, educa
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/HIddenTechnicalDebtinML.jpg)
 
+Historically, **~85 % of ML models** that are built never reach production. Surveys & reports also suggest that **only ~60% of projects** make it from prototype to production — that too at organizations that have a decent experience with AI.
+Wikipedia defines MLOps as:
+
+**MLOps is the process of taking an experimental Machine Learning model into a production system.**
+
 ## Recommended Datacamp exercises
 
 * [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html) 
