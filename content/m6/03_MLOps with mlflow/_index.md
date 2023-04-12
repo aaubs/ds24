@@ -21,7 +21,8 @@ Wikipedia defines MLOps as:
 
 **MLOps is the process of taking an experimental Machine Learning model into a production system.**
 
-## Recommended Datacamp exercises
+## references
 
-* [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/index.html) 
-* [Polars Documentation](https://pola-rs.github.io/polars-book/user-guide/) 
+* [No, You Don’t Need MLOps](https://becominghuman.ai/no-you-dont-need-mlops-5e1ce9fdaa4b) 
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html) 
+* [The Only Truly Hard Problem in MLOps](https://www.tecton.ai/apply/session-video-archive/the-only-truly-hard-problem-in-mlops/) 
