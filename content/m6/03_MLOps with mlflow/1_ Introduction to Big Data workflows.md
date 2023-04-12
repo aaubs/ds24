@@ -1,18 +1,25 @@
 ---
-title: "Introduction to Big Data workflows"
+title: "Introduction MLOps with mlflow (documenting experiments)"
 weight: 1
 disableToc: true
 draft: false
 ---
 
 
-* In ML projects, it is often necessary to process large amounts of data, known as Big Data. This can pose a significant challenge for traditional data processing tools and techniques. Fortunately, there are a variety of Big Data processing engines available today that are designed to handle these challenges, such as Apache Spark and Polars.
+* Introduction to mlflow: mlflow is an open-source platform for managing the end-to-end machine learning lifecycle. In this section, students will learn how to use mlflow for MLOps, including setting up mlflow for tracking experiments and model training, and using mlflow for model deployment.
 
-Spark is a powerful Big Data processing engine that allows you to work with large datasets in ML projects. It provides a flexible and scalable platform for data processing, allowing you to process data in real-time or in batch mode, and enabling you to run complex algorithms and models on massive datasets.
 
-Polars is another Big Data processing engine that is gaining popularity due to its speed, scalability, and ease of use. It is an open-source data processing library designed for processing large, complex datasets with ease. It provides a Pandas-like API for data manipulation, enabling users to easily perform a wide range of data processing tasks, such as filtering, aggregating, and transforming data.
+MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. It provides tools for tracking experiments, packaging and sharing code, and deploying models.
 
-Both Spark and Polars offer powerful solutions for handling Big Data in ML projects, and choosing the right engine largely depends on the specific needs and requirements of your project. Regardless of which engine you choose, however, both Spark and Polars have revolutionized the way that we process and analyze large datasets, and have enabled us to unlock valuable insights and knowledge from data that was previously impossible to handle.
+MLflow provides a unified platform for managing the entire machine learning lifecycle, from experimentation to deployment. It helps to increase productivity, collaboration, and reproducibility in data science projects.
+
+Here are the main components of MLflow:
+
+> **Experiment Tracking:** This component helps you to track your machine learning experiments by recording and visualizing metrics, parameters, and artifacts. It allows you to easily compare different runs and reproduce results.
+
+> **Model Packaging:** This component provides a simple format for packaging data science code in a reusable and reproducible way. It also allows you to specify dependencies, such as libraries and data files, and to run code in different environments. This component provides a standardized way to package and deploy machine learning models. It supports a variety of popular frameworks, such as TensorFlow, PyTorch, and Scikit-learn, and provides tools for deploying models to a variety of platforms, such as Docker containers and cloud services.
+
+> **Model Registry:** This component provides a centralized repository for managing and sharing machine learning models. It allows you to track model versions, assign permissions, and share models with other users.
 
 ![](https://www.dominodatalab.com/hs-fs/hubfs/Imported_Blog_Media/polars_benchmark.png?width=774&name=polars_benchmark.png)
 
