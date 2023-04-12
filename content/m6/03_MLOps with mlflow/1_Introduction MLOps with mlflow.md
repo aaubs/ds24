@@ -26,7 +26,7 @@ Here are the main components of MLflow:
 
 #### MLflow
 * [Basic MLOps workflow using MLflow - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_intro.ipynb)
-* [MLflow - Functions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_Functions.ipynb)
-* [MLflow - Google Drive and Ngrok](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_GoogleDrive_Ngrok.ipynb)
-* [MLflow - SQLite and Ngrok](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_SQLite.ipynb)
+* [Basic MLOps workflow using MLflow - Functions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_Functions.ipynb)
+* [Basic MLOps workflow using MLflow - Google Drive and Ngrok](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_GoogleDrive_Ngrok.ipynb)
+* [Basic MLOps workflow using MLflow - SQLite and Ngrok](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_SQLite.ipynb)
 
