@@ -6,9 +6,6 @@ draft: false
 ---
 
 
-* Introduction to mlflow: mlflow is an open-source platform for managing the end-to-end machine learning lifecycle. In this section, students will learn how to use mlflow for MLOps, including setting up mlflow for tracking experiments and model training, and using mlflow for model deployment.
-
-
 MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. It provides tools for tracking experiments, packaging and sharing code, and deploying models.
 
 MLflow provides a unified platform for managing the entire machine learning lifecycle, from experimentation to deployment. It helps to increase productivity, collaboration, and reproducibility in data science projects.
@@ -21,7 +18,7 @@ Here are the main components of MLflow:
 
 > **Model Registry:** This component provides a centralized repository for managing and sharing machine learning models. It allows you to track model versions, assign permissions, and share models with other users.
 
-![](https://www.dominodatalab.com/hs-fs/hubfs/Imported_Blog_Media/polars_benchmark.png?width=774&name=polars_benchmark.png)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/mlflow.jpg)
 
    
 
