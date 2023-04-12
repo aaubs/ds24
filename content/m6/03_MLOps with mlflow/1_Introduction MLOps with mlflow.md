@@ -24,15 +24,9 @@ Here are the main components of MLflow:
 
 ## Notebooks
 
-#### Polars
+#### MLflow
 * [MLflow - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_intro.ipynb)
 * [MLflow - Functions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLflow_Functions.ipynb)
 * [Polars Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises.ipynb)
 * [Polars Exercises - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Polars_Exercises_Soultions.ipynb)
 
-#### Spark
-* [Performing a Big Data workflow with Spark - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Spark_Into.ipynb)
-* [Performing a Big Data workflow with Spark - Part 2](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Spark_Part2.ipynb)
-* [Performing a Big Data workflow with Spark - Part 3](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Performing_a_Big_Data_workflow_with_Spark_Part3.ipynb)
-* [Spark Exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Spark_Exercises.ipynb)
-* [Spark Exercises - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_Spark_Exercises_Soultions.ipynb)
