@@ -33,4 +33,4 @@ Here are the main components of MLflow:
 
 #### CI/CD
 * [Continuous Integration and Continuous Deployment - Into](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_CI_CD_GitHub_Streamlit.ipynb)
-* [Continuous Integration and Continuous Deployment - GitHub Action and Heroku](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/CI_CD_GitHubAction_Heroku.ipynb)
+* [Continuous Integration and Continuous Deployment - GitHub Action and Heroku](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_CI_CD_GitHubAction_Heroku.ipynb)
