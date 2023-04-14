@@ -21,6 +21,7 @@ This session will provide a hands-on project to reinforce your understanding and
 #### MLflow
 * [An Overview of MLflow: Managing End-to-End Machine Learning Lifecycles](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLOps_MLflow_Recap.ipynb)
 
+
 #### MLOps on AWS
 * [Ubuntu Terminal Basics: Navigating, Managing Files, and Performing Basic Tasks](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLOps_AWS_Ubuntu.ipynb)
 * [MLOps on AWS: a Hands-On Project](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M6_MLOps_AWS.ipynb)
