@@ -70,7 +70,7 @@ The API can run locally using uvicorn:
 
 With that you can deploy the app on a virtual machine, considering requirements etc. By the way: Create a requirements.txt using `pipreqs`. Don't forget to add uvicorn to the requirements.
 
-# Dockerizing the app
+## Dockerizing the app
 
 You can dockerize the app using a simple dockerfile in the same repository.
 
