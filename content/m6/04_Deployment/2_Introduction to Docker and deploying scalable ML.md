@@ -16,7 +16,12 @@ In this session, we'll introduce Docker, its main concepts, and how to deploy sc
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gLwtHvsO8yebQzwB05nZ8Q.png)
 
-- **a. Containers:** A container is a lightweight, stand-alone, and executable software package that includes everything needed to run a piece of software, including the code, runtime, system tools, libraries, and settings.
+- **a. Dockerfile:** A text file containing instructions and commands for building a Docker image. It defines the environment, dependencies, and configurations required for the application.
 - **b. Images:** A Docker image is a lightweight, stand-alone, executable package that includes everything needed to run a piece of software, including the code, runtime, system tools, libraries, and settings. Images are built from a series of layers, each representing a set of instructions defined in a Dockerfile.
-- **c. Dockerfile:** A text file containing instructions and commands for building a Docker image. It defines the environment, dependencies, and configurations required for the application.
+- **c. Containers:** A container is a lightweight, stand-alone, and executable software package that includes everything needed to run a piece of software, including the code, runtime, system tools, libraries, and settings.
 
+## Deploying Scalable ML Models
+
+![](https://editor.analyticsvidhya.com/uploads/85227PSLLpU1LQX8EY9LNae5tvSpq0BXn7DLhlI9VRp-rMxPxtqcbwa6EpAeQI6WFheKQZ4jtvJC2DgaSW9Ogs3ON5BksIKFgxNlczWKTrCI8k0WrBFMA2byFJElr3V-tfLDSV0C1eRE6.png)
+
+Docker can be combined with orchestration tools like Kubernetes or Docker Swarm to deploy scalable ML models. These tools help manage, scale, and distribute Docker containers across multiple nodes or clusters. This allows you to handle high loads and serve multiple requests concurrently, ensuring a reliable and efficient service.
