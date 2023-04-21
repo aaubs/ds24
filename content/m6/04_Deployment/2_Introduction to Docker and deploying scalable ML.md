@@ -25,3 +25,11 @@ In this session, we'll introduce Docker, its main concepts, and how to deploy sc
 ![](https://editor.analyticsvidhya.com/uploads/85227PSLLpU1LQX8EY9LNae5tvSpq0BXn7DLhlI9VRp-rMxPxtqcbwa6EpAeQI6WFheKQZ4jtvJC2DgaSW9Ogs3ON5BksIKFgxNlczWKTrCI8k0WrBFMA2byFJElr3V-tfLDSV0C1eRE6.png)
 
 Docker can be combined with orchestration tools like Kubernetes or Docker Swarm to deploy scalable ML models. These tools help manage, scale, and distribute Docker containers across multiple nodes or clusters. This allows you to handle high loads and serve multiple requests concurrently, ensuring a reliable and efficient service.
+
+## Notebooks
+
+#### Docker
+* [Essential Docker Commands for MLOps](https://github.com/aaubs/ds-master/blob/main/notebooks/M6_MLOps_Docker_Commands.ipynb)
+* [Step-by-Step Guide to Installing Docker for MLOps](https://github.com/aaubs/ds-master/blob/main/notebooks/M6_MLOps_Docker_installation.ipynb)
+* [Dockerizing MLOps on AWS: Simplifying Deployment and Scalability with Docker](https://github.com/aaubs/ds-master/blob/main/notebooks/M6_MLOps_Docker_AWS_Dockerize.ipynb)
+* [Persist data in a container app](https://github.com/aaubs/ds-master/blob/main/notebooks/M6_MLOps_Docker_Mounting.ipynb)
