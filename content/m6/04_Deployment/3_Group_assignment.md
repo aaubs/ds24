@@ -5,11 +5,12 @@ disableToc: true
 draft: false
 ---
 
-## Title
-Dockerizing an MLflow-based ML App with SQLite, Spark EDA, and Streamlit Interface (optionally Three-layer app)
+
+#### Title: Dockerizing an MLflow-based ML App with SQLite, Spark EDA, and Streamlit Interface (Optionally, a Three-layer App), and Uploading to Docker Hub
+
 
 ## Introduction
-In this assignment, you will be utilizing one of your previous machine learning projects and enhancing it by incorporating MLflow for experiment tracking and management. Additionally, you will integrate SQLite for storing structured and unstructured information related to your trained model. You will also incorporate Spark for Exploratory Data Analysis (EDA) and dockerize your application. Lastly, you will develop a user-friendly interface for your ML app using Streamlit, with the option to create a custom interface.
+In this assignment, you will be utilizing one of your previous machine learning projects and enhancing it by incorporating MLflow for experiment tracking and management. Additionally, you will integrate SQLite for storing structured and unstructured information related to your trained model. You will also incorporate Spark for Exploratory Data Analysis (EDA) and dockerize your application. Lastly, you will develop a user-friendly interface for your ML app using Streamlit, with the option to create a custom three-layer app. You will also upload your dockerized app to Docker Hub.
 
 ## Task 
 Choose a previous project that involves a machine learning component and perform the following tasks:
