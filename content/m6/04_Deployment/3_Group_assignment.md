@@ -6,13 +6,13 @@ draft: false
 ---
 
 
-#### Title: Dockerizing an MLflow-based ML App with SQLite, Spark EDA, and Streamlit Interface (Optionally, a Three-layer App), and Uploading to Docker Hub
+### Title
+Dockerizing an MLflow-based ML App with SQLite, Spark EDA, and Streamlit Interface (Optionally, a Three-layer App), and Uploading to Docker Hub
 
-
-## Introduction
+### Introduction
 In this assignment, you will be utilizing one of your previous machine learning projects and enhancing it by incorporating MLflow for experiment tracking and management. Additionally, you will integrate SQLite for storing structured and unstructured information related to your trained model. You will also incorporate Spark for Exploratory Data Analysis (EDA) and dockerize your application. Lastly, you will develop a user-friendly interface for your ML app using Streamlit, with the option to create a custom three-layer app. You will also upload your dockerized app to Docker Hub.
 
-## Task 
+### Task 
 Choose a previous project that involves a machine learning component and perform the following tasks:
 
 1. Train a machine learning model using the data from your previous project. Select an appropriate machine learning model based on your data and problem.
@@ -27,10 +27,10 @@ Choose a previous project that involves a machine learning component and perform
 
 6. Upload your dockerized app to Docker Hub and provide instructions for running the app from the Docker Hub repository.
 
-## Data
+### Data
 Choose one of your previous projects that includes a machine learning component.
 
-## Delivery
+### Delivery
 * Create a github repository (or use the existing one and adapt it)
 * Save the Colab notebook or the project folder to GitHub
 * Provide a README.md file with a brief description of your project and instructions for running the app from Docker Hub.
