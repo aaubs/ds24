@@ -11,4 +11,5 @@ Code refactoring for production: In this section, students will learn how to ref
 Introduction to FastAPI: FastAPI is a modern, fast, and easy-to-use API framework. In this section, students will learn the basics of FastAPI and how to build and deploy an API using it.
 
 ## Slides
-![API Lecture Slides](https://github.com/aaubs/ds-master/raw/main/slides/API_Lecture.pdf)
+* [Code Refractoring Slides](https://github.com/aaubs/ds-master/blob/main/slides/Code_Refractoring.pdf)
+* [API Lecture Slides](https://github.com/aaubs/ds-master/raw/main/slides/API_Lecture.pdf)
