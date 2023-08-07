@@ -2,7 +2,7 @@
 title: "NLP - Other areas"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/viz-corgi-nlp2.png)

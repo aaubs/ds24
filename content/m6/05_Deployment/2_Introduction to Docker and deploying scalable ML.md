@@ -2,7 +2,7 @@
 title: "Introduction to Docker and deploying scalable ML"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 

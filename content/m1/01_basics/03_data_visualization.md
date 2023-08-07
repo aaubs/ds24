@@ -2,7 +2,7 @@
 title: "Basics Data Visualization"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 

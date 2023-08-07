@@ -2,7 +2,7 @@
 title: "NLP Word Vectors"
 weight: 4
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/viz-corgi-nlp-w2v.png)

@@ -2,7 +2,7 @@
 title: "Sentence-Transformers SBERT"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](https://source.unsplash.com/vuMTQj6aQQ0)

@@ -2,7 +2,7 @@
 title: Big Data workflows
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 Introduction to Big Data workflows: In ML projects, it is often necessary to process large amounts of data, known as Big Data. 

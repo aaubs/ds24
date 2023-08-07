@@ -2,7 +2,7 @@
 title: From notebook to API
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 Code refactoring for production: In this section, students will learn how to refactor their code from a notebook environment to a production-ready API.

@@ -2,7 +2,7 @@
 title: "Introduction to transformers"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 

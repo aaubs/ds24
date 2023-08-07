@@ -2,7 +2,7 @@
 title: "Basics of NLP"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/viz-corgi-nlp1.png)

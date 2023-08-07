@@ -2,7 +2,7 @@
 title: "Mathematics (Brushup)"
 weight: 7
 disableToc: true
-draft: false
+draft: true
 ---
 
 ## How does Math help us?

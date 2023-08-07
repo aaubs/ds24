@@ -2,7 +2,7 @@
 title: "M1 EDA Hackathon "
 weight: 5
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/corgi_hackathon.png)

@@ -2,7 +2,7 @@
 title: Neural network architectures
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 The purpose of this chapter is to introduce you to the various types of traditional deep learning, including CNNs, RNNs, and LSTMs, along with their histories, key concepts, and applications.

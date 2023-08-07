@@ -2,7 +2,7 @@
 title: Intro to transformer models
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 The purpose of this chapter is to introduce you to transformer models, the core idea of attention, and milestone transformer architectures. We will also cover the tooling used in the transformer ecosystem, including libraries like sbert, transformers, and simpletransformers.

@@ -2,7 +2,7 @@
 title: "Group assignment 3"
 weight: 4
 disableToc: true
-draft: false
+draft: true
 ---
 
 Welcome to the MLflow group assignment! Use MLflow within one of your previous projects and save structured and unstructured information related to your trained model in SQLite within MLflow. Optionally, prepare a ML app based on three layers as Data, Business, Presentation Layers.

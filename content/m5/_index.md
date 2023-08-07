@@ -3,7 +3,7 @@ title: Data Governance and Ethics
 weight: 4
 pre: "<b>5. </b>"
 disableToc: false
-draft: false
+draft: true
 
 ---
 

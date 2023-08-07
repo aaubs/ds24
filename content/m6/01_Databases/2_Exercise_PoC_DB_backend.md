@@ -2,7 +2,7 @@
 title: "Building PoC with DB backend"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 Welcome to this Exercise session on using TinyDB and SQLite, two lightweight databases that are ideal for small-scale applications and development tasks. While TinyDB is a document-oriented database that emphasizes simplicity and ease of use with JSON-like structures, SQLite is a popular and lightweight SQL-based relational database management system.

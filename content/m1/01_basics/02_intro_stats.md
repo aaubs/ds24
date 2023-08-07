@@ -2,7 +2,7 @@
 title: "Statistics Refresher"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 {{% notice tip %}}  Theory part is general, Python application part hands-on and language specific.

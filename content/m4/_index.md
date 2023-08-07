@@ -3,7 +3,7 @@ title:  Applied Deep Learning and Artificial Intelligence
 weight: 4
 pre: "<b>4. </b>"
 chapter: false
-draft: false
+draft: true
 ---
 
 ## M4 - Applied Deep Learning and Artificial Intelligence

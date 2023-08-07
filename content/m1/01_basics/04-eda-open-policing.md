@@ -2,7 +2,7 @@
 title: "EDA workshop & Working with JSON/APIs/MongoDB"
 weight: 4
 disableToc: true
-draft: false
+draft: true
 ---
 
 

@@ -2,7 +2,7 @@
 title: "MLOps on AWS: a Hands-On Tutorial"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 <!-- <img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Spark.png" width="20"> -->

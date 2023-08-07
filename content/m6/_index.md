@@ -3,7 +3,7 @@ title: Data Engineering and MLOps
 weight: 5
 pre: "<b>6. </b>"
 disableToc: false
-draft: false
+draft: true
 
 ---
 

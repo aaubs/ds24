@@ -2,7 +2,7 @@
 title: "Fine-tuning transformers"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 

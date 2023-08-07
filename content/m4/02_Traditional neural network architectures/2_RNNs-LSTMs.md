@@ -2,7 +2,7 @@
 title: "RNNs and LSTMs"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 <img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/rnn_timestamps.gif" width="20">

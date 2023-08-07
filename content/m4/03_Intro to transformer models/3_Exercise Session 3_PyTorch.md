@@ -2,7 +2,7 @@
 title: "Exercise Session 3"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 In this session, you will learn how to finetune SBERT embeddings and use them in downstream tasks. They will also practice using SBERT in a variety of business scenarios.

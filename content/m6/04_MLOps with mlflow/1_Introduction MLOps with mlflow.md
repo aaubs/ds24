@@ -2,7 +2,7 @@
 title: "Introduction MLOps with mlflow"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 

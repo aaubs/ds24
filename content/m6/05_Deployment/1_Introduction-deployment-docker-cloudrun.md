@@ -2,7 +2,7 @@
 title: "From notebook to containarized app in the cloud"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ## Creating the Functionality

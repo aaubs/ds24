@@ -2,7 +2,7 @@
 title: "Hands-on data manipulation and EDA "
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/ds_corgi.png)

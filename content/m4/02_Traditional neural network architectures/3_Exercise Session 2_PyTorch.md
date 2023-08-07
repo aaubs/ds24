@@ -2,7 +2,7 @@
 title: "Exercise Session 2"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 In this session, you will review PyTorch and learn how to train, infer, and evaluate RNNs and LSTMs.

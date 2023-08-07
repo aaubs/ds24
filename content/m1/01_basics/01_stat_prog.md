@@ -2,7 +2,7 @@
 title: "Basics Statistical Programming"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/corgi_color1.png)

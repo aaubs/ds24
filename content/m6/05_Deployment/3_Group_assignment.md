@@ -2,7 +2,7 @@
 title: "Group assignment 4"
 weight: 4
 disableToc: true
-draft: false
+draft: true
 ---
 
 

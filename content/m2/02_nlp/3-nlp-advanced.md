@@ -2,7 +2,7 @@
 title: "NLP Applications Chatbot"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/viz-corgi-nlp3.png)

@@ -2,7 +2,7 @@
 title: MLOps
 weight: 4
 disableToc: true
-draft: false
+draft: true
 ---
 
 MLOps (Machine Learning Operations) is a set of practices and tools used to manage the lifecycle of machine learning models in production environments. It is an extension of DevOps (Development Operations) and aims to bring the same level of automation, collaboration, and agility to machine learning development and deployment.

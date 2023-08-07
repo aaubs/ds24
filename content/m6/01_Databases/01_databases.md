@@ -2,7 +2,7 @@
 title: "Introduction to databases"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/goldie_space.jpeg)
