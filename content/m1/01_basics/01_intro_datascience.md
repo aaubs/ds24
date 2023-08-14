@@ -2,7 +2,7 @@
 title: "Introduction to Data Science"
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 ![](/ds22/images/corgi_color1.png)
