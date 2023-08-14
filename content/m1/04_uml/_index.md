@@ -1,6 +1,6 @@
 ---
 title: Intro to Unsupervised Machine Learning (W38)
-weight: 3
+weight: 5
 disableToc: true
 draft: true
 
