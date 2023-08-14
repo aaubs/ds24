@@ -1,7 +1,7 @@
 ---
 title: Introduction to Data Science (W35-36)
 weight: 3
-disableToc: false
+disableToc: true
 draft: true
 ---
 
