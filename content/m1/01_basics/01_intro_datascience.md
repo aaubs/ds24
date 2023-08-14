@@ -30,7 +30,7 @@ Let's get started on this exciting journey together!
 In this session, we'll explore the foundational aspects of data handling. Key takeaways include:
 
 * Datatypes: Grasp the basic types of data crucial for data science.
-[**Notebook: Python 101**](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-data.ipynb)
+[** Notebook: Python 101 **](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-data.ipynb)
 
 * Data Manipulation: Learn essential operations like arrange, group-by, filter, select, and join, preparing data for analysis.
 **[**Notebook: Python Data Manipulation**](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-manipilation.ipynb)
