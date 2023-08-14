@@ -2,7 +2,7 @@
 title: Supervised Machine Learning (W39)
 weight: 4
 disableToc: true
-draft: true
+draft: false
 
 ---
 
