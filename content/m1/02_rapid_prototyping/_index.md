@@ -2,7 +2,7 @@
 title: Introduction to Data Science (W35-36)
 weight: 3
 disableToc: false
-draft: false
+draft: true
 ---
 
 This topic includes 5 sessions as follows:
