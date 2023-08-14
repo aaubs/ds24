@@ -3,6 +3,7 @@ title: Infrastructure
 weight: 1
 draft: true
 ---
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
 
 ## Main Infrastructure
 
