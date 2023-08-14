@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-![](/ds22/images/corgi_color1.png)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
 
 This session will introduce students to the fundamentals of data science, with a focus on Python. Topics covered will include Python data science libraries and frameworks, essential tools and platforms, data handling and manipulation, exploratory data analysis and essential statistics, data visualization, and more. Students will have the opportunity to practice the skills they learn through hands-on exercises and projects.
 
