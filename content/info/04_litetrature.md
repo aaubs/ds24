@@ -10,6 +10,7 @@ While this course does not come with a list of mandatory readings, we will often
 These pieces of work can be seen as main references for data science using  Python. We will frequently refer to selected chapters for further study. Documentation of the used packages, tutorials, papers, podcasts etc. will be added throughout. 
 
 * VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. O'Reilly Media, Inc. [Online available here](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+* Wilke, C. O. (2019). Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures. O'Reilly Media.
 
 ## Supplementary literature
 
