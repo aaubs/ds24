@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Data Science (W 35)"
-weight: 1
+weight: 2
 disableToc: true
 draft: false
 ---
@@ -9,21 +9,6 @@ draft: false
 
 This session will introduce students to the fundamentals of data science, with a focus on Python. Topics covered will include Python data science libraries and frameworks, essential tools and platforms, data handling and manipulation, exploratory data analysis and essential statistics, data visualization, and more. Students will have the opportunity to practice the skills they learn through hands-on exercises and projects.
 
-## Part 1: Welcome Students!
-
-This session sets the stage for your data science journey:
-
-* Python Data Science Stack: Dive into Python's core data science libraries and frameworks. We've got you covered!
-
-* Ecosystem Deep Dive: Familiarize yourself with essential tools and platforms, such as Github, UCloud, Google Colab, and Jupyter. These will be integral to your studies and projects.
-
-* Software Setup: We'll guide you through installing the crucial software. And don't worry, our Teaching Assistants are here to assist with any challenges.
-
-* Semester Overview: Get a glimpse of what the upcoming weeks hold for you.
-
-* Python 101: We'll ensure everyone is up to speed with Python basics.
-
-Let's get started on this exciting journey together!
 
 ## Part 2: Data Handling and Manipulation I (Lecture)
 
