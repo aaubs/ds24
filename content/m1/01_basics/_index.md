@@ -2,7 +2,7 @@
 title: Basics of Statistical Programming and Data Manipulation (W35-36)
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 This topic includes 5 sessions as follows:
