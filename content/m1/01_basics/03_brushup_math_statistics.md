@@ -1,6 +1,6 @@
 ---
 title: "Statistics Refresher"
-weight: 2
+weight: 3
 disableToc: true
 draft: true
 ---
