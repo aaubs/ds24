@@ -1,15 +1,26 @@
 ---
-title: "Hands-on data manipulation and EDA "
+title: "Rapid Prototyping (W 37)"
 weight: 3
 disableToc: true
-draft: true
+draft: false
 ---
 
 ![](/ds22/images/ds_corgi.png)
 Corgi working on a Data Science project. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 
 
-In this session we will be trying out some of the techniques already learned on real world data from AirBnb as well as experiment with Kaggle
+The Rapid Prototyping with Streamlit & Gradio course will teach students how to use Streamlit and Gradio to create interactive web applications and dashboards. Students will learn the basics of rapid prototyping, and they will explore how Streamlit and Gradio can be used to turn data scripts into interactive web applications. They will also learn how to deploy their applications as web apps.
+
+In the Real-World Data to Online Dashboard session, students will start with a real-world dataset and use it to create an interactive online dashboard. They will learn how to visualize geographic data effectively, and they will integrate the geographic visualizations into their dashboard. They will also learn how to host and deploy their dashboard online.
+
+The Dashboard-Hackathon Kick-off session will give students the opportunity to compete in a hackathon to create the most compelling and user-friendly dashboard using Streamlit. TAs will be on hand to help kickstart ideas, troubleshoot, and refine dashboards. The final dashboards should be hosted and shared by September 15th, and great prizes await the top dashboards!
+
+## Part1: Rapid Prototyping with Streamlit & Gradio
+* Prototyping Foundations: Grasp why rapid prototyping is essential in Data Science and its role in iterative development and deployment.
+* Streamlit Introduction: Dive into Streamlit, a Python library that makes it easy to turn data scripts into interactive web applications.
+* Gradio Exploration: Learn about Gradio, an interface library for quickly creating demos and UIs for machine learning models.
+
+Deployment: Deployment of projects as WebApps
 
 ## Part 1: AirBnb
 In this notebook we will be using data from AirBnb for some basic EDA and geoplotting
