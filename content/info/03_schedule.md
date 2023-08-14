@@ -30,13 +30,13 @@ This will be shortly updated with additional key dates and topics for the semest
 
 * EDA Hackathon
    * In groups: Developing EDA Dashboard
-   * 9.09.2022 - 15.09.2022
+   * 12.09.2023 - 15.09.2023
 
-* Group assignment: 30.09.-05.10.2022 (Digital Eksamen)
-* Final exam: 10-11.09.2022
+* Group assignment: 29.09.-06.10.2023 (Digital Eksamen)
+* Final exam: 10-11.09.2023
   
 
-## M2: Week 40-44
+<!-- ## M2: Week 40-44
 
 ### Topics
 
@@ -62,4 +62,4 @@ This will be shortly updated with additional key dates and topics for the semest
 ### Key Dates
 
 * Semester Project Submission: ~ 21/12.
-* Exam: ~ 3-4 Week in January
+* Exam: ~ 3-4 Week in January -->
