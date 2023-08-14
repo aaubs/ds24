@@ -4,7 +4,7 @@ weight: 1
 chapter: true
 
 ---
-
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
 General info about the semester will be updated here. Check out the calendar [on moodle](https://www.moodle.aau.dk/local/planning/calendar.php?fid=1710).
 
 ### Intro to the semester and module:
