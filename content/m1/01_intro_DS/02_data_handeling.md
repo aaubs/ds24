@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Science (W 35)"
+title: "Data Handeling and Manipulation"
 weight: 2
 disableToc: true
 draft: false
@@ -7,10 +7,9 @@ draft: false
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
 
-This session will introduce students to the fundamentals of data science, with a focus on Python. Topics covered will include Python data science libraries and frameworks, essential tools and platforms, data handling and manipulation, exploratory data analysis and essential statistics, data visualization, and more. Students will have the opportunity to practice the skills they learn through hands-on exercises and projects.
+This session will introduce students to the foundational aspects of data handling in Python. Students will learn about the different types of data that are important in data science, and they will explore essential operations like arrange, group-by, filter, select, and join. By the end of this session, students should have a solid understanding of primary data manipulation techniques, setting the stage for more advanced subjects.
 
-
-## Part 2: Data Handling and Manipulation I (Lecture)
+## Session 2: Data Handling and Manipulation I (Lecture)
 
 In this session, we'll explore the foundational aspects of data handling. Key takeaways include:
 
