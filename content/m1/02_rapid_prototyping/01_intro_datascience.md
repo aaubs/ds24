@@ -2,7 +2,7 @@
 title: "Introduction to Data Science (W 35)"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
