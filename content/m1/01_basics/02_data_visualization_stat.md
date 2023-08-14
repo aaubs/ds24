@@ -8,10 +8,10 @@ draft: false
 
 This session introduces students how to use Exploratory Data Analysis and some fundemental concepts of statistical methods to uncover patterns, anomalies, and frame questions in data. Students will learn foundational measures and techniques for data interpretation, and they will have the opportunity to apply EDA and statistical methods on datasets through hands-on exercises.
 
-{{% notice ‼️ Group Portfolio Assignment - Exploratory Data Analysis (EDA) ‼️ %}}  
+{{% ‼️ Group Portfolio Assignment - Exploratory Data Analysis (EDA) ‼️ %}}  
 
 Deadline: Friday, 8 September 2023, 12:00 PM
-{{% /notice %}}
+{{% /‼️ Group Portfolio Assignment - Exploratory Data Analysis (EDA) ‼️ %}}
 
 ## Part 1: Exploratory Data Analysis & Essential Statistics
 * Deep Dive into EDA: Uncover patterns, anomalies, and frame questions.
