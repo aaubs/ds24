@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Science"
+title: "Introduction to Data Science (W 35)"
 weight: 1
 disableToc: true
 draft: false

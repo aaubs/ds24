@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Data Analysis and Essential Statistics"
+title: "Exploratory Data Analysis and Essential Statistics (W 36)"
 weight: 2
 disableToc: true
 draft: false
@@ -7,6 +7,11 @@ draft: false
 
 
 This session introduces students how to use Exploratory Data Analysis and some fundemental concepts of statistical methods to uncover patterns, anomalies, and frame questions in data. Students will learn foundational measures and techniques for data interpretation, and they will have the opportunity to apply EDA and statistical methods on datasets through hands-on exercises.
+
+{{% notice tip %}}  ‼️ Group Portfolio Assignment - Exploratory Data Analysis (EDA) ‼️
+
+Deadline: Friday, 8 September 2023, 12:00 PM
+{{% /notice %}}
 
 ## Part 1: Exploratory Data Analysis & Essential Statistics
 * Deep Dive into EDA: Uncover patterns, anomalies, and frame questions.
@@ -20,9 +25,10 @@ This session introduces students how to use Exploratory Data Analysis and some f
 
 ## Part 3:Data Visualization in Data Science
 * Foundations of Visualization: Understand the importance of effective data visualization in Data Science and the principles that drive meaningful visuals.
-* Seaborn Mastery: Explore [Seaborn](https://seaborn.pydata.org/), a Python library for intuitive statistical graphics.
-* Altair Exploration: Delve into [Altair](https://altair-viz.github.io/), a declarative visualization library for Python.
-* Hands-on Visualization: Harness both Seaborn and [Altair](https://altair-viz.github.io/) to craft impactful visualizations with real datasets.
+* Seaborn Mastery: Explore **[Seaborn](https://seaborn.pydata.org/)**, a Python library for intuitive statistical graphics.
+* Altair Exploration: Delve into **[Altair](https://altair-viz.github.io/)**, a declarative visualization library for Python.
+* Hands-on Visualization: Harness both **[Seaborn](https://seaborn.pydata.org/)** and **[Altair](https://altair-viz.github.io/)** to craft impactful visualizations with real datasets.
+
 
 ## Notebooks
 
