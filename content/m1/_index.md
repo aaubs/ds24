@@ -8,7 +8,11 @@ draft: false
 
 ## M1 - Applied Data Science and Machine Learning
 
-This module provides a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.
+This module provides a condensed introduction to the “Data Science Pipeline,” introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication. This module includes the following four main topics:
+* Introduction to Data Science
+* Rapid Prototyping
+* Unsupervised Machine Learning
+* Supervised Machine Learning
 
 
 <!---

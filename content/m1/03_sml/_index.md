@@ -2,6 +2,8 @@
 title: Supervised Machine Learning (W39)
 weight: 4
 disableToc: true
+draft: true
+
 ---
 
 This chapter introduces you to the intuition behind supervised machine (SML) learning, and demonstrates common techniques and workflows. It also contrasts  SML (trained on labeled data), from traditional inferential statistics (e.g. econometrics).
