@@ -17,9 +17,9 @@ This topic includes 5 sessions as follows:
 - **Introduction to Clustering: K-means & Hierarchical Approaches (Wed, Sep 20th, 08:15-12:00):** This session will introduce the principles and applications of clustering. Students will learn about the different types of clustering problems, and they will explore some of the most popular clustering algorithms, such as K-means and hierarchical clustering.
 - **UML Clustering Group Exercise (Wed, Sep 20th, 12:30-14:15):** This session will be a hands-on exercise where students will cluster a real-world dataset using UML methods. Students will work in teams to identify the optimal number of clusters for the dataset, and they will analyze the characteristics of each cluster.
 
-## Intro slides
+<!-- ## Intro slides
 
 Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) 
   
-{{< IncludeSlides "https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf" >}}
+{{< IncludeSlides "https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf" >}} -->
 
