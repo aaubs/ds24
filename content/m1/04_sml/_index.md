@@ -1,6 +1,6 @@
 ---
-title: Supervised Machine Learning (W39)
-weight: 4
+title: D) Supervised Machine Learning (W39)
+weight: 5
 disableToc: true
 draft: true
 

@@ -29,9 +29,9 @@ The winning team will be announced in the week between 19. and 23. September. ðŸ
 ## The Jury
 
 
-![](/ds22/images/mathias.jpg?height=200px)
+<!-- ![](/ds22/images/mathias.jpg?height=200px)
 
-<!-- **Mathias Boe Flinta**
+**Mathias Boe Flinta**
 CTO at Scandinavian Medical Solutions
 
 Mathias is Head of Data & Analytics & IT at SMS (Scandinavian Medical Solutions). He finished his studies in cand.oecon. (MSc. Economics) one year ago, during which he specialized in BI and Data Science. Currently, he is implementing a new ERP system, which will set a good foundation for BI analysis and predictive foresting with Data Science within the coming year.
