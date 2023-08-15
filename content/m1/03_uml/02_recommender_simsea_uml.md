@@ -1,7 +1,9 @@
 ---
-title: "UML Appliations - Recommender Systems"
+title: "- Recommendation and Similarity Search"
 weight: 2
 disableToc: true
+draft: false
+
 ---
 
 ![](/ds22/images/corgi_airport.png)
