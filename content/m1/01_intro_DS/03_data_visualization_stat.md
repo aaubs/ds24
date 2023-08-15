@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Data Analysis and Essential Statistics"
+title: "- Exploratory Data Analysis and Essential Statistics"
 weight: 3
 disableToc: true
 draft: false

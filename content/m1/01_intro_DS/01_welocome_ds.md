@@ -1,5 +1,5 @@
 ---
-title: "Welcome Students!"
+title: "- Welcome Students!"
 weight: 1
 disableToc: true
 draft: false
