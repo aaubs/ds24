@@ -1,5 +1,5 @@
 ---
-title: "SML - Further topics"
+title: "- SML - Further topics"
 weight: 3
 disableToc: true
 draft: false

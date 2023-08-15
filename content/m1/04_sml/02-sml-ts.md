@@ -1,5 +1,5 @@
 ---
-title: "Time Series Forecasts"
+title: "- Time Series Forecasts"
 weight: 2
 disableToc: true
 draft: false

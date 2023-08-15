@@ -1,12 +1,12 @@
 ---
-title: "Supervised Machine Learning (SML)"
+title: "- Introduction to Supervised ML"
 weight: 1
 disableToc: true
 draft: false
 
 ---
 
-This session introduces supervised machine learning (SML)
+This session introduces supervised machine learning (SML).
 
 
 ## Notebook(s)

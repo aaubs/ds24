@@ -1,5 +1,5 @@
 ---
-title: "SML Appliations - Airbnb Pricing"
+title: "- SML Appliations - Airbnb Pricing"
 weight: 4
 disableToc: true
 draft: false
