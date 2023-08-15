@@ -1,7 +1,7 @@
 ---
 title: "Time Series Forecasts"
 weight: 2
-disableToc: false
+disableToc: true
 draft: false
 ---
 

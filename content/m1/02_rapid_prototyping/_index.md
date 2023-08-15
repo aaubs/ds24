@@ -1,7 +1,7 @@
 ---
 title: B) Rapid Prototyping (W37)
 weight: 3
-disableToc: false
+disableToc: true
 draft: false
 ---
 

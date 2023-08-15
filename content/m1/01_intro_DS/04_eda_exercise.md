@@ -1,7 +1,7 @@
 ---
 title: "- EDA-Exercise on a Real Dataset"
 weight: 4
-disableToc: false
+disableToc: true
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "- Welcome Students!"
 weight: 1
-disableToc: false
+disableToc: true
 draft: false
 ---
 

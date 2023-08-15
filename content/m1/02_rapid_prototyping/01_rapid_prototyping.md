@@ -1,7 +1,7 @@
 ---
 title: "- Rapid Prototyping with Streamlit and Gradio"
 weight: 1
-disableToc: false
+disableToc: true
 draft: false
 ---
 

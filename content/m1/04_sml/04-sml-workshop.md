@@ -1,7 +1,7 @@
 ---
 title: "SML Appliations - Airbnb Pricing"
 weight: 4
-disableToc: false
+disableToc: true
 draft: false
 ---
 

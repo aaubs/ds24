@@ -1,7 +1,7 @@
 ---
 title: "- Introduction to Unsupervised ML"
 weight: 1
-disableToc: false
+disableToc: true
 draft: false
 
 ---

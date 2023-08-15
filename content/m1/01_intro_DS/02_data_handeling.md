@@ -1,7 +1,7 @@
 ---
 title: "- Data Handeling and Manipulation"
 weight: 2
-disableToc: false
+disableToc: true
 draft: false
 ---
 

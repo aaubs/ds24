@@ -1,7 +1,7 @@
 ---
 title: "SML - Further topics"
 weight: 3
-disableToc: false
+disableToc: true
 draft: false
 ---
 

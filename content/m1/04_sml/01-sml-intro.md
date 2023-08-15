@@ -1,7 +1,7 @@
 ---
 title: "Supervised Machine Learning (SML)"
 weight: 1
-disableToc: false
+disableToc: true
 draft: false
 
 ---

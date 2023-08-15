@@ -1,7 +1,7 @@
 ---
 title: "- Exploratory Data Analysis and Essential Statistics"
 weight: 3
-disableToc: false
+disableToc: true
 draft: false
 ---
 
