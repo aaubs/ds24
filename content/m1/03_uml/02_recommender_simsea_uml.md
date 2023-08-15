@@ -1,7 +1,7 @@
 ---
 title: "- Recommendation and Similarity Search"
 weight: 2
-disableToc: true
+disableToc: false
 draft: false
 
 ---

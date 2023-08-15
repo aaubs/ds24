@@ -1,7 +1,7 @@
 ---
 title: "- Dashboard Hackathon Kick-off"
 weight: 3
-disableToc: true
+disableToc: false
 draft: false
 ---
 

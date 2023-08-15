@@ -1,7 +1,7 @@
 ---
 title: "- Data Visualization in Data Science"
 weight: 5
-disableToc: true
+disableToc: false
 draft: false
 ---
 

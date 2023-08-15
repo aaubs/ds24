@@ -1,7 +1,8 @@
 ---
 title: "Time Series Forecasts"
 weight: 2
-disableToc: true
+disableToc: false
+draft: false
 ---
 
 This session introduces to time series analysis and forecasting

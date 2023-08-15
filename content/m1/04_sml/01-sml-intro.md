@@ -1,7 +1,9 @@
 ---
 title: "Supervised Machine Learning (SML)"
 weight: 1
-disableToc: true
+disableToc: false
+draft: false
+
 ---
 
 This session introduces supervised machine learning (SML)
