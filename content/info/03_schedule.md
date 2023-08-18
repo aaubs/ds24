@@ -10,7 +10,7 @@ This will be shortly updated with additional key dates and topics for the semest
 
 ## General appointments
 
-* Introduction to Semester Project and group formation: **.10.2023, 10:30-12:00
+* Introduction to Semester Project and group formation: 24.10.2023, 14:30-16:00
 
 
 ## M1: Week 35-41
