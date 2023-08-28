@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_2.png)
 
 This session will introduce students to the foundational aspects of data handling in Python. Students will learn about the different types of data that are important in data science, and they will explore essential operations like arrange, group-by, filter, select, and join. By the end of this session, students should have a solid understanding of primary data manipulation techniques, setting the stage for more advanced subjects.
 
