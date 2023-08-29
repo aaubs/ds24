@@ -34,4 +34,4 @@ Let's get started on this exciting journey together!
 
 ## Notebooks
 
-* {{< awesome fas fa-laptop-code >}} [Notebook ]()
+* {{< awesome fas fa-laptop-code >}} [How to build a development ecosystem using Colab, Google Drive, Github, and Kaggle:](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Colab_GitHub_Drive_Kaggle.ipynb)
