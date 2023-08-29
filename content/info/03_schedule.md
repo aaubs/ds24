@@ -28,7 +28,7 @@ This will be shortly updated with additional key dates and topics for the semest
    
 ### Key Dates
 
-* EDA Hackathon
+* Data Storytelling Hackathon
    * In groups: Developing EDA Dashboard
    * 12.09.2023 - 15.09.2023
 
