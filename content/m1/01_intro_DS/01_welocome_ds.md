@@ -6,8 +6,7 @@ draft: false
 ---
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
-max-width="400px"
-max-height="300px"
+
 
 This session will introduce you to the fundamentals of data science, with a focus on Python. We will cover the Python data science stack, essential tools and platforms, software setup, semester overview, and Python 101. 
 
