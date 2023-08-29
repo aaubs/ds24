@@ -1,5 +1,5 @@
 ---
-title: "- Dashboard Hackathon Kick-off"
+title: "- Data Storytelling Hackathon Kick-off"
 weight: 3
 disableToc: true
 draft: false
