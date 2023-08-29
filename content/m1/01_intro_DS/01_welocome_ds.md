@@ -25,3 +25,5 @@ This session sets the stage for your data science journey:
 
 Let's get started on this exciting journey together!
 
+
+{{<gslides src="https://docs.google.com/presentation/d/1FuYxsmobCmcxlUPui6_2uRAo1JHWuooSCM06NvbNL2c/edit#slide=id.g275bf9313ce_3_190">}}
