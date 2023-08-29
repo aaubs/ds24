@@ -26,7 +26,12 @@ This session sets the stage for your data science journey:
 Let's get started on this exciting journey together!
 
 
+## Slides
+
+
 {{<gslides src="https://docs.google.com/presentation/d/1FuYxsmobCmcxlUPui6_2uRAo1JHWuooSCM06NvbNL2c/edit#slide=id.g275bf9313ce_3_190">}}
 
 
-<iframe src="https://docs.google.com/presentation/d/1FuYxsmobCmcxlUPui6_2uRAo1JHWuooSCM06NvbNL2c/edit#slide=id.g275bf9313ce_3_190" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Notebooks
+
+* {{< awesome fas fa-laptop-code >}} [Notebook ]()
