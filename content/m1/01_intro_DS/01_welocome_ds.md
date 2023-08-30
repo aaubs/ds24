@@ -2,7 +2,6 @@
 title: "- Welcome Students!"
 weight: 1
 disableToc: true
-date: "2023-09-01"
 draft: false
 ---
 
