@@ -7,7 +7,7 @@ draft: false
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg)
 
-This session will introduce students to the fundamentals of data science, with a focus on Python. Topics covered will include Python data science libraries and frameworks, essential tools and platforms, data handling and manipulation, exploratory data analysis and essential statistics, data visualization, and more. Students will have the opportunity to practice the skills they learn through hands-on exercises and projects.
+In this session, you'll dive into the exciting world of data science, centered around Python. We'll explore key concepts like Python data science libraries, essential tools, data manipulation, uncovering insights from data, important statistics, data visualization, and much more. Get ready to roll up your sleeves and put your learning into action with hands-on exercises and projects. It's a chance to sharpen your skills while having some real fun with data!
 
 ## Part 1: Welcome Students!
 
@@ -23,19 +23,17 @@ This session sets the stage for your data science journey:
 
 * Python 101: We'll ensure everyone is up to speed with Python basics.
 
-Let's get started on this exciting journey together!
+* 🚀 **[Notebook: Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Python-101.ipynb)**
+
+
 
 ## Part 2: Data Handling and Manipulation I (Lecture)
 
 In this session, we'll explore the foundational aspects of data handling. Key takeaways include:
 
-* Datatypes: Grasp the basic types of data crucial for data science.
-**[Notebook: Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-data.ipynb)**
 
 * Data Manipulation: Learn essential operations like arrange, group-by, filter, select, and join, preparing data for analysis.
 **[Notebook: Python Data Manipulation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-manipilation.ipynb)**
-
-By the end, students should have a solid understanding of primary data manipulation techniques, setting the stage for more advanced subjects.
 
 ## Exercises
 
