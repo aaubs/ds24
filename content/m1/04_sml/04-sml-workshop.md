@@ -2,7 +2,7 @@
 title: "- SML Appliations - Airbnb Pricing"
 weight: 4
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](https://source.unsplash.com/0PSCd1wIrm4)

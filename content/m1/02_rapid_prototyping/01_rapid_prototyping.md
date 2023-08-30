@@ -2,7 +2,7 @@
 title: "- Rapid Prototyping with Streamlit and Gradio"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/ds_corgi.png)

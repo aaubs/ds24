@@ -2,7 +2,7 @@
 title: "- Data Storytelling Hackathon Kick-off"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/corgi_hackathon.png)

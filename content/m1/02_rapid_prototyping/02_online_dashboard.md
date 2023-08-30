@@ -2,7 +2,7 @@
 title: "- Real World Data to Online Dashboard"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 This session will focus on creating interactive online dashboards using real-world data. Students will learn how to select and clean data, create visualizations, and deploy their dashboards to the web.
