@@ -34,9 +34,9 @@ Here, you will find the answers to the exercises:
 
 ## Tutorial - Assignment Example
 
-* **[Notebook: EDA Assignment Example - Policing](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Policing_EDA_rev23.ipynb)
+* **[Notebook: EDA Assignment Example - Policing](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Policing_EDA_rev23.ipynb)**
 
-{{< loom 19cdebf4-0103-4099-98c3-e9f3322d3f24 >}}
+{{< loom ce0cc5fd67ee4d91814b21daa33bcb9c >}}
 
 
 <!---
