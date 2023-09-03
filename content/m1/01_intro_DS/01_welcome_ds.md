@@ -24,13 +24,12 @@ This session sets the stage for your data science journey:
 
 * Python 101: We'll ensure everyone is up to speed with Python basics.
 
-* 🚀 **[Notebook: Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Python-101.ipynb)**
-
-
 
 ## Notebooks
 
 * {{< awesome fas fa-laptop-code >}} [How to build a development environment using Colab, Google Drive, GitHub, and Kaggle!](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Colab_GitHub_Drive_Kaggle.ipynb)
+
+* 🚀 **[Notebook: Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Python-101.ipynb)**
 
 <!-- 
 ## Slides
