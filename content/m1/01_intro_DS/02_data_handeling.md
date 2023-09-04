@@ -32,11 +32,13 @@ Here, you will find the answers to the exercises:
 * **[Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises-solutions.ipynb)**
 
 
-## Tutorial - Assignment Example
+## Tutorial - Assignment Examples
 
 * **[Notebook: EDA Assignment Example - Policing](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Policing_EDA_rev23.ipynb)**
 
 {{< loom ce0cc5fd67ee4d91814b21daa33bcb9c >}}
+
+* **[Notebook: EDA Assignment Example - Attrition](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
 
 
 <!---
