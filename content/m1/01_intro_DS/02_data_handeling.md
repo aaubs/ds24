@@ -38,7 +38,7 @@ Here, you will find the answers to the exercises:
 
 {{< loom ce0cc5fd67ee4d91814b21daa33bcb9c >}}
 
-* **[Notebook: EDA Assignment Example - Attrition](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
+<!-- * **[Notebook: EDA Assignment Example - Attrition](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)** -->
 
 
 <!---
