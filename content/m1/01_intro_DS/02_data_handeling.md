@@ -27,7 +27,7 @@ By the end, students should have a solid understanding of primary data manipulat
 
 * **[Notebook: Netflix Pandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_EDA_Exercises_Disney.ipynb)**
 
-* **[Notebook: HR Attrition Assignment](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-BDS23_EDA-visualize_assignment.ipynb)**
+* **[Notebook: HR Attrition Assignment](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/notebooks/M1_BDS23_EDA_visualize_assignment.ipynb)**
 
 Here, you will find the answers to the exercises:
 
