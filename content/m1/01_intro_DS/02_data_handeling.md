@@ -25,6 +25,8 @@ By the end, students should have a solid understanding of primary data manipulat
 
 * **[Notebook: Pandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises.ipynb)**
 
+* **[Notebook: Netflix Pandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_EDA_Exercises_Disney.ipynb)**
+
 Here, you will find the answers to the exercises:
 
 <!-- * **[Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)**
