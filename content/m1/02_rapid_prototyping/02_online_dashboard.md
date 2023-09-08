@@ -62,7 +62,7 @@ Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
 * [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V3.ipynb)
 * [GeoPandas Hands-on Project](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb)
 
-### Introduction to GeoPandas Exercises
+### GeoPandas Exercises
 
 * [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Exercises.ipynb)
 * [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb)
