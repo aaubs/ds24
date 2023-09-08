@@ -2,7 +2,7 @@
 title: "- Real World Data to Online Dashboard"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 This session will focus on creating interactive online dashboards using real-world data. Students will learn how to select and clean data, create visualizations, and deploy their dashboards to the web.
@@ -57,7 +57,12 @@ data['longitude'] = [x['Longitude'] for x in data['GeoCoordinate']]
 
 ### Introduction to GeoPandas
 
-Using GeoPandas to analyze geospatial data will be our focus in this notebook.
+Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
 
-* [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Part1.ipynb)
+* [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V3.ipynb)
+* [GeoPandas Hands-on Project](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb)
+
+### Introduction to GeoPandas Exercises
+
 * [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-GeoPandas-Exercises.ipynb)
+* [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb)
