@@ -9,9 +9,57 @@ draft: false
 ![](/ds22/images/ds_corgi.png)
 Corgi working on a Data Science project. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 
-# Introduction to Streamlit
+Streamlit has rapidly become a go-to tool for data scientists and developers wanting to turn data scripts into shareable web apps. Let's explore its core features and benefits:
 
-Streamlit is a fast and easy way to create web apps for data analysis and visualization using Python. In this tutorial, we will be building an **Employee Attrition Dashboard** to showcase the power and ease of Streamlit.
+## Key Features of Streamlit
+
+1. **Simplicity**: With just a few lines of Python code, you can have a running web application. No need to deal with HTML, CSS, or JavaScript unless you want to.
+2. **Interactive Widgets**: Streamlit offers out-of-the-box widgets like sliders, buttons, and text inputs that make your app interactive.
+3. **Data Integration**: It seamlessly integrates with popular data science libraries like Pandas, Numpy, Matplotlib, and others.
+4. **Data Caching**: With `@st.cache`, Streamlit caches the output of functions, ensuring your data operations are efficient and your apps remain performant.
+5. **Hot Reloading**: As you save changes to your script, the app refreshes in real-time. No need to manually restart your app.
+
+## vs. [Gradio](https://www.gradio.app/) 
+
+While Streamlit offers a robust platform for creating web apps, Gradio provides several distinct advantages, especially when the focus is on deploying machine learning models:
+
+1. **Ease of Model Deployment**: Gradio prioritizes simplifying the deployment of machine learning models. Its intuitive Python API allows for quick interface generation, ensuring accessibility even for non-experts.
+2. **Diverse Input Types**: Gradio supports a wide variety of input formats, from images and text to audio, providing flexibility especially when dealing with different data types.
+3. **Multi-Model Deployment**: Gradio stands out with its capability to simultaneously deploy multiple models, perfect for ensemble methods or side-by-side model comparisons.
+4. **Shareability**: Gradio's feature of generating shareable URLs makes collaboration and showcasing a breeze.
+5. **Security Features**: Gradio offers built-in adversarial robustness, adding an extra layer of protection against potential adversarial attacks on deployed models.
+
+These unique features make Gradio an attractive option for projects that focus on deploying and sharing machine learning models with diverse requirements. We are going to explore gradio after introductions to ML.
+
+
+## Why Choose Streamlit?
+
+- **Rapid Prototyping**: Streamlit's intuitive API and hot reloading mean you can quickly iterate and refine your app.
+- **Open Source**: Being open-source, it boasts a strong community that contributes to its growth and offers a plethora of community plugins.
+- **Deployment Ready**: With platforms like Streamlit Sharing, deploying your app to the world is just a click away.
+- **Extensible**: You can integrate advanced JavaScript features or even other Python libraries to extend Streamlit's capabilities.
+
+## Core Components of Streamlit
+
+### Layout and Widgets
+
+- **Layout**: `st.columns` and `st.container` can be used to design your app's layout.
+- **Widgets**: These are interactive elements like `st.slider()`, `st.selectbox()`, and `st.button()` that capture user input.
+
+### Display Elements
+
+- **Media**: Display images, videos, or audio clips using `st.image()`, `st.video()`, and `st.audio()`.
+- **Charts**: Use `st.line_chart()`, `st.bar_chart()`, or integrate with libraries like Altair for custom visualizations.
+- **Tables**: Showcase data with `st.table()` or `st.dataframe()`.
+
+### Session State
+
+- **State**: Store user data or app state across reruns with `st.session_state`.
+
+## Dive Deeper
+
+To truly master Streamlit, it's recommended to experiment with building various apps and exploring its [official documentation](https://docs.streamlit.io/). The community is active, and there's always something new to learn!
+
 
 ## What You'll Build
 
