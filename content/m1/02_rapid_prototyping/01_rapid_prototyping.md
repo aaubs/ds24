@@ -5,9 +5,9 @@ disableToc: true
 draft: false
 ---
 
+![](/ds23/images/ds_corgy_23_c.jpg)
+Corgi working on a Data Science project. 2023. Roman x [Stable Diffusion XL](https://stability.ai)
 
-![](/ds22/images/ds_corgi.png)
-Corgi working on a Data Science project. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 
 Streamlit has rapidly become a go-to tool for data scientists and developers wanting to turn data scripts into shareable web apps. Let's explore its core features and benefits:
 
@@ -137,6 +137,11 @@ Feel free to explore the app, interact with the various filters and visualizatio
 
 Streamlit offers a user-friendly platform to build and deploy interactive data apps without the need for extensive web development skills. Dive in, explore the code, and customize it to create your own data-driven web applications.
 
----
+
 
 **Happy Coding!** 🚀
+
+
+## Old corgy from last year...
+![](/ds22/images/ds_corgi.png)
+Corgi working on a Data Science project. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
