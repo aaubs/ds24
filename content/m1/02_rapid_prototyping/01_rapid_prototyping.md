@@ -74,6 +74,15 @@ Depending on user input, we visualize the filtered data using various charts. Fo
 
 Finally, expanders provide a space to share insights derived from visualizations and actionable recommendations.
 
+## Access the Deployed App
+
+You can access the final deployed Employee Attrition Dashboard on Streamlit using the link below:
+
+[Employee Attrition Dashboard](https://m1-attrition-app-5axd6zprgn57jmwujpjuhn.streamlit.app)
+
+Feel free to explore the app, interact with the various filters and visualizations, and gain insights into employee attrition patterns.
+
+
 ## Conclusion
 
 Streamlit offers a user-friendly platform to build and deploy interactive data apps without the need for extensive web development skills. Dive in, explore the code, and customize it to create your own data-driven web applications.
