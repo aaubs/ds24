@@ -38,10 +38,12 @@ We'll use a synthetic dataset on employee attrition from this [link](https://raw
 
 Ensure your working directory has the following structure:
 
+```bash
 📦Your_Directory
  ┣ 📜app.py
  ┗ 📜requirements.txt
  ┗ 📜data.csv
+ ```
 
 
 `app.py` will contain our Streamlit app's code, while `requirements.txt` will list the necessary Python packages.
