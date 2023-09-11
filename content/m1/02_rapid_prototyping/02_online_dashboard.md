@@ -5,9 +5,22 @@ disableToc: true
 draft: false
 ---
 
-This session will focus on creating interactive online dashboards using real-world data. Students will learn how to select and clean data, create visualizations, and deploy their dashboards to the web.
+This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.
 
-Deployment: Deployment of projects as WebApps
+### Introduction to GeoPandas
+
+Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
+
+* [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4.ipynb)
+* [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4_Solutions.ipynb)
+* [GeoPandas Hands-on Project](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb)
+
+### GeoPandas Exercises
+
+* [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises.ipynb)
+* [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb)
+
+<!-- Deployment: Deployment of projects as WebApps
 
 ## Part 1: AirBnb
 In this notebook we will be using data from AirBnb for some basic EDA and geoplotting
@@ -19,7 +32,7 @@ In this notebook we will be using data from AirBnb for some basic EDA and geoplo
 
 In this notebook we will be learning how to work with data from Kaggle as well as exercise more simple data-viz.
 * [Kaggle starter](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-kaggle-class.ipynb)
-* [Kaggle class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-kaggle-class.ipynb)
+* [Kaggle class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-kaggle-class.ipynb) -->
 
 
 ### What to do now?!
@@ -55,15 +68,3 @@ data['latitude'] = [x['Latitude'] for x in data['GeoCoordinate']]
 data['longitude'] = [x['Longitude'] for x in data['GeoCoordinate']]
 ````
 
-### Introduction to GeoPandas
-
-Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
-
-* [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4.ipynb)
-* [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4_Solutions.ipynb)
-* [GeoPandas Hands-on Project](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb)
-
-### GeoPandas Exercises
-
-* [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises.ipynb)
-* [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb)
