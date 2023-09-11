@@ -7,6 +7,11 @@ draft: false
 
 This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.
 
+
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/GeoPandas3.jpeg)
+
+
+
 ### Introduction to GeoPandas
 
 Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
