@@ -60,7 +60,7 @@ data['longitude'] = [x['Longitude'] for x in data['GeoCoordinate']]
 Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
 
 * [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4.ipynb)
-# * [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4_Solutions.ipynb)
+# [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4_Solutions.ipynb)
 * [GeoPandas Hands-on Project](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb)
 
 ### GeoPandas Exercises
