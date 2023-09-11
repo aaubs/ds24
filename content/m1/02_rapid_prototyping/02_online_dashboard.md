@@ -25,6 +25,11 @@ Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
 * [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises.ipynb)
 * [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb)
 
+### From Geopandas to Streamlit App 🚀
+* [Simplified version of the analysis - with Folium Plotting](https://colab.research.google.com/github/aaubs/ds-master/blob/main/apps/M1-seattle-school-police/geopandas_forapp.ipynb)
+* [App code](https://gist.github.com/RJuro/81375595bfc0c73b619b8d5d9128ff41)
+* [Deployed App](https://2ngx5tmv8wgzchtkxghdfw.streamlit.app/)
+
 <!-- Deployment: Deployment of projects as WebApps
 
 ## Part 1: AirBnb
@@ -38,6 +43,8 @@ In this notebook we will be using data from AirBnb for some basic EDA and geoplo
 In this notebook we will be learning how to work with data from Kaggle as well as exercise more simple data-viz.
 * [Kaggle starter](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-kaggle-class.ipynb)
 * [Kaggle class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-kaggle-class.ipynb) -->
+
+
 
 
 ### What to do now?!
