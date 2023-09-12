@@ -34,6 +34,10 @@ Here, you will find the answers to the exercises:
 * **[Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)**
 
 * **[Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises-solutions.ipynb)**
+  
+* * **[Notebook: HR Attrition Assignment solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
+    
+  * * **[Notebook: Netflix Pandas exercise solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_BDS23_EDA_visualize_assignment.ipynb)**
 
 
 ## Tutorial - Assignment Examples
