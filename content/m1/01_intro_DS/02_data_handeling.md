@@ -35,9 +35,9 @@ Here, you will find the answers to the exercises:
 
 * **[Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises-solutions.ipynb)**
   
-* * **[Notebook: HR Attrition Assignment solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
+*  **[Notebook: HR Attrition Assignment solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
     
-  * * **[Notebook: Netflix Pandas exercise solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_BDS23_EDA_visualize_assignment.ipynb)**
+*  **[Notebook: Netflix Pandas exercise solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/Exercises_EDA_solutions.ipynb)**
 
 
 ## Tutorial - Assignment Examples
