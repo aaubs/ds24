@@ -2,11 +2,11 @@
 title: "- Recommendation and Similarity Search"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 
 ---
 
-![](/ds22/images/corgi_airport.png)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nomad_recommender.jpg)
 Corgis in an Airport. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 
 
@@ -18,11 +18,11 @@ Such systems are probably the most widely used and commercialy valuable form of 
 * Streamlit recommender-app
 
 ## Notebook(s)
-* [{{< awesome fas fa-laptop-code >}} Uncommented code-snippet notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-recommender-nomadlis.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Uncommented code-snippet notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_Nomadlis_v2.ipynb)
 
 ## App
 * [source code for the app](/ds22/apps/nomadrecommender.zip)
-* [deployed recommender app](https://rjuro-streamlit-nomad-recommender-app-recommender-b2qt3y.streamlitapp.com/)
+* [deployed recommender app](https://recommendersys1-8d5sbggabqm6wb96pyez7p.streamlit.app/
 
 ## Recommended Readings and resources
 * This excellent [PyData Talk](https://youtu.be/EgE0DUrYmo8) by the developer of LightFM
