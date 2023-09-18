@@ -7,7 +7,7 @@ draft: false
 ---
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nomad_recommender.jpg)
-Corgis in an Airport. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
+<!-- Corgis in an Airport. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) -->
 
 
 In this workshop we are going to learn about recommender systems as a type of UML.
