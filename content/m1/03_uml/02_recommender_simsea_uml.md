@@ -19,7 +19,7 @@ Such systems are probably the most widely used and commercialy valuable form of 
 
 ## Notebook(s)
 * [{{< awesome fas fa-laptop-code >}} Nomadlist Trips Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_Nomadlis_v2.ipynb)
-* [Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb#scrollTo=foRPzT7r5YVs)
+* [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb#scrollTo=foRPzT7r5YVs)
 
 ## App
 * [source code for the app](/ds22/apps/nomadrecommender.zip)
