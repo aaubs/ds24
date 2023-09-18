@@ -23,7 +23,7 @@ Such systems are probably the most widely used and commercialy valuable form of 
 
 ## App
 * [source code for the app](/ds22/apps/nomadrecommender.zip)
-* [deployed recommender app](https://recommendersys1-8d5sbggabqm6wb96pyez7p.streamlit.app/
+* [deployed recommender app](https://recommendersys1-8d5sbggabqm6wb96pyez7p.streamlit.app/)
 
 ## Recommended Readings and resources
 * This excellent [PyData Talk](https://youtu.be/EgE0DUrYmo8) by the developer of LightFM
