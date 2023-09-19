@@ -22,10 +22,10 @@ This session will introduce the principles and applications of clustering. Stude
     * In Depth: Principal Component Analysis
     * In Depth: k-Means Clustering
 
-* Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+<!-- * Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 
 ## Intro slides
 
 Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) 
   
-{{< IncludeSlides "https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf" >}}
+{{< IncludeSlides "https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf" >}} -->
