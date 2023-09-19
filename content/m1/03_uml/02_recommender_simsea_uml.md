@@ -18,8 +18,9 @@ Such systems are probably the most widely used and commercialy valuable form of 
 * Streamlit recommender-app
 
 ## Notebook(s)
-* [{{< awesome fas fa-laptop-code >}} Nomadlist Trips Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_Nomadlis_v2.ipynb)
-* [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb#scrollTo=foRPzT7r5YVs)
+* [{{< awesome fas fa-laptop-code >}} Nomadlist Trips Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Recap Dimensionality Reduction]()
 
 ## App
 * [Source code for the app](/ds22/apps/nomadrecommender.zip)
