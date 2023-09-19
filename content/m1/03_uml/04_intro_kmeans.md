@@ -2,14 +2,14 @@
 title: "- Introduction to Clustering: K-means and Hierarchical Approaches"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 
 ---
 
 This session will introduce the principles and applications of clustering. Students will learn about the different types of clustering problems, and they will explore some of the most popular clustering algorithms, such as K-means and hierarchical clustering.
 
 ## Notebook(s)
-* [{{< awesome fas fa-laptop-code >}} Hands-on Intro to Dimensionality reduction and Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-UML-nomads.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb)
 
 ## Recommended Datacamp exercises:
    * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
