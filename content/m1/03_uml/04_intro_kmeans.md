@@ -8,6 +8,8 @@ draft: false
 
 This session will introduce the principles and applications of clustering. Students will learn about the different types of clustering problems, and they will explore some of the most popular clustering algorithms, such as K-means and hierarchical clustering.
 
+<img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nba_Clustering_yale.png" width="800" height="800">
+
 ## Notebook(s)
 * [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb)
 
