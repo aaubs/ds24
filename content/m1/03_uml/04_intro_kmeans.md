@@ -17,6 +17,7 @@ This session will introduce the principles and applications of clustering. Stude
 
 ## App
 * [{{< awesome fas fa-laptop-code >}} NBA Player Injury Replacement Recommender](https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit)
+* [{{< awesome fas fa-laptop-code >}} NBA Player Injury Replacement Recommender Streamlit] (https://injuryreplacement-9dqxgbmk9zbfqveaxqfqtd.streamlit.app/)
 
 ## Recommended Datacamp exercises:
    * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
