@@ -14,6 +14,7 @@ This session will introduce the principles and applications of clustering. Stude
 
 ## Notebook(s)
 * [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4_Solutions.ipynb)
 
 ## App
 * [{{< awesome fas fa-laptop-code >}} NBA Player Injury Replacement Recommender](https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit)
