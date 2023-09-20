@@ -20,6 +20,8 @@ This session will be a hands-on workshop where students will build their own rec
 ## Notebook(s)
 * [{{< awesome fas fa-laptop-code >}} Uncommented code-snippet notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-recommender-nomadlis.ipynb)
 
+* [{{< awesome fas fa-laptop-code >}} Assignment for the UML](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Assignement_UML.ipynb)
+* 
 ## App
 * [source code for the app](/ds22/apps/nomadrecommender.zip)
 * [deployed recommender app](https://rjuro-streamlit-nomad-recommender-app-recommender-b2qt3y.streamlitapp.com/)
