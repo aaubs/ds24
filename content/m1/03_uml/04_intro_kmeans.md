@@ -16,7 +16,7 @@ This session will introduce the principles and applications of clustering. Stude
 * [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb)
 
 ## App
-* [NBA Player Injury Replacement Recommender](https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit)
+* [{{< awesome fas fa-laptop-code >}} NBA Player Injury Replacement Recommender](https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit)
 
 ## Recommended Datacamp exercises:
    * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
