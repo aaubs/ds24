@@ -1,5 +1,5 @@
 ---
-title: "- Data Handeling and Manipulation"
+title: "- Data Handling and Manipulation"
 weight: 2
 disableToc: true
 draft: false

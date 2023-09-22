@@ -2,11 +2,19 @@
 title: "- Introduction to Supervised ML"
 weight: 1
 disableToc: true
-draft: true
+draft: false
 
 ---
 
-This session introduces supervised machine learning (SML).
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_3.png)
+
+This session introduces supervised machine learning (SML) and related main concepts.
+
+## Intro slides
+
+Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html) 
+  
+{{< IncludeSlides "https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html" >}}
 
 
 ## Notebook(s)
