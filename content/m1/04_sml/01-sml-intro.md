@@ -19,7 +19,7 @@ Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https
 
 ## Notebook(s)
 
-* [{{< awesome fas fa-laptop-code >}} Introduction to Supervised Machine Learning](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-6-sml/notebooks/s1-sml-intro.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Introduction to Supervised Machine Learning](https://colab.research.google.com/github/aaubs/ds23/blob/master/notebooks/M1-sml-intro.ipynb)
 
 ## Recommended Datacamp exercises:
 

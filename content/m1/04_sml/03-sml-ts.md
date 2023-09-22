@@ -1,6 +1,6 @@
 ---
 title: "- Time Series Forecasts"
-weight: 2
+weight: 3
 disableToc: true
 draft: true
 ---
@@ -10,7 +10,7 @@ This session introduces to time series analysis and forecasting
 
 ## Notebook(s)
 
-* [{{< awesome fas fa-laptop-code >}} Introduction to Timeseries Forecasting](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/courses/ds4b-m1-6-sml/notebooks/s2-sml-timeseries.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Introduction to Timeseries Forecasting](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-timeseries.ipynb)
 
 
 

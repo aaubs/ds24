@@ -16,6 +16,9 @@ In this workshop we will try to use SML, explainability methods and build an app
 * [{{< awesome fas fa-laptop-code >}} Model Training NB](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-new-room-on-airbnb-dev.ipynb)
 * [{{< awesome fas fa-laptop-code >}} Model Inference NB](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-new-room-on-airbnb-inference.ipynb)
 
+
+<!--
+
 ## App and repo
 * [{{< awesome fas fa-laptop-code >}} Streamlit App 🚀](https://rjuro-predict-airbnb-price-streamlit-predict-air-pjmcfb.streamlitapp.com/)
 * [{{< awesome fab fa-github >}} App Repo](https://github.com/RJuro/predict-airbnb-price-streamlit)
@@ -27,7 +30,6 @@ In this workshop we will try to use SML, explainability methods and build an app
 
 {{< loom 3515e14002814444bd21cc6966fdfe8d>}}
 
-<!-- 
 ## App
 * [source code for the app](/ds22/apps/nomadrecommender.zip)
 * [deployed recommender app](https://rjuro-streamlit-nomad-recommender-app-recommender-b2qt3y.streamlitapp.com/)
