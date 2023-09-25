@@ -2,9 +2,10 @@
 title: "- SML - Further topics"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png)
 
 This session introduces adittional topics of intertest in SML
 
