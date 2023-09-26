@@ -10,7 +10,7 @@ This session introduces to time series analysis and forecasting
 
 ## Notebook(s)
 
-* [{{< awesome fas fa-laptop-code >}} Introduction to Timeseries Forecasting](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-timeseries.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Introduction to Timeseries Forecasting](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-timeseries-2.ipynb)
 
 
 
