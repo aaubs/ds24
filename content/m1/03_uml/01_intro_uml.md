@@ -15,8 +15,9 @@ This session will introduce the principles and applications of unsupervised mach
 ## Notebook(s)
 * [{{< awesome fas fa-laptop-code >}} Hands-on Intro to Dimensionality reduction and Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_UML_nomads.ipynb)
 
-* * [{{< awesome fas fa-laptop-code >}} Assignment for the UML](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Assignement_UML.ipynb)
+*  [{{< awesome fas fa-laptop-code >}} Assignment for the UML](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Assignement_UML.ipynb)
 
+*  [{{< awesome fas fa-laptop-code >}} Assignment for the UML Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_spotify_UML.ipynb)
 
 
 ## Recommended Datacamp exercises:
