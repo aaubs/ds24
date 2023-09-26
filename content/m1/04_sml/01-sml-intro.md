@@ -10,6 +10,10 @@ draft: false
 
 This session introduces supervised machine learning (SML) and related main concepts.
 
+## Notebook(s)
+
+* [{{< awesome fas fa-laptop-code >}} Introduction to Supervised Machine Learning](https://colab.research.google.com/github/aaubs/ds23/blob/master/notebooks/M1-sml-intro.ipynb)
+
 ## Intro slides
 
 Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html) 
@@ -17,9 +21,7 @@ Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https
 {{< IncludeSlides "https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html" >}}
 
 
-## Notebook(s)
 
-* [{{< awesome fas fa-laptop-code >}} Introduction to Supervised Machine Learning](https://colab.research.google.com/github/aaubs/ds23/blob/master/notebooks/M1-sml-intro.ipynb)
 
 ## Recommended Datacamp exercises:
 

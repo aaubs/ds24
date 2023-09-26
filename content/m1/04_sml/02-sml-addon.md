@@ -14,9 +14,6 @@ This session introduces adittional topics of intertest in SML
 * [{{< awesome fas fa-laptop-code >}} Introduction to Explainable ML](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-further-topics.ipynb)
 * [{{< awesome fas fa-laptop-code >}} Data engineeering & pipelines](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-SML-pipes.ipynb)
 
-
-
-
 ## Recommended Datacamp exercises:
 
 *   ...
