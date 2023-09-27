@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_5.png)
 
 This session introduces to time series analysis and forecasting
 
