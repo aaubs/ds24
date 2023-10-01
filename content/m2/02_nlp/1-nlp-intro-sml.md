@@ -5,9 +5,8 @@ disableToc: true
 draft: true
 ---
 
-![](/ds22/images/viz-corgi-nlp1.png)
-Corgies doing NLP - Medieval Fresco. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
-
+![](/ds23/images/M2_nlp_dog1.jpg)
+Medieval clergy, smartphones and dogs 2023. Roman x Stable Diffusion XL
 
 
 This session introduces basic concepts of NLP. 
@@ -53,7 +52,9 @@ The best-reported results for this dataset are.
 
 This notebook contains an extended solution.
 
-* [Hate Speech Detection](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-hatespeech-nlp-explainer-tm.ipynb)
+* [Hate Speech Detection](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_hatespeech_nlp_explainer_tm_2023.ipynb)
+
+<!--
 
 ### Context - Exercise: Presidential Debate 2020
 
@@ -71,8 +72,9 @@ Yes, we are going back in time to the Presidential Debate in the US 2020 - the t
 Both datasets are in JSON format.
 Task: Build a classifier that can distinguish Dem/Rep tweets. Bonus: 1. Explore discussed topics; 2. find out what drives predictions.
 
+
 ## Notebook
 
 In-class-solution and add-ons (TM)
 
-* [Political Tweets Prediction](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-pol_tweets_workshop.ipynb)
+* [Political Tweets Prediction](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-pol_tweets_workshop.ipynb) -->

@@ -1,8 +1,8 @@
 ---
 title: Natural Language Processing
-weight: 4
+weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 This chapter introduces you to statistical natural language processing. We will be focusing on NLP in combination with supervised ML as well as topic modelling for unsupervised approaches.
@@ -19,7 +19,7 @@ This chapter introduces you to statistical natural language processing. We will 
 
 ## Pre-recorded theory intro
 
-recording from last year, in case you'd like to review
+recording from 2021, in case you'd like to review
 
 {{< tabs >}}
 No slides ... you'll probably have to take handwritten notes - if you want.
