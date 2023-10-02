@@ -65,10 +65,10 @@ We'll analyze political tweets from around the time of the US Presidential Debat
 
 ## Datasets
 1. **Political tweets:** Preprocessed and labeled (1: Democrats, 0: Republicans).
-   - [Download Link](https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz)
+   - `https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz`
    
 2. **Debate tweets:** From around the time of the debate in October 2020 (8,000 entries).
-   - [Download Link](https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz)
+   - `https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz`
 
 Both datasets are in JSON format.
 
