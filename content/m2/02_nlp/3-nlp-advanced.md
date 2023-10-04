@@ -112,3 +112,12 @@ The iput data looks like this:
 ## Notebook
 
 [{{< awesome fas fa-laptop-code >}} Training Chatbot](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_chatbot_train.ipynb)
+
+## Assignment
+
+### Create an intent classifier
+Use following data from HF: `fathyshalab/atis-flight
+
+### Build an FAQ bot
+
+Use folloqing dataset from HF: `Andyrasika/Ecommerce_FAQ` 
