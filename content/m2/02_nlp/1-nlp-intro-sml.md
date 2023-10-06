@@ -158,6 +158,7 @@ Both datasets are in JSON format.
 
 Good luck, and may your model classify accurately and provide enlightening explanations!
 
+* [Notebook from class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_politikal_tweet_workshop_class.ipynb)
 
 
 
