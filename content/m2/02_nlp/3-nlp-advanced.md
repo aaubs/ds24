@@ -124,6 +124,8 @@ Use folloqing dataset from HF: `Andyrasika/Ecommerce_FAQ`
 
 ### AAU Handbook-bot (Roman solution)
 
+The provided code in the notebook aims to establish a simple text-based question-answering bot utilizing pre-trained Floret word vectors and spaCy to process textual data. Upon receiving a user-input question, the bot evaluates its similarity with pre-existing questions in its dataset using cosine similarity, attempting to find the most pertinent match. If a sufficiently similar question is identified (based on a pre-defined similarity threshold), the bot provides the corresponding answer; otherwise, it prompts the user with the closest matching questions from the dataset, requesting a more precise inquiry.
+
 [{{< awesome fas fa-laptop-code >}} Similarity-based Chatbot](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_chatbot_aau_handbook.ipynb)
 
 
