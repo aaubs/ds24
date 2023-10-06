@@ -116,8 +116,14 @@ The iput data looks like this:
 ## Assignment
 
 ### Create an intent classifier
-Use following data from HF: `fathyshalab/atis-flight
+Use following data from HF: `fathyshalab/atis-flight`
 
 ### Build an FAQ bot
 
 Use folloqing dataset from HF: `Andyrasika/Ecommerce_FAQ` 
+
+### AAU Handbook-bot (Roman solution)
+
+[{{< awesome fas fa-laptop-code >}} Similarity-based Chatbot](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_chatbot_aau_handbook.ipynb)
+
+
