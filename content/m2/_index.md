@@ -6,8 +6,6 @@ chapter: false
 draft: false
 ---
 
-![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_5.png)
-
 ## M2 - Network Analysis & NLP
 
 This module provides a condensed introduction analyzing two popular forms of unstructured data, namely relational and text data.
