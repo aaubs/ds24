@@ -10,7 +10,7 @@ draft: true
 ## Introduction
 
 * In this exercise, you will replicate a well known network analysis, with different data and some twists. 
-* Data: The data is to be found at: https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard  (Hint: You neet to download the raw data)
+* Data: The data is to be found at: https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard  (Hint: You need to download the raw data)
 
 ## Data: What do I get?
 
@@ -75,9 +75,11 @@ C: Relational Characteristics: Answer the following questions:
 
 Everything goes. Show us some pretty and informative plots. Choose what to plot, and how, on your own. Interpret the results and share some insights.
 
-### Solution
+<!---
+## Notebooks
 
-*  [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/Solution_M2_A1.ipynb)
+*  [Example Solution](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/Solution_M2_A1.ipynb)
+--->
 
 
 # Exercise 2: Crime Network

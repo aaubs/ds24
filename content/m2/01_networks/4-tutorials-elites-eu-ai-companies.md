@@ -2,17 +2,17 @@
 title: "NW Cases"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 ---
 
-## Danish Power Elites
+# Case: Danish Power Elites
 
 ![](https://source.unsplash.com/GWe0dlVD9e0)
 
 > Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. [read more](https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite)
 
 In this project we are going to construct and explore a network of Danish power elites derived from boards of various organisations in th country.
-We will construct an association network: Who is being in the same board? And first explore "basic" centrality indicators. Then identify communities and central persons within those. Finally we look at some "fancier" interactive network visualisation.
+We will construct an association network: Who is being in the same board? And first explore "basic" centrality indicators. Then identify communities and central persons within those. 
 
 
 ### Context: The Danish Power Elites
@@ -35,8 +35,23 @@ We will construct an association network: Who is being in the same board? And fi
 * What characterizes them?
 * Link up with additional data?
 
+## Notebooks
 
-## European AI Companies
+* [Magteliten Starter Code](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites_starter.ipynb)
+
+<!--
+* [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+-->
+
+
+<!--
+
+## Resources
+
+* https://gephi.org/ - Gephi: "Photoshop for networks"
+* [Mapping Controversies](https://jacomyma.github.io/mapping-controversies/)
+
+# Case: European AI Companies
 
 ![](https://source.unsplash.com/9SoCnyQmkzI) 
 
@@ -51,19 +66,8 @@ Before venturing into analysis, you will have to prepare the data (filter, clean
 
 We've prepared a starter notebook for you to get started: [👉 Starter EU AI companies](https://colab.research.google.com/github/aaubs/ds-master/blob/master/notebooks/M2_mapping_european_ai.ipynb)
 
-
 ## Notebooks
-
 * [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai.ipynb)
-* [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai-class.ipynb)
-* [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
-
-
-## Resources
-
-* https://gephi.org/ - Gephi: "Photoshop for networks"
-* [Mapping Controversies](https://jacomyma.github.io/mapping-controversies/)
-
-<!--
-* [Python Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
+* [Class Notebook EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai-class.ipynb)
+* [R Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
 -->
