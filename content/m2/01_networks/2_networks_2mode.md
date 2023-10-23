@@ -2,7 +2,7 @@
 title: 2 Mode Networks
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 This session introduces to multimodel (2+) network analysis concepts.
