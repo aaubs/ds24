@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_6.png)
+![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_7.png)
 
 This session introduces to multimodel (2+) network analysis concepts.
 
