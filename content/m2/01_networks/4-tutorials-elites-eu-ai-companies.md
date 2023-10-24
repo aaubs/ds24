@@ -38,10 +38,7 @@ We will construct an association network: Who is being in the same board? And fi
 ## Notebooks
 
 * [Magteliten Starter Code](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites_starter.ipynb)
-
-<!--
 * [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
--->
 
 # Case 2: European AI Companies
 
