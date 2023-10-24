@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-# Case: Danish Power Elites
+# Case 1: Danish Power Elites
 
 ![](https://source.unsplash.com/GWe0dlVD9e0)
 
@@ -43,15 +43,7 @@ We will construct an association network: Who is being in the same board? And fi
 * [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
 -->
 
-
-<!--
-
-## Resources
-
-* https://gephi.org/ - Gephi: "Photoshop for networks"
-* [Mapping Controversies](https://jacomyma.github.io/mapping-controversies/)
-
-# Case: European AI Companies
+# Case 2: European AI Companies
 
 ![](https://source.unsplash.com/9SoCnyQmkzI) 
 
@@ -68,6 +60,12 @@ We've prepared a starter notebook for you to get started: [👉 Starter EU AI co
 
 ## Notebooks
 * [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai.ipynb)
+
+<!---
 * [Class Notebook EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai-class.ipynb)
-* [R Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
--->
+--->
+
+## Resources
+
+* https://gephi.org/ - Gephi: "Photoshop for networks"
+* [Mapping Controversies](https://jacomyma.github.io/mapping-controversies/)
