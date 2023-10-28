@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-In this session, you will review PyTorch and learn how to train, infer, and evaluate a simple ANN.
+In this session, you will review PyTorch and learn how to train, infer, and evaluate a simple ANN, RNN, and LSTM.
 
 ## Auto Insurance in Sweden
 
