@@ -1,8 +1,8 @@
 ---
-title: Intro to Deep Learning
+title: Intro to Traditional Deep Learning
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 This chapter introduces you to the basics of deep learning, including its history, important concepts, and applications.
