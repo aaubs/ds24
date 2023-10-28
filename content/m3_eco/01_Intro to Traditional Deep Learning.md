@@ -1,11 +1,17 @@
 ---
-title: "Exercise Session 1"
+title: "Part 1: Intro to Traditional Deep Learning"
 weight: 3
 disableToc: true
 draft: false
 ---
 
 In this session, you will review PyTorch and learn how to train, infer, and evaluate a simple ANN.
+
+## Slides
+
+  Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides](https://aaubs.github.io/ds-master/slides/M4_1_ANN_intro.html).
+
+{{< IncludeSlides "https://aaubs.github.io/ds-master/slides/M4_1_ANN_intro.html" >}}
 
 ## Auto Insurance in Sweden
 
