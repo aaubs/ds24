@@ -38,6 +38,11 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 * [Implementing Simple ANN using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
 * [Implementing Simple ANN using PyTorch - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
 
+## Exercises and Solutions
+
+* [ANN Exercise](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro_v3_Exercise.ipynb)
+* [ANN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro_v3_Exercise_Solution.ipynb)
+
 
 ## Slides
 
