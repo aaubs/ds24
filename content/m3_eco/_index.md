@@ -1,6 +1,6 @@
 ---
 title:  Applied Deep Learning and Artificial Intelligence
-weight: 4
+weight: 3
 pre: "<b>4. </b>"
 chapter: false
 draft: false
