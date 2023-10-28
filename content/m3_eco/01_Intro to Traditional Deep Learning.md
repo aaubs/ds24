@@ -7,12 +7,6 @@ draft: false
 
 In this session, you will review PyTorch and learn how to train, infer, and evaluate a simple ANN.
 
-## Slides
-
-  Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides](https://aaubs.github.io/ds-master/slides/M4_1_ANN_intro.html).
-
-{{< IncludeSlides "https://aaubs.github.io/ds-master/slides/M4_1_ANN_intro.html" >}}
-
 ## Auto Insurance in Sweden
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Auto-Insurance.jpeg)
@@ -41,6 +35,12 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 * [Implementing a Simple ANN using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch.ipynb)
 * [Implementing Simple ANN using PyTorch - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
 
+
+## Slides
+
+  Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides](https://aaubs.github.io/ds-master/slides/M4_1_ANN_intro.html).
+
+{{< IncludeSlides "https://aaubs.github.io/ds-master/slides/M4_1_ANN_intro.html" >}}
 
 ## Resources
 
