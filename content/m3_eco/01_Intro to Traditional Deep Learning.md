@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Intro to Traditional Deep Learning"
+title: "Intro to Traditional Deep Learning"
 weight: 3
 disableToc: true
 draft: false
