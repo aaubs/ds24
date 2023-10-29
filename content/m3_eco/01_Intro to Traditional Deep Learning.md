@@ -35,17 +35,19 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 * [Intro to Traditional Deep Learning - ANN](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_ann_intro_v3.ipynb)
 * [Intro to Traditional Deep Learning - RNN](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_RNN_Tutorial_v2.ipynb)
 * [Intro to Traditional Deep Learning - LSTM](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_LSTM_Tutorial_v2.ipynb)
-* [Implementing Simple ANN using PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
-* [Implementing Simple ANN using PyTorch - Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Exercise_Session_1_ANN_Pytorch_Solution.ipynb)
 
-## Exercises and Solutions
+
+## Exercises  
 
 * [ANN Exercise](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro_v3_Exercise.ipynb)
-* [ANN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro_v3_Exercise_Solution.ipynb)
 * [RNN Exercise](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_RNN_Exercise_v3.ipynb)
+* [LSTM Exercise](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_LSTM_Tutorial_v2_Exercise.ipynb)
+
+
+## Solutions
+* [ANN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro_v3_Exercise_Solution.ipynb)
 * [RNN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_RNN_Exercise_Solution_v3.ipynb)
-* [LSTM Exercise](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_RNN_Exercise_v3.ipynb)
-* [LSTM Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_RNN_Exercise_Solution_v3.ipynb)
+* [LSTM Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_LSTM_Tutorial_v2_Exercise_Solution.ipynb)
 
 ## Slides
 
