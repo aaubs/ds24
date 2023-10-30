@@ -7,6 +7,8 @@ draft: false
 
 # Portfolio Exercise 1
 
+> **Note:** M3 - Group Assignment 1 Deadline: Monday, 6th of November at 12:00 PM
+
 ## Introduction
 
 In this assignment, you are required to delve into the practical aspects of Deep Learning by constructing and evaluating a neural network using PyTorch. This exercise is designed to deepen your understanding of neural network architectures, hyperparameter tuning, and the preprocessing steps necessary for effective model training and evaluation. You will have the freedom to choose a dataset from either the M1 or M2 module or select an external dataset that intrigues you. By experimenting with different neural network configurations and hyperparameters, you will gain hands-on experience in optimizing ML models to achieve desired performance metrics. 
