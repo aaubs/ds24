@@ -1,6 +1,6 @@
 ---
 title: "Group Assignment 1"
-weight: 2
+weight: 4
 disableToc: true
 draft: false
 ---
