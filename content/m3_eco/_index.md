@@ -6,6 +6,7 @@ chapter: false
 draft: false
 ---
 
+
 ## M3 - Applied Deep Learning and Artificial Intelligence
 
 > **Note:** M3 - Final Assignment Deadline: Monday, 8 January 2024, 12:00 PM
