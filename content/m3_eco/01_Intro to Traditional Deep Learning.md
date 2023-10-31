@@ -28,8 +28,6 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 * First step: We will create a simple Artificial Neural Network with 1 node and training with 1 sample of data 
 * Second step: The simple Artificial Neural Network will be trained through the dataset
 
-
-
 ## Notebooks
 
 * [Intro to Traditional Deep Learning - ANN](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_ann_intro_v3.ipynb)
