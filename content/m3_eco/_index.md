@@ -10,6 +10,7 @@ draft: false
 ## M3 - Applied Deep Learning and Artificial Intelligence
 > **Note:** M3 - Final Assignment Deadline: Monday, 8 January 2024, 12:00 PM
 
+
 This course provides a practical and applied introduction to deep learning, specifically tailored for economics students. It covers the fundamentals of deep learning, including foundational concepts, tensors, typical architectures, and applications in economics. The course will also delve into various training paradigms and tools prevalent in deep learning.
 
 Initially, the course focuses on traditional neural network architectures such as ANNs, CNNs, RNNs, and LSTMs, exploring their utility in addressing economic challenges like forecasting. As the course progresses, students will delve into advanced topics like GNNs, Transformer models, and GPT models, with a focus on the attention mechanism and its role in enhancing model performance. Practical insights will be shared on tools within the GNN, Transformer, and GPT ecosystems, and their applications in real-world economic scenarios, particularly in patent research.
