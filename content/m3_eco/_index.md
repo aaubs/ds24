@@ -8,7 +8,6 @@ draft: false
 
 
 ## M3 - Applied Deep Learning and Artificial Intelligence
-
 > **Note:** M3 - Final Assignment Deadline: Monday, 8 January 2024, 12:00 PM
 
 This course provides a practical and applied introduction to deep learning, specifically tailored for economics students. It covers the fundamentals of deep learning, including foundational concepts, tensors, typical architectures, and applications in economics. The course will also delve into various training paradigms and tools prevalent in deep learning.
