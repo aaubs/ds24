@@ -52,7 +52,7 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 
 ## Recommended Datacamp exercises 
 
-* [Deep Learning with PyTorch] (https://campus.datacamp.com/courses/deep-learning-with-pytorch/introduction-to-pytorch?ex=1)
+* [Deep Learning with PyTorch](https://campus.datacamp.com/courses/deep-learning-with-pytorch/introduction-to-pytorch?ex=1)
 
 ## Slides
 
