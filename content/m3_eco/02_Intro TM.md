@@ -20,11 +20,17 @@ draft: false
 [Simple transformer LM](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA)
 
    
-## Notebooks
+## Notebooks - Basics
+
+* [Transformer Models - Basics]()
+
+## Notebooks - Applications
 
 * [Seq2Seq - Neural Machine Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PyTorch_Seq2seq.ipynb)
-
 * [Simple transformer LM](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA)
+
+## Notebooks - FineTuning
+
 
 ## Slides
 
