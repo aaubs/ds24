@@ -26,6 +26,8 @@ draft: false
 
 ## Notebooks - Applications
 
+* [TM Applications - SBERT](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_SBERT.ipynb)
+* [TM Applications - HF](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_HF.ipynb)
 * [Seq2Seq - Neural Machine Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PyTorch_Seq2seq.ipynb)
 * [Simple transformer LM](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA)
 
