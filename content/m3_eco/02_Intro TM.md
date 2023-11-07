@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Transformer Models"
+title: "Intro to Transformer Models"
 weight: 3
 disableToc: true
 draft: false
