@@ -22,7 +22,7 @@ draft: false
    
 ## Notebooks - Basics
 
-* [Transformer Models - Basics]()
+* [Transformer Models - Basics](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_v2.ipynb)
 
 ## Notebooks - Applications
 
