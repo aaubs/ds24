@@ -34,7 +34,7 @@ draft: false
 
 * [TM FineTuning - SimpleTransformers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_simpletransformer.ipynb)
 * [TM Applications - SBERT]()
-* [TM Applications - SBERT]()
+* [TM Applications - HF]()
 * [Seq2Seq - Neural Machine Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PyTorch_Seq2seq.ipynb)
 
 
