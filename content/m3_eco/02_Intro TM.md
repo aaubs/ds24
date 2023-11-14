@@ -29,7 +29,6 @@ draft: false
 * [TM Applications - SBERT](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_SBERT.ipynb)
 * [TM Applications - HF](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_HF.ipynb)
 * [Simple transformer LM](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA)
-* [SetFit Hatespeech vs bert and distilroberta](https://colab.research.google.com/drive/16HQiC0prlNUABusajZN4Fp71op0e6YuR?usp=sharing)
 * [SBERT for Patent Search using PatentSBERTa in PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PatentSBERTa_For_PatentSearch.ipynb)
 
 ## Notebooks - FineTuning
@@ -37,6 +36,7 @@ draft: false
 * [TM FineTuning - SimpleTransformers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_simpletransformer.ipynb)
 * [TM FineTuning - SBERT]()
 * [TM FineTuning - HF]()
+* [SetFit Hatespeech vs bert and distilroberta](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_SetFit_Hatespeech_%26_distilroberta_v2.ipynb)
 * [Seq2Seq - Neural Machine Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PyTorch_Seq2seq.ipynb)
 
 
