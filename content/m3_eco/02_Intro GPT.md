@@ -20,7 +20,7 @@ draft: false
 
 ## Notebooks - FineTuning
 
-<!-- * [TM FineTuning - SimpleTransformers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_simpletransformer.ipynb) -->
+* [Prompt Engineering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_prompt_engineering_v1.ipynb)
 
 
 
