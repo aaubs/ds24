@@ -1,5 +1,5 @@
 ---
-title: "Intro to Generative Pre-trained Models"
+title: "Intro to GPT Models"
 weight: 5
 disableToc: true
 draft: false
