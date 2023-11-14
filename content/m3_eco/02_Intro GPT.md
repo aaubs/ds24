@@ -11,12 +11,12 @@ draft: false
 
 ## Notebooks - Basics
 
-* [Generative Pre-trained Models - Basics]()
+* [Generative Pre-trained Models - Basics](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_v2.ipynb)
 
 ## Notebooks - Applications
 
-* [TM Applications - LangChain 1]()
-<!-- * [TM Applications - LangChain 1](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_HF.ipynb) -->
+* [TM Applications - LangChain](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_Into_LangChain.ipynb)
+* [TM Applications - LanceDB](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_LanceDB.ipynb)
 
 ## Notebooks - FineTuning
 
