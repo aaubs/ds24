@@ -35,7 +35,7 @@ draft: false
 
 * [TM FineTuning - SimpleTransformers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_simpletransformer.ipynb)
 * [TM FineTuning - SBERT]()
-* [TM FineTuning - HF]()
+* [TM FineTuning - HF](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_huggingface_1.ipynb)
 * [SetFit Hatespeech vs bert and distilroberta](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_SetFit_Hatespeech_%26_distilroberta_v2.ipynb)
 * [Seq2Seq - Neural Machine Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PyTorch_Seq2seq.ipynb)
 
