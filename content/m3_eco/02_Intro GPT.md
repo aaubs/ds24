@@ -16,7 +16,7 @@ draft: false
 ## Notebooks - Applications
 
 * [TM Applications - LangChain 1]()
-* [TM Applications - LangChain 1](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_HF.ipynb)
+<!-- * [TM Applications - LangChain 1](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_HF.ipynb) -->
 
 ## Notebooks - FineTuning
 
