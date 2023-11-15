@@ -8,7 +8,7 @@ draft: False
 # Portfolio Exercise 3: GPT Models
 > **Note:** M3 - Group Assignment 3 Deadline: Wednesday, November 22nd at 10:00 AM
 
-![LangChain Cheat Sheet](https://www.kdnuggets.com/wp-content/uploads/LangChain_Cheat_Sheet_KDnuggets.pdf)
+![LangChain Cheat Sheet](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/langchain_cheatsheet.png)
 
 ## Introduction
 
