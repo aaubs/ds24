@@ -22,7 +22,7 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 ## Notebooks - FineTuning
 
 * [Prompt Engineering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_prompt_engineering_v1.ipynb)
-
+* [PEFT - Adapters](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_Finetune_opt_bnb_peft.ipynb)
 
 
 ## Resources
