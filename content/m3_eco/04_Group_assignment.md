@@ -1,5 +1,5 @@
 ---
-title: "Group Assignment 4: Advanced Applications of DL Techniques"
+title: "Group Assignment 4"
 weight: 7
 disableToc: true
 draft: False
