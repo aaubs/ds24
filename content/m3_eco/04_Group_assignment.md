@@ -42,4 +42,4 @@ Your goal is to develop an application that uses advanced AI techniques and DL f
 - Create a GitHub repository specifically for this assignment.
 - Include all necessary materials, such as code, datasets, and a descriptive README.md.
 - Submissions can be individual or in groups of up to three members.
-- Submission also via DigitalExam, where you compile all your previous assignments and submit in one file for the overall portfolio for the module exam. You are welcome to tweak/improve previous module submissions for that.
+- **Submission also via DigitalExam**, where you compile all your previous assignments and submit in one file for the overall portfolio for the module exam. You are welcome to tweak/improve previous module submissions for that.
