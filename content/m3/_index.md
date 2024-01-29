@@ -8,7 +8,7 @@ draft: false
 
 
 ## M3 - Applied Deep Learning and Artificial Intelligence
-> **Note:** M3 - Final Assignment Deadline: Monday, 8 January 2024, 12:00 PM
+> **Note:** M3 - Final Assignment Deadline: Friday, 8 March 2024, 12:00 PM
 
 
 This course provides a practical and applied introduction to deep learning, specifically tailored for economics students. It covers the fundamentals of deep learning, including foundational concepts, tensors, typical architectures, and applications in economics. The course will also delve into various training paradigms and tools prevalent in deep learning.
@@ -19,8 +19,10 @@ Real-world examples from economics will be used to illustrate the concepts and t
 
 ## Content for this module
 
-* Part 1: Intro to Traditional Deep Learning (Monday 30th of October, 10.15-14.15)
-* Part 2: Intro to Large Language Models - Transformer Models (Wednesday 8th of November 10.15-14.15)
-* Part 3: Intro to Large Language Models - Generative Pre-Trained Models (Wednesday 15th of November 10.15-14.15)
-* Part 4: Contemporary Deep Learning Topics: Graph Neural Networks (Wednesday 22nd of November 10.15-14.15)
+* Part 1: Intro to Traditional Deep Learning (Wednesday 31st of Januray, 08.15-12.00)
+* Part 2: Intro to Large Language Models - Transformer Models (Wednesday 7th of Februray 08.15-12.00)
+* Part 3: Intro to Large Language Models - Generative Pre-Trained Models (Wednesday 14th of Februray 08.15-12.00)
+* Part 4: Intro to Graph Neural Networks (Wednesday 28th of Februray 08.15-12.00)
+
+
 
