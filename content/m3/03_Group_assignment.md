@@ -2,7 +2,7 @@
 title: "Group Assignment 3"
 weight: 6
 disableToc: true
-draft: False
+draft: True
 ---
 
 # Portfolio Exercise 3: GPT Models

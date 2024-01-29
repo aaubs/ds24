@@ -2,7 +2,7 @@
 title: "Group Assignment 4"
 weight: 7
 disableToc: true
-draft: False
+draft: True
 ---
 
 # Portfolio Exercise 4: Advanced AI Applications
