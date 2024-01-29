@@ -19,10 +19,12 @@ Real-world examples from economics will be used to illustrate the concepts and t
 
 ## Content for this module
 
-* Part 1: Intro to Traditional Deep Learning (Wednesday 31st of Januray, 08.15-12.00)
-* Part 2: Intro to Large Language Models - Transformer Models (Wednesday 7th of Februray 08.15-12.00)
-* Part 3: Intro to Large Language Models - Generative Pre-Trained Models (Wednesday 14th of Februray 08.15-12.00)
-* Part 4: Intro to Graph Neural Networks (Wednesday 28th of Februray 08.15-12.00)
-
+* **Part 1:** Intro to Traditional Deep Learning (Wednesday 31st of Januray, 08.15-12.00)
+* **Workshop 1:** (Monday  5th of February, 14.00-17.45)
+* **Part 2:** Intro to Large Language Models - Transformer Models (Wednesday 7th of Februray 08.15-12.00)
+* **Workshop 2:** (Monday  12th of February, 14.00-16.45)
+* **Part 3:** Intro to Large Language Models - Generative Pre-Trained Models (Wednesday 14th of Februray 08.15-12.00)
+* **Workshop 3:** (Monday  26th of February, 14.00-16.45)
+* **Part 4:** Intro to Graph Neural Networks (Wednesday 28th of Februray 08.15-12.00)
 
 
