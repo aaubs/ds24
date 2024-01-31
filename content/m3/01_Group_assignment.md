@@ -2,12 +2,12 @@
 title: "Group Assignment 1"
 weight: 2
 disableToc: true
-draft: True
+draft: false
 ---
 
 # Portfolio Exercise 1
 
-> **Note:** M3 - Group Assignment 1 Deadline: Monday, 6th of November at 12:00 PM
+> **Note:** M3 - Group Assignment 1 Deadline: Wednesday 7th of February at 12.00 PM
 
 ## Introduction
 
