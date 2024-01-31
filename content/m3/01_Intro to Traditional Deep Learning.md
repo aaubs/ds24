@@ -46,9 +46,9 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 
 
 ## Solutions
-#* [ANN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro_v3_Exercise_Solution.ipynb)
-#* [RNN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_RNN_Exercise_Solution_v3.ipynb)
-#* [LSTM Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_LSTM_Tutorial_v2_Exercise_Solution.ipynb)
+* [ANN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_1_ann_intro_v3_Exercise_Solution.ipynb)
+* [RNN Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_RNN_Exercise_Solution_v3.ipynb)
+* [LSTM Exercise and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_LSTM_Tutorial_v2_Exercise_Solution.ipynb)
 
 
 
