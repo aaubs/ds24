@@ -26,14 +26,14 @@ draft: false
 
 ## Notebooks - Applications
 
-* [TM Applications - SBERT](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_SBERT.ipynb)
+* [TM Applications - SBERT](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_SBERT_v1.ipynb)
 * [TM Applications - HF](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_Applications_HF.ipynb)
 * [Simple transformer LM](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA)
 * [SBERT for Patent Search using PatentSBERTa in PyTorch](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M4_PatentSBERTa_For_PatentSearch.ipynb)
 
 ## Notebooks - FineTuning
 
-* [TM FineTuning - SimpleTransformers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_simpletransformer.ipynb)
+* [TM FineTuning - SimpleTransformers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_simpletransformer_v1.ipynb)
 * [TM FineTuning - SBERT](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_SBERT_1.ipynb)
 * [TM FineTuning - HF](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_Transformermodels_NLU_FineTuning_huggingface_2.ipynb)
 * [SetFit Hatespeech vs bert and distilroberta](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_2_SetFit_Hatespeech_%26_distilroberta_v3.ipynb)
