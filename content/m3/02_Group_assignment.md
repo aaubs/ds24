@@ -2,7 +2,7 @@
 title: "Group assignment 2"
 weight: 4
 disableToc: true
-draft: True
+draft: false
 ---
 
 # Portfolio Exercise 2: Transformer Models
