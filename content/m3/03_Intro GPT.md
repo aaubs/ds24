@@ -2,7 +2,7 @@
 title: "Intro to GPT Models"
 weight: 5
 disableToc: true
-draft: True
+draft: false
 ---
 
 
