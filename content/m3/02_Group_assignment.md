@@ -6,7 +6,7 @@ draft: false
 ---
 
 # Portfolio Exercise 2: Transformer Models
-> **Note:** M3 - Group Assignment 2 Deadline: Wednesday, November 15th at 10:00 AM
+> **Note:** M3 - Group Assignment 2 Deadline: Wednesday, February 14th at 10:00 AM
 
 
 ![Corgi Pups Neon Image](/ds22/images/corgi_pups_neon.png)
