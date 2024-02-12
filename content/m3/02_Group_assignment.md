@@ -33,6 +33,8 @@ Create something innovative using SBERT and semantic search, or even more! The g
 
 2. **Attention Mechanism Exercise**: Implement the attention mechanism on two distinct sentences. Choose sentences with polysmous words to demonstrate its functionality effectively.
 
+* [Workshop 2 - Transformer and Attention examples](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Workshop_2_transformer models.ipynb)
+* 
 ## Data
 
 - You may utilize datasets from 🤗 Hugging Face, Kaggle, or create your own.
