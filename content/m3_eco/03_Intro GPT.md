@@ -14,6 +14,7 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 
 * [Generative Pre-trained Models - Basics](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_4.ipynb)
 
+
 ## Notebooks - Applications
 
 * [TM Applications - LangChain](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_Into_LangChain.ipynb)
