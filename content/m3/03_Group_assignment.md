@@ -2,11 +2,11 @@
 title: "Group Assignment 3"
 weight: 6
 disableToc: true
-draft: True
+draft: false
 ---
 
 # Portfolio Exercise 3: GPT Models
-> **Note:** M3 - Group Assignment 3 Deadline: Wednesday, November 22nd at 10:00 AM
+> **Note:** M3 - Group Assignment 3 Deadline: Wednesday 28th of February at 12:00 PM
 
 ![LangChain Cheat Sheet](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/langchain_cheatsheet.png)
 
