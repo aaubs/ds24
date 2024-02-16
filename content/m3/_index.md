@@ -25,6 +25,6 @@ Real-world examples from economics will be used to illustrate the concepts and t
 * **Workshop 2:** Intro to Large Language Models - Transformer Models (Monday 12th of February, 14.00-16.45)
 * **Part 3:** Intro to Large Language Models - Generative Pre-Trained Models (Wednesday 14th of February, 08.15-12.00)
 * **Workshop 3:** Intro to Large Language Models - Generative Pre-Trained Models (Monday 26th of February, 14.00-16.45)
-* **Part 4:** Intro to Graph Neural Networks (Wednesday 28th of February, 08.15-12.00)
+* **Part 4:** Intro to Graph Neural Networks (Wednesday 28th of February, 09.15-12.00)
 
 
