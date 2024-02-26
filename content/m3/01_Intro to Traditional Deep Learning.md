@@ -5,6 +5,7 @@ disableToc: true
 draft: false
 ---
 
+
 This session provides an overview of the foundational elements of deep learning, including its historical context, key concepts, and practical applications. The course will delve into various types of neural networks, outlining their advantages and disadvantages. It will specifically focus on convolutional neural networks (CNNs), recurrent neural networks (RNNs), and long short-term memory (LSTM) networks, highlighting their unique characteristics and applicability to a range of problem-solving scenarios, including those in economics. 
 
 ## Auto Insurance in Sweden
