@@ -13,15 +13,6 @@ Graph neural networks (GNNs) are a powerful new class of machine learning algori
 
 * [Graph Neural Network Models - Basics](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_4_GNN_GCN.ipynb)
 
-<!-- ## Notebooks - Applications
-
-* [TM Applications - LangChain](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_Into_LangChain.ipynb)
-* [TM Applications - LanceDB](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_LanceDB.ipynb)
-
-## Notebooks - FineTuning
-
-* [Prompt Engineering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_prompt_engineering_v1.ipynb)
-* [PEFT - Adapters](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_Finetune_opt_bnb_peft.ipynb) -->
 
 
 ## Resources
