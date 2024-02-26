@@ -1,7 +1,7 @@
 ---
 title: "Intro to Graph Neural Networks"
 weight: 7
-disableToc: true
+disableToc: false
 draft: false
 ---
 
