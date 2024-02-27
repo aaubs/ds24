@@ -1,6 +1,6 @@
 ---
 title: "Intro to Traditional Deep Learning"
-weight: 1
+weight: 2
 disableToc: true
 draft: false
 ---
