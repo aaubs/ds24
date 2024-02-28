@@ -2,35 +2,35 @@
 title: "Group Assignment 4"
 weight: 8
 disableToc: true
-draft: True
+draft: false
 ---
 
 # Portfolio Exercise 4: Advanced AI Applications
-> **Note:** M4 - Group Assignment 4 Deadline: Monday, January 8th at Noon
+> **Note:** M4 - Final Assignment Deadline: Friday, 8 March 2024, 12:00 PM
 
 ![LangChain Cheat Sheet](https://python.langchain.com/assets/images/rag_retrieval_generation-1046a4668d6bb08786ef73c56d4f228a.png)
 
 ## Introduction
 
-This assignment encourages you to build an engaging and, if possible, fun application using the techniques learned in this module. The focus is on applying advanced AI and DL methods to solve relevant tasks, with an emphasis on creativity and practical application.
+This assignment is designed to explore the frontier of AI applications, focusing on the integration of Retrieval-Augmented Generation (RAG) with vector databases such as ChromDB and LanceDB, and the comparison of various prompt engineering techniques. The goal is to build an application that not only showcases advanced AI and DL capabilities but also evaluates the impact of different prompt strategies on model performance.
 
 ## Objective
 
 ### Task Description
 
-Your goal is to develop an application that uses advanced AI techniques and DL for a specific, relevant task. The application should be more than a simple semantic search tool and should exhibit innovation in its approach and functionality. 
+Create an application that utilizes RAG and vector databases, and systematically compares the effectiveness of at least three distinct prompt engineering techniques. 
 
 ### Key Components
 
-- **Transformer Utilization:** Implement self-trained or fine-tuned transformers. However not sentence transformer for semantic search only (you are welcome to explore techniques beyond the scope of the course e.g. on HF)
-  
-- **Platform Integration:** The model should be published on Hugging Face (HF) and include a Gradio app (in-notebook) or HF spaces.
+- **RAG and Vector Database Integration:** Implement RAG with ChromDB and LanceDB to enhance information retrieval and content generation.
+- **Transformer Model Adaptation:** Use transformer models (SBERT or BERT)
+- **Prompt Engineering Comparison:** Experiment with and evaluate at least three different prompt engineering techniques to determine their impact on the model's performance.
+- **Platform Integration:** Deploy the application on Hugging Face, with interactive access provided via Gradio or HF Spaces.
 
 ## Additional Features (Nice-to-Have)
 
-- A Streamlit app hosted on HF Hub.
-- Optional use of various APIs (e.g., HF Inference API, Cohere), but be mindful of costs, especially with OpenAI.
-- Explore techniques beyond the course scope, such as those available on Hugging Face or other platforms.A more complex LLM setup integrating tools like langchain, promptify, pinecone, etc.
+- **Fine-Tuning Capabilities:** If possible, fine-tune a GPT model specific to your application's needs, detailing the process and its impact on application performance.
+- **Streamlit Application:** Develop a Streamlit app hosted on the HF Hub, offering a richer, more interactive user experience.
 
 ## Data
 
