@@ -24,7 +24,7 @@ Your goal is to develop an application that uses advanced AI techniques and DL f
 
 - **Transformer Utilization:** Implement self-trained or fine-tuned transformers. However not sentence transformer for semantic search only (you are welcome to explore techniques beyond the scope of the course e.g. on HF)
   
-- **Platform Integration:** The model should be published on Hugging Face (HF) and include a Gradio app (in-notebook) or HF spaces.
+- **Platform Integration:** The model should include a Gradio app (in-notebook) for demonstration purposes. Deployment on Hugging Face Spaces is optional for exploring additional features.
 
 ## Additional Features (Nice-to-Have)
 
