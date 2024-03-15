@@ -1,5 +1,5 @@
 ---
-title: Lecture 1: Introduction to Serverless ML and Databases
+title: Lecture 1  Introduction to Serverless ML and Databases
 weight: 1
 disableToc: true
 draft: true
