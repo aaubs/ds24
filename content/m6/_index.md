@@ -1,5 +1,5 @@
 ---
-title: Data Engineering and MLOps
+title: Data Engineering and Machine Learning Operations in Business
 weight: 5
 pre: "<b>6. </b>"
 disableToc: false
@@ -9,52 +9,44 @@ draft: true
 
 ![](/ds22/images/impressionist-corgi.png)
 
-This course is designed to provide students with the skills and knowledge they need to effectively implement MLOps and deployment practices in a business or industry setting. Students will learn about different types of databases and how to use them in ML projects, techniques for processing large datasets using Big Data workflows, and how to build and deploy APIs for machine learning models. These skills are essential for businesses that rely on machine learning to improve their products or services, such as a retail company using machine learning to personalize customer recommendations or a healthcare organization using machine learning to improve patient diagnosis and treatment.
+This module is meticulously designed to equip students with essential knowledge and skills required for the design, development, and implementation of data science projects in both business and research environments. Central to this module is the practical understanding of acquiring, processing, and storing real-world data within a big data framework.
 
+Students will be adept in querying databases through application programming interfaces (APIs), utilizing common database frameworks tailored for structured and unstructured data, and handling dynamic and large-scale data effectively. The module also imparts critical knowledge in refactoring machine learning models and associated code for deployment in web-based applications.
 
-Students will also learn about using modern tooling for experiment tracking, packaging and deploying machine learning models, and setting up pipelines for continuous integration and deployment. These tools are critical for ensuring the quality and reliability of machine learning models in production environments. By the end of the course, students will be able to confidently apply these techniques to improve the speed and reliability of their machine learning projects.
+Throughout the course, students will engage in hands-on activities that mirror real-world challenges associated with deploying machine learning models into end-to-end solutions. This practical approach encompasses the entire spectrum of data science workflows—from data acquisition and processing to the operational deployment of machine learning models.
 
-
-Course lectures will be complemented by a number of guest presentations with industry examples how MLOps technologies are used in different businesses.
+By the end of this module, students will have gained a robust understanding of the processes, techniques, and workflows essential to delivering functional machine learning solutions. They will be equipped to autonomously plan, manage, and execute complex machine learning projects, including developing client-facing application interfaces, with a clear emphasis on practical application and industry relevance.
 
 ## Session Overview
 
 
 
-### Databases in ML projects
-- Session 1: Introduction to databases for ML. Overview of different database types.
-- Session 2: Working with SQL databases.
-- Session 3: Working with NoSQL databases, such as TinyDB.
+### Lecture 1: Introduction to Serverless ML and Databases
+- Covering the ease of building end-to-end services with ML models without the need for complex infrastructure. Introduction to databases and API consumption.
 
-- Exercise 1: Building PoC with DB backend + Group Portfolio Assignment
+### Lecture 2: Serverless ML Pipelines in Python
+- Discussing the creation of ML pipelines in Python and running your first Prediction Service using serverless technologies.
+  
+### Lecture 3: Feature Engineering and Data Modeling
+- Module on data modeling and utilizing a serverless feature store. Introduction to the credit-card fraud prediction service.
 
-### Big Data workflows
-- Session 4: Introduction to Big Data workflows using Spark.
-- Industry case 1: Guest lecture TBC.
+### Lecture 4: MLOps and Model Management
+- Exploring training and inference pipelines and the model registry within an MLOps framework.
 
-- Exercise 2: Performing a Big Data workflow with Spark + Group Portfolio Assignment
+### Lecture 5: Serverless UI for ML Systems
+- Module on creating serverless user interfaces for ML systems, focusing on stakeholder communication and interactive UI design.
 
-### From notebook to API
-- Session 5: Code refactoring for production.
-- Session 6: API workflows with FastAPI.
-- Industry case 2: Guest lecture TBC.
+### Lecture 6: Automated Testing and Versioning in MLOps
+- Delving into MLOps principles, focusing on automated testing, version control, and managing upgrades/rollback for ML models.
 
-- Exercise 3: API workflows + Group Portfolio Assignment
+### Lecture 7: Advanced MLOps Strategies
+- Continuation of MLOps principles with advanced strategies for maintaining and updating machine learning systems.
 
-### MLOps with mlflow
-- Session 7: Introduction to MLOps with mlflow.
-- Session 8: Model deployment with mlflow.
-- Industry case 2: Guest lecture TBC.
+### Lecture 8: Real-time Machine Learning Systems
+- Module focusing on the development and management of real-time machine learning systems and online inference pipelines.
 
-- Exercise 4: MLOps workflows + Group Portfolio Assignment
-
-### Packaging and deployment
-- Session 9: Introduction to packaging and deployment.
-- Session 10: Introduction to Docker and deploying scalable ML.
-- Industry case 3: Guest lecture TBC.
-
-- Exercise 5: Packaging and deployment + Group Portfolio Assignment
-
+### Lecture 9: Emerging Technologies in MLOps
+- An outlook on other relevant technologies for MLOps, exploring cutting-edge tools and methodologies in the field.
 
 
 ## Literature
@@ -85,4 +77,3 @@ Course lectures will be complemented by a number of guest presentations with ind
 
 - [Build and Run a Docker Container for your Machine Learning Model](https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f) (2021)
 
-- [Step-by-Step MLflow Implementations](https://medium
