@@ -8,7 +8,7 @@ draft: true
 ![](/ds22/images/corgi_utopia.png)
 
 
-This repository contains lecutre slides, python scripts and dataset for the first lecture. 
+Use GitHub repo https://github.com/saoter/SDS24_MLOps_L1, which contains lecutre slides, python scripts and dataset for the first lecture. 
 
 
 ## API
