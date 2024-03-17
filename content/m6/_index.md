@@ -3,7 +3,7 @@ title: Data Engineering and Machine Learning Operations in Business
 weight: 5
 pre: "<b>6. </b>"
 disableToc: false
-draft: true
+draft: false
 
 ---
 
