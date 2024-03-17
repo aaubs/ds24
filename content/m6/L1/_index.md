@@ -2,7 +2,7 @@
 title: Lecture 1  Introduction to Serverless ML and Databases
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/corgi_utopia.png)
