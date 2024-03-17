@@ -10,6 +10,8 @@ draft: false
 
 Use GitHub repo https://github.com/saoter/SDS24_MLOps_L1, which contains lecutre slides, python scripts and dataset for the first lecture. 
 
+## SLIDES
+- [Lecture 1](https://github.com/aaubs/ds23/edit/master/content/m6/L1/MLOps_Lecture_1_slides.pdf)
 
 ## API
 - [api_jokes.py](https://github.com/aaubs/ds23/edit/master/content/m6/L1/api_jokes.py) is an example of simple public API
