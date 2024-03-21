@@ -1,5 +1,5 @@
 ---
-title: Lecture 3: Credit Card Prediction Service Project
+title: "Lecture 3: Credit Card Prediction Service Project"
 weight: 1
 disableToc: true
 draft: false
