@@ -5,7 +5,9 @@ disableToc: true
 draft: false
 ---
 
-![](/ds23/static/images/pen2.jpg)
+<p align="center">
+  <img src="images/pen2.jpg" alt="" width="400"/>
+</p>
 
 Use GitHub repo https://github.com/saoter/SDS24_MLOps_L5, which contains lecutre slides, python scripts and dataset for the this lecture. 
 
