@@ -13,7 +13,7 @@ draft: true
 
 
 ## SLIDES
-- [Lecture 6](content/m6/L6/files/MLOps_Lecture_6_slides.pdf)
+- [Lecture 6](https://github.com/aaubs/ds23/blob/master/content/m6/L6/files/MLOps_Lecture_6_slides.pdf)
 
 
 ## TASKS
