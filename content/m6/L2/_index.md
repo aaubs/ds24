@@ -11,5 +11,5 @@ draft: false
 
 
 ## SLIDES
-- [Lecture 1](https://github.com/saoter/SDS24_MLOps_L1/blob/main//MLOps_Lecture_2_slides.pdf)
+- [Lecture 2](https://github.com/saoter/SDS24_MLOps_L1/blob/main//MLOps_Lecture_2_slides.pdf)
 
