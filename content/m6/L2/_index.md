@@ -1,5 +1,5 @@
 ---
-title: Lecture 1  Refactoring & First Serverless App
+title: Lecture 2  Refactoring & First Serverless App
 weight: 1
 disableToc: true
 draft: false
