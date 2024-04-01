@@ -2,7 +2,7 @@
 title: Lecture 6  Feature Selection, Batch Inference Pipelines, Model Registry
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 <p align="center">
