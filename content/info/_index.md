@@ -4,7 +4,7 @@ weight: 1
 chapter: true
 
 ---
-General info about the semester will be updated here. Check out the calendar [on moodle](https://www.moodle.aau.dk/local/planning/calmoodle.php?fid=2860).
+General info about the semester will be updated here. Check out the calendar [on moodle](https://www.moodle.aau.dk/course/view.php?id=51744).
 
 ### Intro to the semester and module:
 
