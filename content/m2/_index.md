@@ -3,7 +3,7 @@ title: Network Analysis & NLP
 weight: 3
 pre: "<b>2. </b>"
 chapter: false
-draft: false
+draft: true
 ---
 
 ## M2 - Network Analysis & NLP

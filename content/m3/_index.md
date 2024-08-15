@@ -3,7 +3,7 @@ title:  Applied Deep Learning and Artificial Intelligence
 weight: 4
 pre: "<b>3. </b>"
 chapter: false
-draft: false
+draft: true
 ---
 
 
