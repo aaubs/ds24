@@ -1,17 +1,17 @@
-baseURL = "https://aaubs.github.io/ds23"
+baseURL = "https://aaubs.github.io/ds24"
 staticDir = 'static'
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Social / Business Data Science 2023"
+title = "Social / Business Data Science 2024"
 theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  # editURL = "https://github.com/aaubs/ds23/tree/master/content"
-  description = "Social / Business Data Science 2023"
+  # editURL = "https://github.com/aaubs/ds24/tree/master/content"
+  description = "Social / Business Data Science 2024"
   author = "Roman Jurowetzki & Daniel Hain"
   showVisitedLinks = true
   disableBreadcrumb = false
