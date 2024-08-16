@@ -1,5 +1,5 @@
 ---
-title: "Mathematics (Brushup)"
+title: "Mathematics (Brush up)"
 weight: 7
 disableToc: true
 draft: true
