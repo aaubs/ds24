@@ -1,7 +1,7 @@
 ---
 title: Info, Schedule & Co
 weight: 1
-chapter: true
+chapter: false
 
 ---
 General info about the semester will be updated here. Check out the calendar [on moodle](https://www.moodle.aau.dk/course/view.php?id=51744).
