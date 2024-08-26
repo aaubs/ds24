@@ -2,7 +2,7 @@
 title: "- Exploratory Data Analysis and Essential Statistics"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 This session introduces students how to use EDA and some fundemental concepts of statistical methods to uncover patterns, anomalies, and frame questions in data. Students will learn foundational measures and techniques for data interpretation, and they will have the opportunity to apply EDA and statistical methods on datasets through hands-on exercises.
