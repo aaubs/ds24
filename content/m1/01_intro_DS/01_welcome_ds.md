@@ -27,7 +27,7 @@ This session sets the stage for your data science journey:
 
 ## Notebooks
 
-* {{< awesome fas fa-laptop-code >}} [How to build a development environment using Colab, Google Drive, GitHub, and Kaggle!](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Colab_GitHub_Drive_Kaggle.ipynb)
+* {{< awesome fas fa-laptop-code >}} [How to build a development environment using Colab, Google Drive, GitHub, and Kaggle!](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Colab_GitHub_Drive_Kaggle_v2.ipynb)
 * {{< loom d93d46ef95db482099b530c5f1168b82 >}} 
 
 * 🚀 **[Notebook: Python 101](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Python-101.ipynb)**
