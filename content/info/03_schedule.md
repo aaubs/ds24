@@ -8,9 +8,9 @@ This will be shortly updated with additional key dates and topics for the semest
 
 
 
-## General appointments
+<!-- ## General appointments
 
-* Introduction to Semester Project and group formation: 24.10.2023, 14:30-16:00
+* Introduction to Semester Project and group formation: 24.10.2023, 14:30-16:00 -->
 
 
 ## M1: Week 35-41
@@ -26,7 +26,7 @@ This will be shortly updated with additional key dates and topics for the semest
 * W 41: Exam
 
    
-### Key Dates
+<!-- ### Key Dates
 
 * Data Storytelling Hackathon
    * In groups: Developing EDA Dashboard
@@ -34,7 +34,7 @@ This will be shortly updated with additional key dates and topics for the semest
 
 * Group assignment: 29.09.-06.10.2023 (Digital Eksamen)
 * Final exam: 10-11.09.2023
-  
+   -->
 
 <!-- ## M2: Week 40-44
 
