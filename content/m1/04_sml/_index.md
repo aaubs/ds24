@@ -2,7 +2,7 @@
 title: D) Intro to Supervised Machine Learning (W39)
 weight: 5
 disableToc: true
-draft: false
+draft: true
 
 ---
 

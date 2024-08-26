@@ -2,7 +2,7 @@
 title: B) Rapid Prototyping (W37)
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 > **Note:** Dashboard-Hackathon Submission Deadline: Friday, 15 September 2023, 12:00
