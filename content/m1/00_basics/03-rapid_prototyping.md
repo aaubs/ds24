@@ -2,7 +2,7 @@
 title: "Rapid Prototyping (W 37)"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds22/images/ds_corgi.png)

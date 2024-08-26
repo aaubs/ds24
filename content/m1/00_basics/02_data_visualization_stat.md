@@ -2,7 +2,7 @@
 title: "Exploratory Data Analysis and Essential Statistics (W 36)"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 The Exploratory Data Analysis and Essential Statistics introduces students how to use EDA and some fundamental concepts of statistical methods to uncover patterns, anomalies, and frame questions in data. Students will learn foundational measures and techniques for data interpretation, and they will have the opportunity to apply EDA and statistical methods on datasets through hands-on exercises.
