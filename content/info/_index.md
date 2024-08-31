@@ -8,10 +8,7 @@ General info about the semester will be updated here. Check out the calendar [on
 
 ### Intro to the semester and module:
 
-<iframe src="https://docs.google.com/presentation/d/e/YOUR_SLIDES_ID/pub?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-<!-- {{<gslides src="https://github.com/aaubs/ds-master/blob/main/data/Business%20Data%20Science%202024%20-%20Intro.pdf >}} -->
+{{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vQ_hyq2g5c5S4sWxqiEs4I5d9kNJQVsb6jvbZ-Y8y1rHqJ1RaZG-k6LqmWDXediHhfI5-rXJGvgQUI2/embed?start=false&loop=false&delayms=3000" >}}
 
 <!--
 
