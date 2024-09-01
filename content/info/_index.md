@@ -8,7 +8,7 @@ General info about the semester will be updated here. Check out the calendar [on
 
 ### Intro to the semester and module:
 
-{{<gslides src="https://docs.google.com/presentation/d/e/2PACX-1vQ_hyq2g5c5S4sWxqiEs4I5d9kNJQVsb6jvbZ-Y8y1rHqJ1RaZG-k6LqmWDXediHhfI5-rXJGvgQUI2/embed?start=false&loop=false&delayms=3000" >}}
+{{<gslides src=" https://docs.google.com/presentation/d/1m6rjPAfWA2Y5c3543FcGGhhA7RYd34t84MZDYn6XHRg/edit?usp=sharing" >}}
 
 <!--
 
