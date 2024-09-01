@@ -96,8 +96,34 @@ git config --global user.email "your.email@example.com"
 - Ensure that you have the necessary permissions to push to the repository if it is not owned by you.
 - If you are pushing to GitHub for the first time, you may be prompted to authenticate with your GitHub credentials.
 
+## Part 5: How to Use Codespaces on GitHub
 
-## Part 5: Codespaces using VS Code and TabNine
+Codespaces is a cloud-hosted development environment provided by GitHub, allowing you to code directly within your repository without setting up a local environment.
+
+### 5.1. Navigate to Your Repository
+
+- Go to the repository you want to work on. 
+
+![Repository Overview](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/githubspaces_1.png)
+
+### 5.2. Open the Codespaces Tab
+
+- Once you're in your repository, locate the `Code` dropdown button near the top-right corner.
+- Click on the dropdown to reveal the Codespaces section. If you don't have any active Codespaces, it will show "No codespaces."
+
+![Codespaces Overview](https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/githubspaces_2.png)
+
+### 5.3. Create a New Codespace
+
+- If no Codespaces are created, click on the `Create codespace on main` button. This will initiate a new Codespace environment based on the `main` branch of your repository.
+
+### 5.4. Start Coding
+
+- After creating the Codespace, it will launch in a new tab with a fully functional VS Code interface. From here, you can start coding, running, and debugging your project directly in the cloud.
+
+
+
+<!-- ## Part 5: Codespaces using VS Code and TabNine
 
 ### Step 5.1: Install TabNine
  In your VS Code IDE, go to Extensions. Search for Tabnine Enterprise (Self-Hosted) and select it (don't mix it with the other Tabnine extension) and install the extension.
@@ -125,4 +151,4 @@ git config --global user.email "your.email@example.com"
 - Copy the token and go back to your IDE.
 - Paste your authentication token in the following popup and click Enter:
 
-<img src="https://lh7-us.googleusercontent.com/YD9KAz4nlJYH8c5k1BCpQDqs-pnf-gqlJJv0MDZmnd8otSm7CvRZi32UaQxOF7wlWQZzv-G_XTUB7otAyqR7HRzPVwyVpgwHBsyoPEyspuWRPfV39ZlJ4s81sITxyes3Cqi1wRhPFkN3kiu5KwmVBgSAkw=s2048" width="100">
+<img src="https://lh7-us.googleusercontent.com/YD9KAz4nlJYH8c5k1BCpQDqs-pnf-gqlJJv0MDZmnd8otSm7CvRZi32UaQxOF7wlWQZzv-G_XTUB7otAyqR7HRzPVwyVpgwHBsyoPEyspuWRPfV39ZlJ4s81sITxyes3Cqi1wRhPFkN3kiu5KwmVBgSAkw=s2048" width="100"> -->
