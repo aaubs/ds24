@@ -27,10 +27,3 @@ Introduces to the most recent developments in machine learning, which are deep l
 
 **Capstone Project**
 Semester project utilising techniques and approaches from SDS in the context of a problem related to your main study field.
-
-
-<!-- 
-* Submission ~8/1 2022
-* [Requirements]({{< ref "05_requirements_project.md" >}})
--->
-
