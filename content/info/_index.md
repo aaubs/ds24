@@ -6,9 +6,13 @@ chapter: false
 ---
 General info about the semester will be updated here. Check out the calendar [on moodle](https://www.moodle.aau.dk/course/view.php?id=51744).
 
+
+
+
 ### Intro to the semester and module:
 
-{{<gslides src="https://docs.google.com/presentation/d/1m6rjPAfWA2Y5c3543FcGGhhA7RYd34t84MZDYn6XHRg/edit?usp=sharing">}}
+- [Intro-Slides](ds24/presentations/Business Data Science 2024 - Intro.pdf)
+- [![🐍 Python Refresher](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaubs/AIDK-Explorer-0824/blob/main/00_python_refresher.ipynb)
 
 <!--
 

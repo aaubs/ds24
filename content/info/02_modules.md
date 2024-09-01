@@ -14,8 +14,8 @@ This module will prove a condensed introduction to the â€œData Science Pipelineâ
 Focuses on analyzing a variety of unstructured data sources. Particularly, students will learn how to explore, analyze, and visualize natural language (text) as well as relational (network) data.
 
 
-**M3: Data-Driven Business Modelling and Strategy 15 ECTS**
-Course with integrated project in which you will learn how companies plan, prepare and execute data-driven projects. In the project you will work wich a company case and build a "mini" version of the product/process.
+**M3: Advanced Innovation Management (Project - Data-Driven Business Modelling and Strategy) 15 ECTS**
+Course with integrated project in which you will learn how organizations manage innovation and technological change. In the project you will work wich a company case and build a "mini" version of the product/process.
 
 
 ### For Social Data Science Students - Elective Semester

@@ -17,14 +17,15 @@ This will be shortly updated with additional key dates and topics for the semest
 
 ### Topics
 
-* W 35: Introduction & landing
-* W 36: Data Manipulation, Exploratory Data Analysis (EDA)
-* W 37: Exploratory Data Analysis (EDA) / Dashboard development / Hackathon
+
+* W 36: Intro, Data Manipulation, Exploratory Data Analysis (EDA)
+* W 37: Exploratory Data Analysis (EDA) / Dashboard development
 * W 38: Unsupervised Machine Learning (UML), Math for ML
 * W 39: Supervised Machine Learning (SML)
-* W 40: Group Assignment
-* W 41: Exam
+* W 40: Group Assignment & M2 NLP
+* W 41: M2 NLP Exam
 
+All weeks: Advanced Innovation Management (Data Driven Business Dev. & Strategy)
    
 <!-- ### Key Dates
 
