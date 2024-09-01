@@ -11,9 +11,8 @@ General info about the semester will be updated here. Check out the calendar [on
 
 ### Intro to the semester and module:
 
-- [Intro-Slides](ds24/presentations/Business Data Science 2024 - Intro.pdf)
-- [![🐍 Python Refresher](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaubs/AIDK-Explorer-0824/blob/main/00_python_refresher.ipynb)
-
+- **[Intro-Slides](ds24/presentations/Business Data Science 2024 - Intro.pdf)**
+- **[![🚀🐍 Python 101](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaubs/AIDK-Explorer-0824/blob/main/00_python_refresher.ipynb)**
 <!--
 
 ## Video from the Intro Session
