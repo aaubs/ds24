@@ -102,7 +102,7 @@ git config --global user.email "your.email@example.com"
 ### Step 5.1: Install TabNine
  In your VS Code IDE, go to Extensions. Search for Tabnine Enterprise (Self-Hosted) and select it (don't mix it with the other Tabnine extension) and install the extension.
 
-<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252Fgit-blob-b7381dba80646c164af243960b39dfad9663ab90%252Fvsc1.webp%3Falt%3Dmedia&width=768&dpr=2&quality=100&sign=f2f61826&sv=1" width="150">
+<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252Fgit-blob-b7381dba80646c164af243960b39dfad9663ab90%252Fvsc1.webp%3Falt%3Dmedia&width=768&dpr=2&quality=100&sign=f2f61826&sv=1" width="100">
 
 
 
@@ -110,19 +110,19 @@ git config --global user.email "your.email@example.com"
 - Open the Command Pallet.
 - Run: Tabnine: Sign in using auth token
 
-<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252FVfFfzJ6QzB6QXOzwYER9%252Fsaas_auth_token_vsc_1.webp%3Falt%3Dmedia%26token%3D847e83ee-7861-4334-a419-da837895227e&width=768&dpr=2&quality=100&sign=b2a3b066&sv=1" width="150">
+<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252FVfFfzJ6QzB6QXOzwYER9%252Fsaas_auth_token_vsc_1.webp%3Falt%3Dmedia%26token%3D847e83ee-7861-4334-a419-da837895227e&width=768&dpr=2&quality=100&sign=b2a3b066&sv=1" width="100">
 
 
 - The following popup will appear:
 
-<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252FyxURDVNuC3hK2pJ6Vk6v%252Fsaas_auth_token_vsc_2.webp%3Falt%3Dmedia%26token%3Ded87d380-66a3-43dd-9c48-b972eb17e71a&width=768&dpr=2&quality=100&sign=936c359b&sv=1" width="150">
+<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252FyxURDVNuC3hK2pJ6Vk6v%252Fsaas_auth_token_vsc_2.webp%3Falt%3Dmedia%26token%3Ded87d380-66a3-43dd-9c48-b972eb17e71a&width=768&dpr=2&quality=100&sign=936c359b&sv=1" width="100">
 
 - If you already have an authentication token, click Sign in and skip to the relevant step below.
 - If you don't already have a token, click Get auth token.
 - The browser will open with the following screen for signing up, which includes a secret personal authentication token:
-<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252FVL7SAZY9SuAMlvjOHzLy%252Fsaas_auth_token_jb_3.webp%3Falt%3Dmedia%26token%3D2df0c466-1eba-40c6-a848-9141c71b19f0&width=768&dpr=2&quality=100&sign=cbd18a65&sv=1" width="150">
+<img src="https://docs.tabnine.com/~gitbook/image?url=https%3A%2F%2F3436682446-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FY2qxVf5VTm3fmwP4B4Gx%252Fuploads%252FVL7SAZY9SuAMlvjOHzLy%252Fsaas_auth_token_jb_3.webp%3Falt%3Dmedia%26token%3D2df0c466-1eba-40c6-a848-9141c71b19f0&width=768&dpr=2&quality=100&sign=cbd18a65&sv=1" width="100">
 
 - Copy the token and go back to your IDE.
 - Paste your authentication token in the following popup and click Enter:
 
-<img src="https://lh7-us.googleusercontent.com/YD9KAz4nlJYH8c5k1BCpQDqs-pnf-gqlJJv0MDZmnd8otSm7CvRZi32UaQxOF7wlWQZzv-G_XTUB7otAyqR7HRzPVwyVpgwHBsyoPEyspuWRPfV39ZlJ4s81sITxyes3Cqi1wRhPFkN3kiu5KwmVBgSAkw=s2048" width="150">
+<img src="https://lh7-us.googleusercontent.com/YD9KAz4nlJYH8c5k1BCpQDqs-pnf-gqlJJv0MDZmnd8otSm7CvRZi32UaQxOF7wlWQZzv-G_XTUB7otAyqR7HRzPVwyVpgwHBsyoPEyspuWRPfV39ZlJ4s81sITxyes3Cqi1wRhPFkN3kiu5KwmVBgSAkw=s2048" width="100">
