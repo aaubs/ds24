@@ -58,8 +58,37 @@ This tutorial provides step-by-step instructions on how to install Visual Studio
 ### Step 4.2: Install Git
 
 #### For macOS:
-1. Download the latest Git for macOS from the [Git website](https://git-scm.com/download/mac).
-2. Follow the instructions to install Git. If you download a `.dmg` file, open it and follow the prompts to install Git.
+4.2.1. **Check if Homebrew is installed:**
+   - Open Terminal and type the following command:
+     ```bash
+     brew --version
+     ```
+   - If Homebrew is installed, you will see the version number. If not, proceed with the next step to install Homebrew.
+
+4.2.2. **Install Homebrew (if not installed):**
+   - In Terminal, run the following command to install Homebrew:
+     ```bash
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     ```
+   - Follow the on-screen instructions to complete the installation.
+
+4.2.3. **Install Git using Homebrew:**
+   - After Homebrew is installed, run the following command in Terminal:
+     ```bash
+     brew install git
+     ```
+
+4.2.4. **Verify the installation:**
+   - Check if Git is installed correctly by typing:
+     ```bash
+     git --version
+     ```
+   - You should see the Git version number if the installation was successful.
+
+#### For Windows:
+1. Download the latest Git for Windows installer from the [Git website](https://git-scm.com/download/win).
+2. Run the downloaded `.exe` file and follow the setup instructions.
+3. Make sure to choose the recommended settings, especially for adjusting your PATH environment.
 
 #### For Windows:
 1. Download the latest Git for Windows installer from the [Git website](https://git-scm.com/download/win).
