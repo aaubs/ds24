@@ -85,10 +85,6 @@ This tutorial provides step-by-step instructions on how to install Visual Studio
      ```
    - You should see the Git version number if the installation was successful.
 
-#### For Windows:
-1. Download the latest Git for Windows installer from the [Git website](https://git-scm.com/download/win).
-2. Run the downloaded `.exe` file and follow the setup instructions.
-3. Make sure to choose the recommended settings, especially for adjusting your PATH environment.
 
 #### For Windows:
 1. Download the latest Git for Windows installer from the [Git website](https://git-scm.com/download/win).
