@@ -2,7 +2,7 @@
 title: "- Data Handling and Manipulation"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_2.png)
@@ -14,7 +14,7 @@ This session will introduce students to the foundational aspects of data handlin
 In this session, we'll explore the foundational aspects of data handling. Key takeaways include:
 
 * Data Manipulation: Learn essential operations like arrange, group-by, filter, select, and join, preparing data for analysis.
-**[Notebook: Python Data Manipulation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-manipilation.ipynb)**
+**[Notebook: Python Data Manipulation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_pandas_v5.ipynb)**
 
 By the end, students should have a solid understanding of primary data manipulation techniques, setting the stage for more advanced subjects.
 
@@ -27,22 +27,22 @@ By the end, students should have a solid understanding of primary data manipulat
 
 * **[Notebook: Netflix Pandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_EDA_Exercises_Disney.ipynb)**
 
-* **[Notebook: HR Attrition Assignment](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_BDS23_EDA_visualize_assignment.ipynb)**
+* **[Notebook: HR Attrition exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_BDS23_EDA_visualize_assignment.ipynb)**
 
 Here, you will find the answers to the exercises:
 
-* **[Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)**
+<!-- * **[Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)**
 
 * **[Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises-solutions.ipynb)**
   
-*  **[Notebook: HR Attrition Assignment solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
+*  **[Notebook: HR Attrition exercises solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
     
-*  **[Notebook: Netflix Pandas exercise solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/Exercises_EDA_solutions.ipynb)**
+*  **[Notebook: Netflix Pandas exercise solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/Exercises_EDA_solutions.ipynb)** -->
 
 
 ## Tutorial - Assignment Examples
 
-* **[Notebook: EDA Assignment Example - Policing](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Policing_EDA_rev23.ipynb)**
+<!-- * **[Notebook: EDA Assignment Example - Policing](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-Policing_EDA_rev23.ipynb)** -->
 
 {{< loom ce0cc5fd67ee4d91814b21daa33bcb9c >}}
 
