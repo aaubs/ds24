@@ -1,5 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Network Analysis on Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/</link><description>Recent content in Network Analysis on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/m2/01_networks/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics Network Analysis</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</guid><description>This session introduces basic concepts of network theory and analysis.
-Recommended Datacamp exercises: Introduction to Network Analysis in Python Notebooks Basics Network Analysis Intermediate Network Analysis Slides Use arrows keys on keyboard to navigate. Alternatively use fullscreen slides</description></item><item><title>2 Mode Networks</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</guid><description>
-This session introduces to multimodel (2+) network analysis concepts.
-Recommended Datacamp exercises: Intermediate Network Analysis in Python Notebooks 2-Mode Networks</description></item><item><title>NW Exercises</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</guid><description>Exercise 1: Manager Networks Introduction In this exercise, you will replicate a well known network analysis, with different data and some twists. Data: The data is to be found at: https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard (Hint: You need to download the raw data) Data: What do I get? Background Let the fun begin. You will analyze network datacollected from the managers of a high-tec company. This dataset, originating from the paper below, is widely used in research on organizational networks.</description></item><item><title>NW Cases</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</guid><description>Case 1: Danish Power Elites Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. read more
-In this project we are going to construct and explore a network of Danish power elites derived from boards of various organisations in th country.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Network Analysis on Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/</link><description>Recent content in Network Analysis on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/m2/01_networks/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics Network Analysis</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_6.png" alt="">&lt;/p>
+&lt;p>This session introduces basic concepts of network theory and analysis.&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>Recommended Datacamp exercises:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python" target="_blank">Introduction to Network Analysis in Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="notebooks">Notebooks&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb" target="_blank">Basics Network Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s2-nw-intermediate.ipynb" target="_blank">Intermediate Network Analysis&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="slides">Slides&lt;/h2>
+&lt;p>Use arrows keys on keyboard to navigate. Alternatively use &lt;a href="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html" target="_blank">fullscreen slides&lt;/a>&lt;/p>
+
+ 
+ 
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0;">
+ 
+ 
+ &lt;iframe src="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html"
+ frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 115%;">
+ 
+ &lt;/iframe>
+ 
+ &lt;/div></description></item><item><title>2 Mode Networks</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/header_goldie_space_7.png" alt="">&lt;/p>
+&lt;p>This session introduces to multimodel (2+) network analysis concepts.&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>Recommended Datacamp exercises:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/intermediate-network-analysis-in-python" target="_blank">Intermediate Network Analysis in Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="notebooks">Notebooks&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s3-nw-2mode.ipynb" target="_blank">2-Mode Networks&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>NW Exercises</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</guid><description>&lt;h1 id="exercise-1-manager-networks">Exercise 1: Manager Networks&lt;/h1>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;ul>
+&lt;li>In this exercise, you will replicate a well known network analysis, with different data and some twists.&lt;/li>
+&lt;li>Data: The data is to be found at: &lt;a href="https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard" target="_blank">https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard&lt;/a> (Hint: You need to download the raw data)&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-what-do-i-get">Data: What do I get?&lt;/h2>
+&lt;h3 id="background">Background&lt;/h3>
+&lt;p>Let the fun begin. You will analyze network datacollected from the managers of a high-tec company. This dataset, originating from the paper below, is widely used in research on organizational networks. Time to give it a shot as well.
+Krackhardt D. (1987). Cognitive social structures. Social Networks, 9, 104-134. The company manufactured high-tech equipment on the west coast of the United States and had just over 100 employees with 21 managers. Each manager was asked to whom do you go to for advice and who is your friend, to whom do you report was taken from company documents.
+Description&lt;/p></description></item><item><title>NW Cases</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</guid><description>&lt;h1 id="case-1-danish-power-elites">Case 1: Danish Power Elites&lt;/h1>
+&lt;p>&lt;img src="https://source.unsplash.com/GWe0dlVD9e0" alt="">&lt;/p>
+&lt;blockquote>
+&lt;p>Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. &lt;a href="https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite" target="_blank">read more&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>In this project we are going to construct and explore a network of Danish power elites derived from boards of various organisations in th country.
+We will construct an association network: Who is being in the same board? And first explore &amp;ldquo;basic&amp;rdquo; centrality indicators. Then identify communities and central persons within those.&lt;/p></description></item></channel></rss>

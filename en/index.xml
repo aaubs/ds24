@@ -1,75 +1,459 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/</link><description>Recent content on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/index.xml" rel="self" type="application/rss+xml"/><item><title>- Introduction to Supervised ML</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/01-sml-intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/01-sml-intro/</guid><description>
-This session introduces supervised machine learning (SML) and related main concepts.
-Notebook(s) Introduction to Supervised Machine Learning
-Assignment for SML
-Intro slides Use arrows keys on keyboard to navigate. Alternatively fullscreen slides
-Recommended Datacamp exercises: Basics:
-Python - Intro to supervised learning Python - Decision Tree modeling Modell workflows
-Python - SML Preprocessing Python - SML Feature Engineering Python - SML Model validation Recommended Readings and resources Python Data Science Handbook Chapter 5</description></item><item><title>- Introduction to Unsupervised ML</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/01_intro_uml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/01_intro_uml/</guid><description>This session will introduce the principles and applications of unsupervised machine learning (UML). Students will learn about the different types of UML problems, and they will explore some of the most popular UML algorithms, such as PCA, SVD, and NMF.
-Notebook(s) Hands-on Intro to Dimensionality reduction and Clustering
-Assignment for the UML
-Assignment for the UML Solution
-Recommended Datacamp exercises: Python Recommended Readings and resources Python Data Science Handbook Chapter 5</description></item><item><title>- Welcome Students!</title><link>https://aaubs.github.io/ds24/en/m1/01_intro_ds/01_welcome_ds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/01_intro_ds/01_welcome_ds/</guid><description>This session will introduce you to the fundamentals of data science, with a focus on Python. We will cover the Python data science stack, essential tools and platforms, software setup, semester overview, and Python 101.
-Session 1: Welcome Students! This session sets the stage for your data science journey:
-Python Data Science Stack: Dive into Python&amp;rsquo;s core data science libraries and frameworks. We&amp;rsquo;ve got you covered!
-Ecosystem Deep Dive: Familiarize yourself with essential tools and platforms, such as Github, UCloud, Google Colab, and Jupyter.</description></item><item><title>Basics Network Analysis</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</guid><description>This session introduces basic concepts of network theory and analysis.
-Recommended Datacamp exercises: Introduction to Network Analysis in Python Notebooks Basics Network Analysis Intermediate Network Analysis Slides Use arrows keys on keyboard to navigate. Alternatively use fullscreen slides</description></item><item><title>Basics of NLP</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlp-intro-sml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlp-intro-sml/</guid><description>Medieval clergy, smartphones and dogs 2023. Roman x Stable Diffusion XL
-This session introduces basic concepts of NLP. We will take a Problem-Based-Learning approach and I will introduce NLP-related concepts as we go. If you need a more theoretical intro (standalone), I&amp;rsquo;ll uploaded pre-recorded videos. We will start with a project based on
-Context This assignment is based on data from this paper
-Davidson, T., Warmsley, D., Macy, M., &amp;amp; Weber, I.</description></item><item><title>Intro to Traditional Deep Learning</title><link>https://aaubs.github.io/ds24/en/m3/01_intro-to-traditional-dl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/01_intro-to-traditional-dl/</guid><description>This session provides an overview of the foundational elements of deep learning, including its historical context, key concepts, and practical applications. The course will delve into various types of neural networks, outlining their advantages and disadvantages. It will specifically focus on convolutional neural networks (CNNs), recurrent neural networks (RNNs), and long short-term memory (LSTM) networks, highlighting their unique characteristics and applicability to a range of problem-solving scenarios, including those in economics.</description></item><item><title>Introduction to Streamlit: Building an Employee Attrition Dashboard</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01_rapid_prototyping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01_rapid_prototyping/</guid><description>Corgi working on a Data Science project. 2023. Roman x Stable Diffusion XL
-Streamlit has rapidly become a go-to tool for data scientists and developers wanting to turn data scripts into shareable web apps. Let&amp;rsquo;s explore its core features and benefits:
-Key Features of Streamlit Simplicity: With just a few lines of Python code, you can have a running web application. No need to deal with HTML, CSS, or JavaScript unless you want to.</description></item><item><title>- Recommendation and Similarity Search</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</guid><description>
-In this workshop we are going to learn about recommender systems as a type of UML. Such systems are probably the most widely used and commercialy valuable form of AI today. Specifically we will be looking into collaborative filtering and matrix factorization.
-Plan for today Collaborative filtering / SVD recommender using Nomadlist Trips-data in a Notebooks Streamlit recommender-app Notebook(s) Nomadlist Trips Notebook Nomadlist Trips Notebook Solutions Recap Nomadlist Trips Notebook Recap Similarity Notebook Recap Dimensionality Reduction Class UML Exemple cosine similarity App Source code for the app Deployed recommender app Recommended Readings and resources This excellent PyData Talk by the developer of LightFM Recommended Datacamp exercises: Beginner Tutorial RecSys-Course</description></item><item><title>- SML - Further topics</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</guid><description>
-This session introduces adittional topics of intertest in SML
-Notebook(s) Introduction to Explainable ML Data engineeering &amp;amp;amp; pipelines Recommended Datacamp exercises: &amp;hellip; Recommended Readings and resources &amp;hellip;</description></item><item><title>2 Mode Networks</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</guid><description>
-This session introduces to multimodel (2+) network analysis concepts.
-Recommended Datacamp exercises: Intermediate Network Analysis in Python Notebooks 2-Mode Networks</description></item><item><title>Group Assignment 1</title><link>https://aaubs.github.io/ds24/en/m3/01_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/01_group_assignment/</guid><description>Portfolio Exercise 1 Note: M3 - Group Assignment 1 Deadline: Wednesday 7th of February at 12.00 PM
-Introduction In this assignment, you are required to delve into the practical aspects of Deep Learning by constructing and evaluating a neural network using PyTorch. This exercise is designed to deepen your understanding of neural network architectures, hyperparameter tuning, and the preprocessing steps necessary for effective model training and evaluation. You will have the freedom to choose a dataset from either the M1 or M2 module or select an external dataset that intrigues you.</description></item><item><title>Group Assignment 1</title><link>https://aaubs.github.io/ds24/en/m3_eco/01_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/01_group_assignment/</guid><description>Portfolio Exercise 1 Note: M3 - Group Assignment 1 Deadline: Monday, 6th of November at 12:00 PM
-Introduction In this assignment, you are required to delve into the practical aspects of Deep Learning by constructing and evaluating a neural network using PyTorch. This exercise is designed to deepen your understanding of neural network architectures, hyperparameter tuning, and the preprocessing steps necessary for effective model training and evaluation. You will have the freedom to choose a dataset from either the M1 or M2 module or select an external dataset that intrigues you.</description></item><item><title>NW Exercises</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</guid><description>Exercise 1: Manager Networks Introduction In this exercise, you will replicate a well known network analysis, with different data and some twists. Data: The data is to be found at: https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard (Hint: You need to download the raw data) Data: What do I get? Background Let the fun begin. You will analyze network datacollected from the managers of a high-tec company. This dataset, originating from the paper below, is widely used in research on organizational networks.</description></item><item><title>Streamlit Development &amp; Running Offline</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01.5_streamlit_offline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01.5_streamlit_offline/</guid><description>Streamlit provides an easy and rapid way to turn data scripts into interactive web apps. However, at times, developers may need to ensure that their Streamlit applications run offline. Here&amp;rsquo;s a simple guide to setting up Streamlit in an offline environment using Anaconda and Visual Studio Code (VSCode).
-Setup with Anaconda Environment Follow these steps to set up Streamlit within an Anaconda environment:
-Install Anaconda &amp;amp; VSCode
-Download and install Anaconda.</description></item><item><title>- Real World Data to Online Dashboard</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</guid><description>This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.
-Introduction to GeoPandas Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
-GeoPandas GeoPandas and Solutions GeoPandas Hands-on Project GeoPandas Hands-on Project and Solutions GeoPandas Exercises GeoPandas exercises GeoPandas exercises and solutions From Geopandas to Streamlit App 🚀 Simplified version of the analysis - with Folium Plotting App code Deployed App What to do now?</description></item><item><title>- Time Series Forecasts</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</guid><description>
-This session introduces to time series analysis and forecasting
-Notebook(s) Introduction to Timeseries Forecasting Recommended Datacamp exercises: Python - Time Series Analysis Python - SML for Time Series Data Recommended Readings and resources &amp;hellip;</description></item><item><title>Intro to Transformer Models</title><link>https://aaubs.github.io/ds24/en/m3/02_intro-tm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_intro-tm/</guid><description>Literature Sutskever, I., Vinyals, O., &amp;amp;amp; Le, Q. V. (2014). Sequence to sequence learning with neural networks. Advances in neural information processing systems, 27.
-Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., &amp;amp;hellip; &amp;amp;amp; Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.
-The illustrated transformer
-Simple transformer LM
-Notebooks - Basics Transformer Models - Basics Notebooks - Applications TM Applications - SBERT TM Applications - HF Simple transformer LM SBERT for Patent Search using PatentSBERTa in PyTorch Notebooks - FineTuning TM FineTuning - SimpleTransformers TM FineTuning - SBERT TM FineTuning - HF SetFit Hatespeech vs bert and distilroberta Seq2Seq - Neural Machine Translation Slides - Attention Mechanism Slides - SBERT Classification with various vectorization approaches TF-IDF and W2V Multi-Class Text Classification BERT Multi-Class Text Classification Implementing Multi-Class Text Classification LSTMs using PyTorch Resources OG SBERT-Paper Reimers, N.</description></item><item><title>Intro to Transformer Models</title><link>https://aaubs.github.io/ds24/en/m3_eco/02_intro-tm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/02_intro-tm/</guid><description>Literature Sutskever, I., Vinyals, O., &amp;amp;amp; Le, Q. V. (2014). Sequence to sequence learning with neural networks. Advances in neural information processing systems, 27.
-Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., &amp;amp;hellip; &amp;amp;amp; Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.
-The illustrated transformer
-Simple transformer LM
-Notebooks - Basics Transformer Models - Basics Notebooks - Applications TM Applications - SBERT TM Applications - HF Simple transformer LM SBERT for Patent Search using PatentSBERTa in PyTorch Notebooks - FineTuning TM FineTuning - SimpleTransformers TM FineTuning - SBERT TM FineTuning - HF SetFit Hatespeech vs bert and distilroberta Seq2Seq - Neural Machine Translation Slides - Attention Mechanism Slides - SBERT Classification with various vectorization approaches TF-IDF and W2V Multi-Class Text Classification BERT Multi-Class Text Classification Implementing Multi-Class Text Classification LSTMs using PyTorch Resources OG SBERT-Paper Reimers, N.</description></item><item><title>Modules</title><link>https://aaubs.github.io/ds24/en/info/02_modules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/02_modules/</guid><description>For Business Data Science Students M1: Data Handling, Exploration &amp;amp; Applied Machine Learning 10 ECTS
-This module will prove a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.
-M2: Network Analysis and Natural Language Processing 5 ECTS
-Focuses on analyzing a variety of unstructured data sources. Particularly, students will learn how to explore, analyze, and visualize natural language (text) as well as relational (network) data.</description></item><item><title>NLP Applications Chatbot</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</guid><description>Roman x Stable Diffusion
-Chatbots are one of the most wide spread NLP applications. In this tutorial we will build a simple retrieval chatbot that can be used for example as an alternative for FAQ applications in companies.
-The approach is following:
-Train a model on variants of a question. Take input and predict the type of question asked - this is called &amp;ldquo;intent&amp;rdquo; Reply with a pre-defined response corresponding to the question asked.</description></item><item><title>- Introduction to Clustering: K-means and Hierarchical Approaches</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</guid><description>This session will introduce the principles and applications of clustering. Students will learn about the different types of clustering problems, and they will explore some of the most popular clustering algorithms, such as K-means and hierarchical clustering.
-Notebook(s) Hands-on Intro Clustering Hands-on Intro Clustering Solutions App NBA Player Injury Replacement Recommender NBA Player Injury Replacement Recommender Streamlit Recommended Datacamp exercises: Python Recommended Readings and resources Python Data Science Handbook Chapter 5 What Is Machine Learning?</description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</guid><description>Portfolio Exercise 2: Transformer Models Note: M3 - Group Assignment 2 Deadline: Wednesday, February 14th at 10:00 AM
-Introduction This exercise is designed to deepen your understanding and skills in modern deep learning techniques. We have two main tasks for you. The first is focused on using SBERT for semantic search, and the second involves hands-on exercises with gradient descent and the attention mechanism.
-Part 1: SBERT and Semantic Search Task Description Create something innovative using SBERT and semantic search, or even more!</description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3_eco/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/02_group_assignment/</guid><description>Portfolio Exercise 2: Transformer Models Note: M3 - Group Assignment 2 Deadline: Wednesday, November 15th at 10:00 AM
-Introduction This exercise is designed to deepen your understanding and skills in modern deep learning techniques. We have two main tasks for you. The first is focused on using SBERT for semantic search, and the second involves hands-on exercises with gradient descent and the attention mechanism.
-Part 1: SBERT and Semantic Search Task Description Create something innovative using SBERT and semantic search, or even more!</description></item><item><title>Group assignment 3</title><link>https://aaubs.github.io/ds24/en/m3/03_intro-to-transformer-models/4_group_assignment-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/03_intro-to-transformer-models/4_group_assignment-3/</guid><description>Portfolio Exercise 3: Introduction Task Create something cool 🚀 using SBERT and semantic search or perhaps more?! That&amp;rsquo;s a bit of a vague description but there are many options.
-You are welcome to use images and CLIP You can also use SetFit for supervised tasks with SBERT models. Here are some projects for inspiration:
-GIF search engine Youtube search some more ideas:
-get some podcast transcripts for a specific topic (or create transcripts with Whisper - search for OpenAI Whisper Colab) Finetune an SBERT model using domain adaptation Embed and build a search engine Build a Gradio app Feel free to choose any of these ideas or come up with your own.</description></item><item><title>Group assignment 3</title><link>https://aaubs.github.io/ds24/en/m3_eco/03_intro-to-transformer-models/4_group_assignment-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/03_intro-to-transformer-models/4_group_assignment-3/</guid><description>Portfolio Exercise 3: Introduction Task Create something cool 🚀 using SBERT and semantic search or perhaps more?! That&amp;rsquo;s a bit of a vague description but there are many options.
-You are welcome to use images and CLIP You can also use SetFit for supervised tasks with SBERT models. Here are some projects for inspiration:
-GIF search engine Youtube search some more ideas:
-get some podcast transcripts for a specific topic (or create transcripts with Whisper - search for OpenAI Whisper Colab) Finetune an SBERT model using domain adaptation Embed and build a search engine Build a Gradio app Feel free to choose any of these ideas or come up with your own.</description></item><item><title>Group assignment 3</title><link>https://aaubs.github.io/ds24/en/m4/03_intro-to-transformer-models/4_group_assignment-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m4/03_intro-to-transformer-models/4_group_assignment-3/</guid><description>Portfolio Exercise 3: Introduction Task Create something cool 🚀 using SBERT and semantic search or perhaps more?! That&amp;rsquo;s a bit of a vague description but there are many options.
-You are welcome to use images and CLIP You can also use SetFit for supervised tasks with SBERT models. Here are some projects for inspiration:
-GIF search engine Youtube search some more ideas:
-get some podcast transcripts for a specific topic (or create transcripts with Whisper - search for OpenAI Whisper Colab) Finetune an SBERT model using domain adaptation Embed and build a search engine Build a Gradio app Feel free to choose any of these ideas or come up with your own.</description></item><item><title>Literature &amp; Resources</title><link>https://aaubs.github.io/ds24/en/info/04_litetrature/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/04_litetrature/</guid><description>While this course does not come with a list of mandatory readings, we will often refer to some central resources in R and python, which for the most part can always be accessed in a free and updated online version. We generally recommend you to use these amazing resources for problem-solving and further self-study on the topic.
-Main Literature These pieces of work can be seen as main references for data science using Python.</description></item><item><title>NW Cases</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</guid><description>Case 1: Danish Power Elites Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. read more
-In this project we are going to construct and explore a network of Danish power elites derived from boards of various organisations in th country.</description></item><item><title>Semester Schedule</title><link>https://aaubs.github.io/ds24/en/info/03_schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/03_schedule/</guid><description>This will be shortly updated with additional key dates and topics for the semester. For now, please follow CalMoodle.
-M1: Week 35-41 Topics W 36: Intro, Data Manipulation, Exploratory Data Analysis (EDA) W 37: Exploratory Data Analysis (EDA) / Dashboard development W 38: Unsupervised Machine Learning (UML), Math for ML W 39: Supervised Machine Learning (SML) W 40: Group Assignment &amp;amp; M2 NLP W 41: M2 NLP Exam All weeks: Advanced Innovation Management (Data Driven Business Dev.</description></item><item><title>Intro to GPT Models</title><link>https://aaubs.github.io/ds24/en/m3/03_intro-gpt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/03_intro-gpt/</guid><description>GPT models (Decoders) play a crucial role in generating subsequent words in tasks like text translation or story generation, providing outputs along with their probabilities. They utilize attention mechanisms twice during training: initially, Masked Multi-Head Attention, where only the beginning of a target sentence is revealed, and later, Multi-Head Attention, similar to encoders. In traditional transformer models, decoders interact with encoders by using the encoder&amp;rsquo;s outputs to assist in tasks like sentence translation.</description></item><item><title>Intro to GPT Models</title><link>https://aaubs.github.io/ds24/en/m3_eco/03_intro-gpt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/03_intro-gpt/</guid><description>GPT models (Decoders) play a crucial role in generating subsequent words in tasks like text translation or story generation, providing outputs along with their probabilities. They utilize attention mechanisms twice during training: initially, Masked Multi-Head Attention, where only the beginning of a target sentence is revealed, and later, Multi-Head Attention, similar to encoders. In traditional transformer models, decoders interact with encoders by using the encoder&amp;rsquo;s outputs to assist in tasks like sentence translation.</description></item><item><title>Semester Project Requirements</title><link>https://aaubs.github.io/ds24/en/info/05_requirements_project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/05_requirements_project/</guid><description>Format Functional and self-contained notebook Happy to see GitHub repos (which you can use as your portfolio in the job market) Project report (30-ish pages - max. 45) Some study relation (but that is debatable and not necessarily required) Report is a (semi/non) technical documentation. Think about a corporate censor that you try to inform Content Problem formulation with some practical and theoretical motivation (no huge literature discussion) Methodology (not a critical realist vs positivist discussion but some ideas about what can be concluded potentially) Data sourcing and pre-processing strategy Overall architecture of the model(s) Modelling (incl.</description></item><item><title>Group Assignment 3</title><link>https://aaubs.github.io/ds24/en/m3/03_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/03_group_assignment/</guid><description>Portfolio Exercise 3: GPT Models Note: M3 - Group Assignment 3 Deadline: Wednesday 28th of February at 12:00 PM
-Introduction This assignment focuses on leveraging retrieval-augmented generation (RAG) techniques, particularly in the context of extracting and synthesizing information from various documents (or a document). You&amp;rsquo;ll be using Langchain to implement these concepts and create a system that not only generates responses but also retrieves relevant information from a database.
-Objective Task Description Your task is to create a system that uses RAG for extracting information from a set of documents or a document which can be either a scientific paper or report.</description></item><item><title>Group Assignment 3</title><link>https://aaubs.github.io/ds24/en/m3_eco/03_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/03_group_assignment/</guid><description>Portfolio Exercise 3: GPT Models Note: M3 - Group Assignment 3 Deadline: Wednesday, November 22nd at 10:00 AM
-Introduction This assignment focuses on leveraging retrieval-augmented generation (RAG) techniques, particularly in the context of extracting and synthesizing information from various documents (or a document). You&amp;rsquo;ll be using Langchain to implement these concepts and create a system that not only generates responses but also retrieves relevant information from a database.
-Objective Task Description Your task is to create a system that uses RAG for extracting information from a set of documents or a document which can be either a scientific paper or report.</description></item><item><title>Intro to Graph Neural Networks</title><link>https://aaubs.github.io/ds24/en/m3_eco/04_intro-gnn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/04_intro-gnn/</guid><description>Graph neural networks (GNNs) are a powerful new class of machine learning algorithms that are specifically designed to handle graph-structured data. Unlike traditional neural networks, which are designed to process data in the form of vectors or matrices, GNNs can operate directly on graphs, where nodes represent entities and edges represent relationships between entities. This makes them well-suited for a wide range of tasks that involve understanding the structure of complex systems, such as social networks, knowledge graphs, and molecular structures.</description></item><item><title>Group Assignment 4</title><link>https://aaubs.github.io/ds24/en/m3_eco/04_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/04_group_assignment/</guid><description>Portfolio Exercise 4: Advanced AI Applications Note: M4 - Group Assignment 4 Deadline: Monday, January 8th at Noon
-Introduction This assignment encourages you to build an engaging and, if possible, fun application using the techniques learned in this module. The focus is on applying advanced AI and DL methods to solve relevant tasks, with an emphasis on creativity and practical application.
-Objective Task Description Your goal is to develop an application that uses advanced AI techniques and DL for a specific, relevant task.</description></item><item><title>Intro to Graph Neural Networks</title><link>https://aaubs.github.io/ds24/en/m3/04_intro-gnn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/04_intro-gnn/</guid><description>Graph neural networks (GNNs) are a powerful new class of machine learning algorithms that are specifically designed to handle graph-structured data. Unlike traditional neural networks, which are designed to process data in the form of vectors or matrices, GNNs can operate directly on graphs, where nodes represent entities and edges represent relationships between entities. This makes them well-suited for a wide range of tasks that involve understanding the structure of complex systems, such as social networks, knowledge graphs, and molecular structures.</description></item><item><title>Group Assignment 4</title><link>https://aaubs.github.io/ds24/en/m3/04_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/04_group_assignment/</guid><description>Portfolio Exercise 4: Advanced AI Applications Note: M4 - Final Assignment Deadline: Friday, 8 March 2024, 12:00 PM
-Introduction This assignment is designed to explore the frontier of AI applications, focusing on the integration of Retrieval-Augmented Generation (RAG) with vector databases such as ChromDB and LanceDB, and the comparison of various prompt engineering techniques. The goal is to build an application that not only showcases advanced AI and DL capabilities but also evaluates the impact of different prompt strategies on model performance.</description></item><item><title/><link>https://aaubs.github.io/ds24/en/m6/l1/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m6/l1/readme/</guid><description>MLOps Lecture 1 - Intro to APIs &amp;amp; DataBases This repository contains lecutre slides, python scripts and dataset for the first lecture.
-API api_jokes.py is an example of simple public API api_finance.py, api_news.py are examples of private API using API_key (You need to register to get your private key) api_datasets.py is an example of API Wrapper EXTRA: joke_app.py is a simple streamlit app that uses IPA to print jokes EXTRA: api_weather.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/</link><description>Recent content on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/index.xml" rel="self" type="application/rss+xml"/><item><title>- Introduction to Supervised ML</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/01-sml-intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/01-sml-intro/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_3.png" alt="">&lt;/p>
+&lt;p>This session introduces supervised machine learning (SML) and related main concepts.&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds23/blob/master/notebooks/M1-sml-intro.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Introduction to Supervised Machine Learning&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_SML_assignment_BDS23.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Assignment for SML&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="intro-slides">Intro slides&lt;/h2>
+&lt;p>Use arrows keys on keyboard to navigate. Alternatively &lt;a href="https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html" target="_blank">fullscreen slides&lt;/a>&lt;/p>
+
+
+
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;">
+ 
+ 
+ &lt;iframe src="https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html"
+ frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 115%;">
+
+&lt;/iframe>
+
+&lt;/div>
+
+
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;p>Basics:&lt;/p></description></item><item><title>- Introduction to Unsupervised ML</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/01_intro_uml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/01_intro_uml/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds23/images/corgi_painting.jpg" alt="">&lt;/p>
+&lt;p>This session will introduce the principles and applications of unsupervised machine learning (UML). Students will learn about the different types of UML problems, and they will explore some of the most popular UML algorithms, such as PCA, SVD, and NMF.&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_UML_nomads.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Hands-on Intro to Dimensionality reduction and Clustering&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Assignement_UML.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Assignment for the UML&lt;/a>&lt;/p></description></item><item><title>- Welcome Students!</title><link>https://aaubs.github.io/ds24/en/m1/01_intro_ds/01_welcome_ds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/01_intro_ds/01_welcome_ds/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/Intro_BSD_M1.jpg" alt="">&lt;/p>
+&lt;p>This session will introduce you to the fundamentals of data science, with a focus on Python. We will cover the Python data science stack, essential tools and platforms, software setup, semester overview, and Python 101.&lt;/p>
+&lt;h2 id="session-1-welcome-students">Session 1: Welcome Students!&lt;/h2>
+&lt;p>This session sets the stage for your data science journey:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Python Data Science Stack: Dive into Python&amp;rsquo;s core data science libraries and frameworks. We&amp;rsquo;ve got you covered!&lt;/p></description></item><item><title>Basics Network Analysis</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_6.png" alt="">&lt;/p>
+&lt;p>This session introduces basic concepts of network theory and analysis.&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>Recommended Datacamp exercises:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python" target="_blank">Introduction to Network Analysis in Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="notebooks">Notebooks&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb" target="_blank">Basics Network Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s2-nw-intermediate.ipynb" target="_blank">Intermediate Network Analysis&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="slides">Slides&lt;/h2>
+&lt;p>Use arrows keys on keyboard to navigate. Alternatively use &lt;a href="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html" target="_blank">fullscreen slides&lt;/a>&lt;/p>
+
+ 
+ 
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0;">
+ 
+ 
+ &lt;iframe src="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html"
+ frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 115%;">
+ 
+ &lt;/iframe>
+ 
+ &lt;/div></description></item><item><title>Basics of NLP</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlp-intro-sml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlp-intro-sml/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds23/images/M2_nlp_dog1.jpg" alt="">
+Medieval clergy, smartphones and dogs 2023. Roman x Stable Diffusion XL&lt;/p>
+&lt;p>This session introduces basic concepts of NLP.
+We will take a Problem-Based-Learning approach and I will introduce NLP-related concepts as we go. If you need a more theoretical intro (standalone), I&amp;rsquo;ll uploaded pre-recorded videos. We will start with a project based on&lt;/p>
+&lt;h2 id="context">Context&lt;/h2>
+&lt;p>This assignment is based on data from &lt;a href="https://ojs.aaai.org/index.php/ICWSM/article/download/14955/14805" target="_blank">this paper&lt;/a>&lt;/p></description></item><item><title>Intro to Traditional Deep Learning</title><link>https://aaubs.github.io/ds24/en/m3/01_intro-to-traditional-dl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/01_intro-to-traditional-dl/</guid><description>&lt;p>This session provides an overview of the foundational elements of deep learning, including its historical context, key concepts, and practical applications. The course will delve into various types of neural networks, outlining their advantages and disadvantages. It will specifically focus on convolutional neural networks (CNNs), recurrent neural networks (RNNs), and long short-term memory (LSTM) networks, highlighting their unique characteristics and applicability to a range of problem-solving scenarios, including those in economics.&lt;/p></description></item><item><title>Introduction to Streamlit: Building an Employee Attrition Dashboard</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01_rapid_prototyping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01_rapid_prototyping/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds23/images/ds_corgy_23_c.jpg" alt="">
+Corgi working on a Data Science project. 2023. Roman x &lt;a href="https://stability.ai" target="_blank">Stable Diffusion XL&lt;/a>&lt;/p>
+&lt;p>Streamlit has rapidly become a go-to tool for data scientists and developers wanting to turn data scripts into shareable web apps. Let&amp;rsquo;s explore its core features and benefits:&lt;/p>
+&lt;h2 id="key-features-of-streamlit">Key Features of Streamlit&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Simplicity&lt;/strong>: With just a few lines of Python code, you can have a running web application. No need to deal with HTML, CSS, or JavaScript unless you want to.&lt;/li>
+&lt;li>&lt;strong>Interactive Widgets&lt;/strong>: Streamlit offers out-of-the-box widgets like sliders, buttons, and text inputs that make your app interactive.&lt;/li>
+&lt;li>&lt;strong>Data Integration&lt;/strong>: It seamlessly integrates with popular data science libraries like Pandas, Numpy, Matplotlib, and others.&lt;/li>
+&lt;li>&lt;strong>Data Caching&lt;/strong>: With &lt;code>@st.cache&lt;/code>, Streamlit caches the output of functions, ensuring your data operations are efficient and your apps remain performant.&lt;/li>
+&lt;li>&lt;strong>Hot Reloading&lt;/strong>: As you save changes to your script, the app refreshes in real-time. No need to manually restart your app.&lt;/li>
+&lt;/ol>
+&lt;h2 id="vs-gradiohttpswwwgradioapp">vs. &lt;a href="https://www.gradio.app/" target="_blank">Gradio&lt;/a>&lt;/h2>
+&lt;p>While Streamlit offers a robust platform for creating web apps, Gradio provides several distinct advantages, especially when the focus is on deploying machine learning models:&lt;/p></description></item><item><title>- Data Handling and Manipulation</title><link>https://aaubs.github.io/ds24/en/m1/01_intro_ds/02_data_handeling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/01_intro_ds/02_data_handeling/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_2.png" alt="">&lt;/p>
+&lt;p>This session will introduce students to the foundational aspects of data handling in Python. Students will learn about the different types of data that are important in data science, and they will explore essential operations like arrange, group-by, filter, select, and join. By the end of this session, students should have a solid understanding of primary data manipulation techniques, setting the stage for more advanced subjects.&lt;/p></description></item><item><title>- Recommendation and Similarity Search</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nomad_recommender.jpg" alt="">&lt;/p>
+&lt;!-- Corgis in an Airport. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) -->
+&lt;p>In this workshop we are going to learn about recommender systems as a type of UML.
+Such systems are probably the most widely used and commercialy valuable form of AI today. Specifically we will be looking into collaborative filtering and matrix factorization.&lt;/p>
+&lt;h2 id="plan-for-today">Plan for today&lt;/h2>
+&lt;ul>
+&lt;li>Collaborative filtering / SVD recommender using Nomadlist Trips-data in a Notebooks&lt;/li>
+&lt;li>Streamlit recommender-app&lt;/li>
+&lt;/ul>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Nomadlist Trips Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3_Solutions_v1.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Nomadlist Trips Notebook Solutions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Recommender_System.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Recap Nomadlist Trips Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Recap Similarity Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Dimensionality_Reduction.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Recap Dimensionality Reduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Class_UML_solutions.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Class UML Exemple cosine similarity&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="app">App&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://aaubs.github.io/ds24/ds22/apps/nomadrecommender.zip">Source code for the app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://recommendersys1-8d5sbggabqm6wb96pyez7p.streamlit.app/" target="_blank">Deployed recommender app&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
+&lt;ul>
+&lt;li>This excellent &lt;a href="https://youtu.be/EgE0DUrYmo8" target="_blank">PyData Talk&lt;/a> by the developer of LightFM&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.datacamp.com/tutorial/recommender-systems-python" target="_blank">Beginner Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.datacamp.com/courses/building-recommendation-engines-in-python" target="_blank">RecSys-Course&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- 
+
+## Recommended Datacamp exercises:
+ * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
+
+## Recommended Readings and resources
+* [Python Data Science Handbook Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)
+ * What Is Machine Learning?
+ * Introducing Scikit-Learn
+ * Feature Engineering
+ * In Depth: Principal Component Analysis
+ * In Depth: k-Means Clustering
+
+* Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+--></description></item><item><title>- SML - Further topics</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png" alt="">&lt;/p>
+&lt;p>This session introduces adittional topics of intertest in SML&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-further-topics.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Introduction to Explainable ML&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-SML-pipes.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Data engineeering &amp;amp; pipelines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;ul>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
+&lt;ul>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul></description></item><item><title>2 Mode Networks</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/header_goldie_space_7.png" alt="">&lt;/p>
+&lt;p>This session introduces to multimodel (2+) network analysis concepts.&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>Recommended Datacamp exercises:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/intermediate-network-analysis-in-python" target="_blank">Intermediate Network Analysis in Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="notebooks">Notebooks&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s3-nw-2mode.ipynb" target="_blank">2-Mode Networks&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Group Assignment 1</title><link>https://aaubs.github.io/ds24/en/m3/01_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/01_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-1">Portfolio Exercise 1&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 1 Deadline: Wednesday 7th of February at 12.00 PM&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In this assignment, you are required to delve into the practical aspects of Deep Learning by constructing and evaluating a neural network using PyTorch. This exercise is designed to deepen your understanding of neural network architectures, hyperparameter tuning, and the preprocessing steps necessary for effective model training and evaluation. You will have the freedom to choose a dataset from either the M1 or M2 module or select an external dataset that intrigues you. By experimenting with different neural network configurations and hyperparameters, you will gain hands-on experience in optimizing ML models to achieve desired performance metrics.&lt;/p></description></item><item><title>Group Assignment 1</title><link>https://aaubs.github.io/ds24/en/m3_eco/01_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/01_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-1">Portfolio Exercise 1&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 1 Deadline: Monday, 6th of November at 12:00 PM&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In this assignment, you are required to delve into the practical aspects of Deep Learning by constructing and evaluating a neural network using PyTorch. This exercise is designed to deepen your understanding of neural network architectures, hyperparameter tuning, and the preprocessing steps necessary for effective model training and evaluation. You will have the freedom to choose a dataset from either the M1 or M2 module or select an external dataset that intrigues you. By experimenting with different neural network configurations and hyperparameters, you will gain hands-on experience in optimizing ML models to achieve desired performance metrics.&lt;/p></description></item><item><title>NW Exercises</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/3_exercises/</guid><description>&lt;h1 id="exercise-1-manager-networks">Exercise 1: Manager Networks&lt;/h1>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;ul>
+&lt;li>In this exercise, you will replicate a well known network analysis, with different data and some twists.&lt;/li>
+&lt;li>Data: The data is to be found at: &lt;a href="https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard" target="_blank">https://github.com/SDS-AAU/SDS-master/tree/master/00_data/network_krackhard&lt;/a> (Hint: You need to download the raw data)&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-what-do-i-get">Data: What do I get?&lt;/h2>
+&lt;h3 id="background">Background&lt;/h3>
+&lt;p>Let the fun begin. You will analyze network datacollected from the managers of a high-tec company. This dataset, originating from the paper below, is widely used in research on organizational networks. Time to give it a shot as well.
+Krackhardt D. (1987). Cognitive social structures. Social Networks, 9, 104-134. The company manufactured high-tech equipment on the west coast of the United States and had just over 100 employees with 21 managers. Each manager was asked to whom do you go to for advice and who is your friend, to whom do you report was taken from company documents.
+Description&lt;/p></description></item><item><title>Streamlit Development &amp; Running Offline</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01.5_streamlit_offline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01.5_streamlit_offline/</guid><description>&lt;p>Streamlit provides an easy and rapid way to turn data scripts into interactive web apps. However, at times, developers may need to ensure that their Streamlit applications run offline. Here&amp;rsquo;s a simple guide to setting up Streamlit in an offline environment using Anaconda and Visual Studio Code (VSCode).&lt;/p>
+&lt;h2 id="setup-with-anaconda-environment">Setup with Anaconda Environment&lt;/h2>
+&lt;p>Follow these steps to set up Streamlit within an Anaconda environment:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Install Anaconda &amp;amp; VSCode&lt;/strong>&lt;/p></description></item><item><title>- Real World Data to Online Dashboard</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</guid><description>&lt;p>This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/GeoPandas3.jpeg" alt="">&lt;/p>
+&lt;h3 id="introduction-to-geopandas">Introduction to GeoPandas&lt;/h3>
+&lt;p>Using GeoPandas to analyze geospatial data will be our focus in these notebooks.&lt;/p></description></item><item><title>- Time Series Forecasts</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_5.png" alt="">&lt;/p>
+&lt;p>This session introduces to time series analysis and forecasting&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-timeseries-2.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Introduction to Timeseries Forecasting&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/time-series-analysis-in-python" target="_blank">Python - Time Series Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/machine-learning-for-time-series-data-in-python" target="_blank">Python - SML for Time Series Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
+&lt;ul>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul></description></item><item><title>Intro to Transformer Models</title><link>https://aaubs.github.io/ds24/en/m3/02_intro-tm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_intro-tm/</guid><description>&lt;p>&lt;img src="https://jalammar.github.io/images/transformer-ber-ulmfit-elmo.png" alt="">&lt;/p>
+&lt;h2 id="literature">Literature&lt;/h2>
+&lt;p>&lt;a href="https://proceedings.neurips.cc/paper/5346-sequence-to-sequence-learning-with-neural-" target="_blank">Sutskever, I., Vinyals, O., &amp;amp; Le, Q. V. (2014). Sequence to sequence learning with neural networks. Advances in neural information processing systems, 27.&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://proceedings.neurips.cc/paper/7181-attention-is-all" target="_blank">Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., &amp;hellip; &amp;amp; Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://jalammar.github.io/illustrated-transformer/" target="_blank">The illustrated transformer&lt;/a>&lt;/p></description></item><item><title>Intro to Transformer Models</title><link>https://aaubs.github.io/ds24/en/m3_eco/02_intro-tm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/02_intro-tm/</guid><description>&lt;p>&lt;img src="https://jalammar.github.io/images/transformer-ber-ulmfit-elmo.png" alt="">&lt;/p>
+&lt;h2 id="literature">Literature&lt;/h2>
+&lt;p>&lt;a href="https://proceedings.neurips.cc/paper/5346-sequence-to-sequence-learning-with-neural-" target="_blank">Sutskever, I., Vinyals, O., &amp;amp; Le, Q. V. (2014). Sequence to sequence learning with neural networks. Advances in neural information processing systems, 27.&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://proceedings.neurips.cc/paper/7181-attention-is-all" target="_blank">Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., &amp;hellip; &amp;amp; Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://jalammar.github.io/illustrated-transformer/" target="_blank">The illustrated transformer&lt;/a>&lt;/p></description></item><item><title>Modules</title><link>https://aaubs.github.io/ds24/en/info/02_modules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/02_modules/</guid><description>&lt;h3 id="for-business-data-science-students">For Business Data Science Students&lt;/h3>
+&lt;p>&lt;strong>M1: Data Handling, Exploration &amp;amp; Applied Machine Learning 10 ECTS&lt;/strong>&lt;/p>
+&lt;p>This module will prove a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.&lt;/p>
+&lt;p>&lt;strong>M2: Network Analysis and Natural Language Processing 5 ECTS&lt;/strong>&lt;/p>
+&lt;p>Focuses on analyzing a variety of unstructured data sources. Particularly, students will learn how to explore, analyze, and visualize natural language (text) as well as relational (network) data.&lt;/p></description></item><item><title>NLP Applications Chatbot</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/viz-corgi-nlp3.png" alt="">
+Roman x &lt;a href="https://stability.ai/blog/stable-diffusion-public-release" target="_blank">Stable Diffusion&lt;/a>&lt;/p>
+&lt;p>Chatbots are one of the most wide spread NLP applications.
+In this tutorial we will build a simple retrieval chatbot that can be used for example as an alternative for FAQ applications in companies.&lt;/p>
+&lt;p>The approach is following:&lt;/p>
+&lt;ol>
+&lt;li>Train a model on variants of a question.&lt;/li>
+&lt;li>Take input and predict the type of question asked - this is called &amp;ldquo;intent&amp;rdquo;&lt;/li>
+&lt;li>Reply with a pre-defined response corresponding to the question asked.&lt;/li>
+&lt;/ol>
+&lt;p>Modern bots are more complex. They evaluate the whole (or large parts of the) dialogue. In addition some have the capacity to generate text.&lt;/p></description></item><item><title>- Introduction to Clustering: K-means and Hierarchical Approaches</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</guid><description>&lt;p>This session will introduce the principles and applications of clustering. Students will learn about the different types of clustering problems, and they will explore some of the most popular clustering algorithms, such as K-means and hierarchical clustering.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nba_Clustering_yale.png" alt="">&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Hands-on Intro Clustering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4_Solutions.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Hands-on Intro Clustering Solutions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="app">App&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ NBA Player Injury Replacement Recommender&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://injuryreplacement-9dqxgbmk9zbfqveaxqfqtd.streamlit.app/" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ NBA Player Injury Replacement Recommender Streamlit&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.datacamp.com/courses/unsupervised-learning-in-python" target="_blank">Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook Chapter 5&lt;/a>
+&lt;ul>
+&lt;li>What Is Machine Learning?&lt;/li>
+&lt;li>Introducing Scikit-Learn&lt;/li>
+&lt;li>Feature Engineering&lt;/li>
+&lt;li>In Depth: Principal Component Analysis&lt;/li>
+&lt;li>In Depth: k-Means Clustering&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- * Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+
+## Intro slides
+
+Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) 
+ 
+
+
+
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;">
+ 
+ 
+ &lt;iframe src="https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf"
+ frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 115%;">
+
+&lt;/iframe>
+
+&lt;/div>
+
+ --></description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-2-transformer-models">Portfolio Exercise 2: Transformer Models&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 2 Deadline: Wednesday, February 14th at 10:00 AM&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/corgi_pups_neon.png" alt="Corgi Pups Neon Image">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This exercise is designed to deepen your understanding and skills in modern deep learning techniques. We have two main tasks for you. The first is focused on using SBERT for semantic search, and the second involves hands-on exercises with gradient descent and the attention mechanism.&lt;/p></description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3_eco/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/02_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-2-transformer-models">Portfolio Exercise 2: Transformer Models&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 2 Deadline: Wednesday, November 15th at 10:00 AM&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/corgi_pups_neon.png" alt="Corgi Pups Neon Image">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This exercise is designed to deepen your understanding and skills in modern deep learning techniques. We have two main tasks for you. The first is focused on using SBERT for semantic search, and the second involves hands-on exercises with gradient descent and the attention mechanism.&lt;/p></description></item><item><title>Group assignment 3</title><link>https://aaubs.github.io/ds24/en/m3/03_intro-to-transformer-models/4_group_assignment-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/03_intro-to-transformer-models/4_group_assignment-3/</guid><description>&lt;h1 id="portfolio-exercise-3">Portfolio Exercise 3:&lt;/h1>
+&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/corgi_pups_neon.png" alt="">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;h2 id="task">Task&lt;/h2>
+&lt;p>Create something cool 🚀 using SBERT and semantic search or perhaps more?!
+That&amp;rsquo;s a bit of a vague description but there are many options.&lt;/p>
+&lt;ul>
+&lt;li>You are welcome to use images and CLIP&lt;/li>
+&lt;li>You can also use SetFit for supervised tasks with SBERT models.&lt;/li>
+&lt;/ul>
+&lt;p>Here are some projects for inspiration:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.pinecone.io/learn/gif-search/" target="_blank">GIF search engine&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pinecone.io/learn/youtube-search/" target="_blank">Youtube search&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>some more ideas:&lt;/p></description></item><item><title>Group assignment 3</title><link>https://aaubs.github.io/ds24/en/m3_eco/03_intro-to-transformer-models/4_group_assignment-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/03_intro-to-transformer-models/4_group_assignment-3/</guid><description>&lt;h1 id="portfolio-exercise-3">Portfolio Exercise 3:&lt;/h1>
+&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/corgi_pups_neon.png" alt="">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;h2 id="task">Task&lt;/h2>
+&lt;p>Create something cool 🚀 using SBERT and semantic search or perhaps more?!
+That&amp;rsquo;s a bit of a vague description but there are many options.&lt;/p>
+&lt;ul>
+&lt;li>You are welcome to use images and CLIP&lt;/li>
+&lt;li>You can also use SetFit for supervised tasks with SBERT models.&lt;/li>
+&lt;/ul>
+&lt;p>Here are some projects for inspiration:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.pinecone.io/learn/gif-search/" target="_blank">GIF search engine&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pinecone.io/learn/youtube-search/" target="_blank">Youtube search&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>some more ideas:&lt;/p></description></item><item><title>Group assignment 3</title><link>https://aaubs.github.io/ds24/en/m4/03_intro-to-transformer-models/4_group_assignment-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m4/03_intro-to-transformer-models/4_group_assignment-3/</guid><description>&lt;h1 id="portfolio-exercise-3">Portfolio Exercise 3:&lt;/h1>
+&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/corgi_pups_neon.png" alt="">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;h2 id="task">Task&lt;/h2>
+&lt;p>Create something cool 🚀 using SBERT and semantic search or perhaps more?!
+That&amp;rsquo;s a bit of a vague description but there are many options.&lt;/p>
+&lt;ul>
+&lt;li>You are welcome to use images and CLIP&lt;/li>
+&lt;li>You can also use SetFit for supervised tasks with SBERT models.&lt;/li>
+&lt;/ul>
+&lt;p>Here are some projects for inspiration:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.pinecone.io/learn/gif-search/" target="_blank">GIF search engine&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pinecone.io/learn/youtube-search/" target="_blank">Youtube search&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>some more ideas:&lt;/p></description></item><item><title>Literature &amp; Resources</title><link>https://aaubs.github.io/ds24/en/info/04_litetrature/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/04_litetrature/</guid><description>&lt;p>While this course does not come with a list of mandatory readings, we will often refer to some central resources in R and python, which for the most part can always be accessed in a free and updated online version. We generally recommend you to use these amazing resources for problem-solving and further self-study on the topic.&lt;/p>
+&lt;h2 id="main-literature">Main Literature&lt;/h2>
+&lt;p>These pieces of work can be seen as main references for data science using Python. We will frequently refer to selected chapters for further study. Documentation of the used packages, tutorials, papers, podcasts etc. will be added throughout.&lt;/p></description></item><item><title>NW Cases</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/4-tutorials-elites-eu-ai-companies/</guid><description>&lt;h1 id="case-1-danish-power-elites">Case 1: Danish Power Elites&lt;/h1>
+&lt;p>&lt;img src="https://source.unsplash.com/GWe0dlVD9e0" alt="">&lt;/p>
+&lt;blockquote>
+&lt;p>Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. &lt;a href="https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite" target="_blank">read more&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>In this project we are going to construct and explore a network of Danish power elites derived from boards of various organisations in th country.
+We will construct an association network: Who is being in the same board? And first explore &amp;ldquo;basic&amp;rdquo; centrality indicators. Then identify communities and central persons within those.&lt;/p></description></item><item><title>Semester Schedule</title><link>https://aaubs.github.io/ds24/en/info/03_schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/03_schedule/</guid><description>&lt;p>This will be shortly updated with additional key dates and topics for the semester. For now, please follow &lt;a href="https://www.moodle.aau.dk/local/planning/calendar.php?fid=1710" target="_blank">CalMoodle&lt;/a>.&lt;/p>
+&lt;!-- ## General appointments
+
+* Introduction to Semester Project and group formation: 24.10.2023, 14:30-16:00 -->
+&lt;h2 id="m1-week-35-41">M1: Week 35-41&lt;/h2>
+&lt;h3 id="topics">Topics&lt;/h3>
+&lt;ul>
+&lt;li>W 36: Intro, Data Manipulation, Exploratory Data Analysis (EDA)&lt;/li>
+&lt;li>W 37: Exploratory Data Analysis (EDA) / Dashboard development&lt;/li>
+&lt;li>W 38: Unsupervised Machine Learning (UML), Math for ML&lt;/li>
+&lt;li>W 39: Supervised Machine Learning (SML)&lt;/li>
+&lt;li>W 40: Group Assignment &amp;amp; M2 NLP&lt;/li>
+&lt;li>W 41: M2 NLP Exam&lt;/li>
+&lt;/ul>
+&lt;p>All weeks: Advanced Innovation Management (Data Driven Business Dev. &amp;amp; Strategy)&lt;/p></description></item><item><title>Intro to GPT Models</title><link>https://aaubs.github.io/ds24/en/m3/03_intro-gpt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/03_intro-gpt/</guid><description>&lt;p>&lt;img src="http://jalammar.github.io/images/gpt2/gpt2-sizes-hyperparameters-3.png" alt="">&lt;/p>
+&lt;p>GPT models (Decoders) play a crucial role in generating subsequent words in tasks like text translation or story generation, providing outputs along with their probabilities. They utilize attention mechanisms twice during training: initially, Masked Multi-Head Attention, where only the beginning of a target sentence is revealed, and later, Multi-Head Attention, similar to encoders. In traditional transformer models, decoders interact with encoders by using the encoder&amp;rsquo;s outputs to assist in tasks like sentence translation. However, GPT models adopt a unique approach by relying solely on a decoder, compensating for the absence of an encoder through extensive training on large datasets. This allows for embedding a vast amount of knowledge within the decoder. ChatGPT further advances these techniques by integrating human-labeled data to address issues such as hate speech and employing Reinforcement Learning for enhanced model quality.&lt;/p></description></item><item><title>Intro to GPT Models</title><link>https://aaubs.github.io/ds24/en/m3_eco/03_intro-gpt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/03_intro-gpt/</guid><description>&lt;p>&lt;img src="http://jalammar.github.io/images/gpt2/gpt2-sizes-hyperparameters-3.png" alt="">&lt;/p>
+&lt;p>GPT models (Decoders) play a crucial role in generating subsequent words in tasks like text translation or story generation, providing outputs along with their probabilities. They utilize attention mechanisms twice during training: initially, Masked Multi-Head Attention, where only the beginning of a target sentence is revealed, and later, Multi-Head Attention, similar to encoders. In traditional transformer models, decoders interact with encoders by using the encoder&amp;rsquo;s outputs to assist in tasks like sentence translation. However, GPT models adopt a unique approach by relying solely on a decoder, compensating for the absence of an encoder through extensive training on large datasets. This allows for embedding a vast amount of knowledge within the decoder. ChatGPT further advances these techniques by integrating human-labeled data to address issues such as hate speech and employing Reinforcement Learning for enhanced model quality.&lt;/p></description></item><item><title>Semester Project Requirements</title><link>https://aaubs.github.io/ds24/en/info/05_requirements_project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/info/05_requirements_project/</guid><description>&lt;h2 id="format">Format&lt;/h2>
+&lt;ul>
+&lt;li>Functional and self-contained notebook&lt;/li>
+&lt;li>Happy to see GitHub repos (which you can use as your portfolio in the job market)&lt;/li>
+&lt;li>Project report (30-ish pages - max. 45)&lt;/li>
+&lt;li>Some study relation (but that is debatable and not necessarily required)&lt;/li>
+&lt;li>Report is a (semi/non) technical documentation. Think about a corporate censor that you try to inform&lt;/li>
+&lt;/ul>
+&lt;h2 id="content">Content&lt;/h2>
+&lt;ul>
+&lt;li>Problem formulation with some practical and theoretical motivation (no huge literature discussion)&lt;/li>
+&lt;li>Methodology (not a critical realist vs positivist discussion but some ideas about what can be concluded potentially)&lt;/li>
+&lt;li>Data sourcing and pre-processing strategy&lt;/li>
+&lt;li>Overall architecture of the model(s)&lt;/li>
+&lt;li>Modelling (incl. finetuning)&lt;/li>
+&lt;li>Results&lt;/li>
+&lt;li>Discussion / Conclusion&lt;/li>
+&lt;/ul>
+&lt;h2 id="scope">Scope&lt;/h2>
+&lt;ul>
+&lt;li>Uses different methods from the course (at least 2 modules) in a creative way&lt;/li>
+&lt;li>Downloading data from kaggle/github and running an ML model is probably not enough for a good performance&lt;/li>
+&lt;li>Creative combinations of methodologies, please:
+&lt;ul>
+&lt;li>combine financial data with social media data to look at equity development&lt;/li>
+&lt;li>extract information from text data and create networks. Use network indicators to supplement company data&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Evaluation will focus on correct application and communication of DS methods&lt;/li>
+&lt;li>The level of &amp;ldquo;technicality&amp;rdquo; is as in the course with emphasis on application and intuition, not on ML engineering / mathematics&lt;/li>
+&lt;li>However, you will need to demonstrate insight into statistics on a level that is required to discuss your assignment e.g. interpret and discuss performance indicators, outline strategies for improvement e.g. under/oversampling&lt;/li>
+&lt;/ul></description></item><item><title>Group Assignment 3</title><link>https://aaubs.github.io/ds24/en/m3/03_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/03_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-3-gpt-models">Portfolio Exercise 3: GPT Models&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 3 Deadline: Wednesday 28th of February at 12:00 PM&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/langchain_cheatsheet.png" alt="LangChain Cheat Sheet">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This assignment focuses on leveraging retrieval-augmented generation (RAG) techniques, particularly in the context of extracting and synthesizing information from various documents (or a document). You&amp;rsquo;ll be using Langchain to implement these concepts and create a system that not only generates responses but also retrieves relevant information from a database.&lt;/p></description></item><item><title>Group Assignment 3</title><link>https://aaubs.github.io/ds24/en/m3_eco/03_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/03_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-3-gpt-models">Portfolio Exercise 3: GPT Models&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 3 Deadline: Wednesday, November 22nd at 10:00 AM&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/langchain_cheatsheet.png" alt="LangChain Cheat Sheet">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This assignment focuses on leveraging retrieval-augmented generation (RAG) techniques, particularly in the context of extracting and synthesizing information from various documents (or a document). You&amp;rsquo;ll be using Langchain to implement these concepts and create a system that not only generates responses but also retrieves relevant information from a database.&lt;/p></description></item><item><title>Intro to Graph Neural Networks</title><link>https://aaubs.github.io/ds24/en/m3_eco/04_intro-gnn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/04_intro-gnn/</guid><description>&lt;p>&lt;img src="https://images.datacamp.com/image/upload/v1658404112/Types_of_Graph_Neural_Networks_fd300394e8.png" alt="">&lt;/p>
+&lt;p>Graph neural networks (GNNs) are a powerful new class of machine learning algorithms that are specifically designed to handle graph-structured data. Unlike traditional neural networks, which are designed to process data in the form of vectors or matrices, GNNs can operate directly on graphs, where nodes represent entities and edges represent relationships between entities. This makes them well-suited for a wide range of tasks that involve understanding the structure of complex systems, such as social networks, knowledge graphs, and molecular structures. In this session we will introduce you to some fundamental concepts regarding deep learning on graphs via Graph Neural Networks based on the PyTorch Geometric (PyG) library. PyTorch Geometric is an extension library to the popular deep learning framework PyTorch, and consists of various methods and utilities to ease the implementation of Graph Neural Networks.&lt;/p></description></item><item><title>Group Assignment 4</title><link>https://aaubs.github.io/ds24/en/m3_eco/04_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3_eco/04_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-4-advanced-ai-applications">Portfolio Exercise 4: Advanced AI Applications&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M4 - Group Assignment 4 Deadline: Monday, January 8th at Noon&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://python.langchain.com/assets/images/rag_retrieval_generation-1046a4668d6bb08786ef73c56d4f228a.png" alt="LangChain Cheat Sheet">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This assignment encourages you to build an engaging and, if possible, fun application using the techniques learned in this module. The focus is on applying advanced AI and DL methods to solve relevant tasks, with an emphasis on creativity and practical application.&lt;/p></description></item><item><title>Intro to Graph Neural Networks</title><link>https://aaubs.github.io/ds24/en/m3/04_intro-gnn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/04_intro-gnn/</guid><description>&lt;p>&lt;img src="https://images.datacamp.com/image/upload/v1658404112/Types_of_Graph_Neural_Networks_fd300394e8.png" alt="">&lt;/p>
+&lt;p>Graph neural networks (GNNs) are a powerful new class of machine learning algorithms that are specifically designed to handle graph-structured data. Unlike traditional neural networks, which are designed to process data in the form of vectors or matrices, GNNs can operate directly on graphs, where nodes represent entities and edges represent relationships between entities. This makes them well-suited for a wide range of tasks that involve understanding the structure of complex systems, such as social networks, knowledge graphs, and molecular structures. In this session we will introduce you to some fundamental concepts regarding deep learning on graphs via Graph Neural Networks based on the PyTorch Geometric (PyG) library. PyTorch Geometric is an extension library to the popular deep learning framework PyTorch, and consists of various methods and utilities to ease the implementation of Graph Neural Networks.&lt;/p></description></item><item><title>Group Assignment 4</title><link>https://aaubs.github.io/ds24/en/m3/04_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/04_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-4-advanced-ai-applications">Portfolio Exercise 4: Advanced AI Applications&lt;/h1>
+&lt;blockquote>
+&lt;p>&lt;strong>Note:&lt;/strong> M4 - Final Assignment Deadline: Friday, 8 March 2024, 12:00 PM&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://python.langchain.com/assets/images/rag_retrieval_generation-1046a4668d6bb08786ef73c56d4f228a.png" alt="LangChain Cheat Sheet">&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>This assignment is designed to explore the frontier of AI applications, focusing on the integration of Retrieval-Augmented Generation (RAG) with vector databases such as ChromDB and LanceDB, and the comparison of various prompt engineering techniques. The goal is to build an application that not only showcases advanced AI and DL capabilities but also evaluates the impact of different prompt strategies on model performance.&lt;/p></description></item><item><title/><link>https://aaubs.github.io/ds24/en/m6/l1/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m6/l1/readme/</guid><description>&lt;h1 id="mlops-lecture-1---intro-to-apis--databases">MLOps Lecture 1 - Intro to APIs &amp;amp; DataBases&lt;/h1>
+&lt;p>This repository contains lecutre slides, python scripts and dataset for the first lecture.&lt;/p>
+&lt;h2 id="api">API&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>api_jokes.py&lt;/strong> is an example of simple public API&lt;/li>
+&lt;li>&lt;strong>api_finance.py&lt;/strong>, &lt;strong>api_news.py&lt;/strong> are examples of private API using API_key (You need to register to get your private key)&lt;/li>
+&lt;li>&lt;strong>api_datasets.py&lt;/strong> is an example of API Wrapper&lt;/li>
+&lt;li>EXTRA: &lt;strong>joke_app.py&lt;/strong> is a simple streamlit app that uses IPA to print jokes&lt;/li>
+&lt;li>EXTRA: &lt;strong>api_weather.py&lt;/strong> exercise from the class&lt;/li>
+&lt;/ul>
+&lt;h2 id="database">Database&lt;/h2>
+&lt;p align="center">
+ &lt;img src="images/schema.jpg" alt="Schema" width="400"/>
+&lt;/p></description></item></channel></rss>
