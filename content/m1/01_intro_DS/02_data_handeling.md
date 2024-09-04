@@ -18,6 +18,8 @@ In this session, we'll explore the foundational aspects of data handling. Key ta
 
 By the end, students should have a solid understanding of primary data manipulation techniques, setting the stage for more advanced subjects.
 
+**[Notebook: Python Data Manipulation and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_pandas_solutions_v6.ipynb)**
+
 ## Exercises
 
 
@@ -31,13 +33,13 @@ By the end, students should have a solid understanding of primary data manipulat
 
 Here, you will find the answers to the exercises:
 
-<!-- * **[Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)**
+* **[Notebook: Python DS Handbook, C.2-3 exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-solutions-chapters-2-3.ipynb)**
 
 * **[Notebook: Pandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-pandas-exercises-solutions.ipynb)**
   
 *  **[Notebook: HR Attrition exercises solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-HR-aatrition-eda-exercise.ipynb)**
     
-*  **[Notebook: Netflix Pandas exercise solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/Exercises_EDA_solutions.ipynb)** -->
+*  **[Notebook: Netflix Pandas exercise solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/Exercises_EDA_solutions.ipynb)**
 
 
 ## Tutorial - Assignment Examples
