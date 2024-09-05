@@ -2,7 +2,7 @@
 title: "- Exploratory Data Analysis and Essential Statistics"
 weight: 3
 disableToc: true
-draft: true
+draft: false
 ---
 
 This session introduces students how to use EDA and some fundemental concepts of statistical methods to uncover patterns, anomalies, and frame questions in data. Students will learn foundational measures and techniques for data interpretation, and they will have the opportunity to apply EDA and statistical methods on datasets through hands-on exercises.
@@ -14,7 +14,7 @@ This session introduces students how to use EDA and some fundemental concepts of
 
 ## Part 1: Statistics refresher
 
-* [Notebook statistics refresher](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-stats-intro.ipynb)
+* [Notebook statistics refresher](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_stats_intro_Soultions_v7.ipynb)
 
 ## Part 2: Further concepts
  
