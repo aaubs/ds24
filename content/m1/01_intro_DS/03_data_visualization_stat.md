@@ -33,7 +33,7 @@ This session introduces students how to use EDA and some fundemental concepts of
 ### Recommended readings
 * [Econometrics with Python - Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html): More thorrough inferential statistics in Python
 
-###€ Further resources
+<!-- ###€ Further resources -->
 
 
 
