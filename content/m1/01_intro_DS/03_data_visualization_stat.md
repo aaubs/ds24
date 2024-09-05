@@ -14,7 +14,7 @@ This session introduces students how to use EDA and some fundemental concepts of
 
 ## Part 1: Statistics refresher
 * [Notebook statistics refresher](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_stats_intro_v7.ipynb)
-<!-- * [Notebook statistics refresher - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_stats_intro_Soultions_v7.ipynb) -->
+* [Notebook statistics refresher - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_stats_intro_Soultions_v7.ipynb)
 
 ## Part 2: Further concepts
  
