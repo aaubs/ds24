@@ -2,7 +2,7 @@
 title: "- Real World Data to Online Dashboard"
 weight: 3
 disableToc: true
-draft: false
+draft: true
 ---
 
 This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.

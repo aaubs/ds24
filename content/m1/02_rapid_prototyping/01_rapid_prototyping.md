@@ -5,8 +5,8 @@ disableToc: true
 draft: false
 ---
 
-![](/ds23/images/ds_corgy_23_c.jpg)
-Corgi working on a Data Science project. 2023. Roman x [Stable Diffusion XL](https://stability.ai)
+![](/ds23/images/ds_corgy_24_c-3.jpg)
+Corgi working on a Data Science project. 2023. Roman x [Flux Dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
 
 
 Streamlit has rapidly become a go-to tool for data scientists and developers wanting to turn data scripts into shareable web apps. Let's explore its core features and benefits:
@@ -106,7 +106,7 @@ Once you've built the app, we'll first host it on **Streamlit Cloud** and then o
 
 Here is the code
 
-{{< gist RJuro 90b863be6d953e7856919b33750b1376 >}}
+{{< gist RJuro 9272056544d0479d846e37e3b8dde51c >}}
 
 
 ### Initialization
@@ -128,24 +128,23 @@ Depending on user input, we visualize the filtered data using various charts. Fo
 
 Finally, expanders provide a space to share insights derived from visualizations and actionable recommendations.
 
-## Access the Deployed App
-
-You can access the final deployed Employee Attrition Dashboard on Streamlit using the link below:
-
-[Employee Attrition Dashboard](https://m1-attrition-app-5axd6zprgn57jmwujpjuhn.streamlit.app)
-
-Feel free to explore the app, interact with the various filters and visualizations, and gain insights into employee attrition patterns.
-
-
-## Conclusion
-
-Streamlit offers a user-friendly platform to build and deploy interactive data apps without the need for extensive web development skills. Dive in, explore the code, and customize it to create your own data-driven web applications.
-
+### Hosting
+In 2024, the best free option is Hugging Face.
+- Create an empty Streamlit Space.
+- Log into Hugging Face from your development platform (local, uCloud, Codespaces) using the Command Line Interface (CLI) with a token that you obtain from Hugging Face. Then add your email and name for Git to connect.
+- Clone your empty repository.
+- Add your `app.py` and `requirements.txt` files into the repository folder.
+- Finally, push and deploy your app.
 
 
 **Happy Coding!** 🚀
 
 
-## Old corgy from last year...
+## Old corgy from last years...
+
+![](/ds23/images/ds_corgy_23_c.jpg)
+Corgi working on a Data Science project. 2023. Roman x [Stable Diffusion XL](https://stability.ai)
+
+
 ![](/ds22/images/ds_corgi.png)
 Corgi working on a Data Science project. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
