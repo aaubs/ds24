@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>B) Rapid Prototyping (W37) on Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/</link><description>Recent content in B) Rapid Prototyping (W37) on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction to Streamlit: Building an Employee Attrition Dashboard</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01_rapid_prototyping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/01_rapid_prototyping/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds23/images/ds_corgy_24_c-3.jpg" alt="">
+Corgi working on a Data Science project. 2023. Roman x &lt;a href="https://huggingface.co/black-forest-labs/FLUX.1-dev" target="_blank">Flux Dev&lt;/a>&lt;/p>
+&lt;p>Streamlit has rapidly become a go-to tool for data scientists and developers wanting to turn data scripts into shareable web apps. Let&amp;rsquo;s explore its core features and benefits:&lt;/p>
+&lt;h2 id="key-features-of-streamlit">Key Features of Streamlit&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Simplicity&lt;/strong>: With just a few lines of Python code, you can have a running web application. No need to deal with HTML, CSS, or JavaScript unless you want to.&lt;/li>
+&lt;li>&lt;strong>Interactive Widgets&lt;/strong>: Streamlit offers out-of-the-box widgets like sliders, buttons, and text inputs that make your app interactive.&lt;/li>
+&lt;li>&lt;strong>Data Integration&lt;/strong>: It seamlessly integrates with popular data science libraries like Pandas, Numpy, Matplotlib, and others.&lt;/li>
+&lt;li>&lt;strong>Data Caching&lt;/strong>: With &lt;code>@st.cache&lt;/code>, Streamlit caches the output of functions, ensuring your data operations are efficient and your apps remain performant.&lt;/li>
+&lt;li>&lt;strong>Hot Reloading&lt;/strong>: As you save changes to your script, the app refreshes in real-time. No need to manually restart your app.&lt;/li>
+&lt;/ol>
+&lt;h2 id="vs-gradiohttpswwwgradioapp">vs. &lt;a href="https://www.gradio.app/" target="_blank">Gradio&lt;/a>&lt;/h2>
+&lt;p>While Streamlit offers a robust platform for creating web apps, Gradio provides several distinct advantages, especially when the focus is on deploying machine learning models:&lt;/p></description></item></channel></rss>
