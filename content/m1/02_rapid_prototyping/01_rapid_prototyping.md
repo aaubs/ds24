@@ -5,7 +5,7 @@ disableToc: true
 draft: false
 ---
 
-![](/ds23/images/ds_corgy_24_c-3.jpg)
+![](/ds24/images/ds_corgy_24_c-3.jpg)
 Corgi working on a Data Science project. 2023. Roman x [Flux Dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
 
 
