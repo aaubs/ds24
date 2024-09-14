@@ -1,8 +1,8 @@
 ---
-title: "- Real World Data to Online Dashboard"
+title: "GeoPandas"
 weight: 3
 disableToc: true
-draft: true
+draft: false
 ---
 
 This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.
@@ -17,14 +17,14 @@ This session will focus on building interactive online dashboards using real-wor
 Using GeoPandas to analyze geospatial data will be our focus in these notebooks.
 
 * [GeoPandas](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4.ipynb)
-* [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4_Solutions.ipynb)
+<!-- * [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4_Solutions.ipynb) -->
 * [GeoPandas Hands-on Project](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb)
-* [GeoPandas Hands-on Project and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2_Solutions.ipynb)
+<!-- * [GeoPandas Hands-on Project and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2_Solutions.ipynb) -->
 
 ### GeoPandas Exercises
 
 * [GeoPandas exercises](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises.ipynb)
-* [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb)
+<!-- * [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb) -->
 
 ### From Geopandas to Streamlit App 🚀
 * [Simplified version of the analysis - with Folium Plotting](https://colab.research.google.com/github/aaubs/ds-master/blob/main/apps/M1-seattle-school-police/geopandas_forapp.ipynb)
