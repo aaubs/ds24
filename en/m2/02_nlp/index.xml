@@ -3,7 +3,9 @@ Medieval clergy, smartphones and dogs 2023. Roman x Stable Diffusion XL&lt;/p>
 &lt;p>This session introduces basic concepts of NLP.
 We will take a Problem-Based-Learning approach and I will introduce NLP-related concepts as we go. If you need a more theoretical intro (standalone), I&amp;rsquo;ll uploaded pre-recorded videos. We will start with a project based on&lt;/p>
 &lt;h2 id="context">Context&lt;/h2>
-&lt;p>This assignment is based on data from &lt;a href="https://ojs.aaai.org/index.php/ICWSM/article/download/14955/14805" target="_blank">this paper&lt;/a>&lt;/p></description></item><item><title>NLP Applications Chatbot</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/viz-corgi-nlp3.png" alt="">
+&lt;p>This assignment is based on data from &lt;a href="https://ojs.aaai.org/index.php/ICWSM/article/download/14955/14805" target="_blank">this paper&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Davidson, T., Warmsley, D., Macy, M., &amp;amp; Weber, I. (2017, May). Automated hate speech detection and the problem of offensive language. In Proceedings of the international AAAI conference on web and social media (Vol. 11, No. 1, pp. 512-515).&lt;/p></description></item><item><title>NLP Applications Chatbot</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/viz-corgi-nlp3.png" alt="">
 Roman x &lt;a href="https://stability.ai/blog/stable-diffusion-public-release" target="_blank">Stable Diffusion&lt;/a>&lt;/p>
 &lt;p>Chatbots are one of the most wide spread NLP applications.
 In this tutorial we will build a simple retrieval chatbot that can be used for example as an alternative for FAQ applications in companies.&lt;/p>

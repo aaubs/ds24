@@ -10,4 +10,47 @@ Corgi working on a Data Science project. 2023. Roman x &lt;a href="https://huggi
 &lt;li>&lt;strong>Hot Reloading&lt;/strong>: As you save changes to your script, the app refreshes in real-time. No need to manually restart your app.&lt;/li>
 &lt;/ol>
 &lt;h2 id="vs-gradiohttpswwwgradioapp">vs. &lt;a href="https://www.gradio.app/" target="_blank">Gradio&lt;/a>&lt;/h2>
-&lt;p>While Streamlit offers a robust platform for creating web apps, Gradio provides several distinct advantages, especially when the focus is on deploying machine learning models:&lt;/p></description></item></channel></rss>
+&lt;p>While Streamlit offers a robust platform for creating web apps, Gradio provides several distinct advantages, especially when the focus is on deploying machine learning models:&lt;/p></description></item><item><title>GeoPandas</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</guid><description>&lt;p>This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/GeoPandas3.jpeg" alt="">&lt;/p>
+&lt;h3 id="introduction-to-geopandas">Introduction to GeoPandas&lt;/h3>
+&lt;p>Using GeoPandas to analyze geospatial data will be our focus in these notebooks.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4.ipynb" target="_blank">GeoPandas&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- * [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V4_Solutions.ipynb) -->
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb" target="_blank">GeoPandas Hands-on Project&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- * [GeoPandas Hands-on Project and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2_Solutions.ipynb) -->
+&lt;h3 id="geopandas-exercises">GeoPandas Exercises&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises.ipynb" target="_blank">GeoPandas exercises&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- * [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb) -->
+&lt;h3 id="from-geopandas-to-streamlit-app-">From Geopandas to Streamlit App 🚀&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/apps/M1-seattle-school-police/geopandas_forapp.ipynb" target="_blank">Simplified version of the analysis - with Folium Plotting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gist.github.com/RJuro/81375595bfc0c73b619b8d5d9128ff41" target="_blank">App code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://2ngx5tmv8wgzchtkxghdfw.streamlit.app/" target="_blank">Deployed App&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- Deployment: Deployment of projects as WebApps
+
+## Part 1: AirBnb
+In this notebook we will be using data from AirBnb for some basic EDA and geoplotting
+
+* [EDA and Geoviz starter](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-starter.ipynb)
+* [EDA and Geoviz class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-airbnb-eda-geoplot-class.ipynb)
+
+## Part 2: Kaggle
+
+In this notebook we will be learning how to work with data from Kaggle as well as exercise more simple data-viz.
+* [Kaggle starter](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-kaggle-class.ipynb)
+* [Kaggle class](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-kaggle-class.ipynb) -->
+&lt;h3 id="what-to-do-now">What to do now?!&lt;/h3>
+&lt;ul>
+&lt;li>Replay code from the course and see if you do understand the core mechanics - you DO NOT need to remember everything.&lt;/li>
+&lt;li>&lt;a href="https://app.datacamp.com/learn/projects/android-app-market" target="_blank">Android app market project on datacamp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-1" target="_blank">Course: Python DS toolbox 1&lt;/a> &amp;amp; &lt;a href="https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2" target="_blank">Course: Python DS toolbox 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://admin.opendata.dk" target="_blank">Opendata.dk&lt;/a> - build a map of different attractions in Aalborg based on public data. See preprocessing example - how to get data out of nested JSON - below:&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>This is how you can preprocess the GeoCoordinates from the JSON file:&lt;/strong>&lt;/p></description></item></channel></rss>
