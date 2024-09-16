@@ -122,65 +122,7 @@ Corgi working on a Data Science project. 2023. Roman x &lt;a href="https://huggi
 &lt;p>While Streamlit offers a robust platform for creating web apps, Gradio provides several distinct advantages, especially when the focus is on deploying machine learning models:&lt;/p></description></item><item><title>- Data Handling and Manipulation</title><link>https://aaubs.github.io/ds24/en/m1/01_intro_ds/02_data_handeling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/01_intro_ds/02_data_handeling/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_2.png" alt="">&lt;/p>
 &lt;p>This session will introduce students to the foundational aspects of data handling in Python. Students will learn about the different types of data that are important in data science, and they will explore essential operations like arrange, group-by, filter, select, and join. By the end of this session, students should have a solid understanding of primary data manipulation techniques, setting the stage for more advanced subjects.&lt;/p>
 &lt;h2 id="session-2-data-handling-and-manipulation-i-lecture">Session 2: Data Handling and Manipulation I (Lecture)&lt;/h2>
-&lt;p>In this session, we&amp;rsquo;ll explore the foundational aspects of data handling. Key takeaways include:&lt;/p></description></item><item><title>- Recommendation and Similarity Search</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nomad_recommender.jpg" alt="">&lt;/p>
-&lt;!-- Corgis in an Airport. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) -->
-&lt;p>In this workshop we are going to learn about recommender systems as a type of UML.
-Such systems are probably the most widely used and commercialy valuable form of AI today. Specifically we will be looking into collaborative filtering and matrix factorization.&lt;/p>
-&lt;h2 id="plan-for-today">Plan for today&lt;/h2>
-&lt;ul>
-&lt;li>Collaborative filtering / SVD recommender using Nomadlist Trips-data in a Notebooks&lt;/li>
-&lt;li>Streamlit recommender-app&lt;/li>
-&lt;/ul>
-&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Nomadlist Trips Notebook&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3_Solutions_v1.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Nomadlist Trips Notebook Solutions&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Recommender_System.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Nomadlist Trips Notebook&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Similarity Notebook&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Dimensionality_Reduction.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Dimensionality Reduction&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Class_UML_solutions.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Class UML Exemple cosine similarity&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="app">App&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://aaubs.github.io/ds24/ds22/apps/nomadrecommender.zip">Source code for the app&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://recommendersys1-8d5sbggabqm6wb96pyez7p.streamlit.app/" target="_blank">Deployed recommender app&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
-&lt;ul>
-&lt;li>This excellent &lt;a href="https://youtu.be/EgE0DUrYmo8" target="_blank">PyData Talk&lt;/a> by the developer of LightFM&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://www.datacamp.com/tutorial/recommender-systems-python" target="_blank">Beginner Tutorial&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.datacamp.com/courses/building-recommendation-engines-in-python" target="_blank">RecSys-Course&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- 
-
-## Recommended Datacamp exercises:
- * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
-
-## Recommended Readings and resources
-* [Python Data Science Handbook Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)
- * What Is Machine Learning?
- * Introducing Scikit-Learn
- * Feature Engineering
- * In Depth: Principal Component Analysis
- * In Depth: k-Means Clustering
-
-* Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
---></description></item><item><title>- SML - Further topics</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png" alt="">&lt;/p>
+&lt;p>In this session, we&amp;rsquo;ll explore the foundational aspects of data handling. Key takeaways include:&lt;/p></description></item><item><title>- SML - Further topics</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png" alt="">&lt;/p>
 &lt;p>This session introduces adittional topics of intertest in SML&lt;/p>
 &lt;h2 id="notebooks">Notebook(s)&lt;/h2>
 &lt;ul>
@@ -448,63 +390,7 @@ In this tutorial we will build a simple retrieval chatbot that can be used for e
 &lt;li>Take input and predict the type of question asked - this is called &amp;ldquo;intent&amp;rdquo;&lt;/li>
 &lt;li>Reply with a pre-defined response corresponding to the question asked.&lt;/li>
 &lt;/ol>
-&lt;p>Modern bots are more complex. They evaluate the whole (or large parts of the) dialogue. In addition some have the capacity to generate text.&lt;/p></description></item><item><title>- Introduction to Clustering: K-means and Hierarchical Approaches</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</guid><description>&lt;p>This session will introduce the principles and applications of clustering. Students will learn about the different types of clustering problems, and they will explore some of the most popular clustering algorithms, such as K-means and hierarchical clustering.&lt;/p>
-&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nba_Clustering_yale.png" alt="">&lt;/p>
-&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Hands-on Intro Clustering&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4_Solutions.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Hands-on Intro Clustering Solutions&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="app">App&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- NBA Player Injury Replacement Recommender&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://injuryreplacement-9dqxgbmk9zbfqveaxqfqtd.streamlit.app/" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- NBA Player Injury Replacement Recommender Streamlit&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://learn.datacamp.com/courses/unsupervised-learning-in-python" target="_blank">Python&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook Chapter 5&lt;/a>
-&lt;ul>
-&lt;li>What Is Machine Learning?&lt;/li>
-&lt;li>Introducing Scikit-Learn&lt;/li>
-&lt;li>Feature Engineering&lt;/li>
-&lt;li>In Depth: Principal Component Analysis&lt;/li>
-&lt;li>In Depth: k-Means Clustering&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;!-- * Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
-
-## Intro slides
-
-Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) 
- 
-
-
-
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;">
- 
- 
- &lt;iframe src="https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf"
- frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
- style="position: absolute; top: 0; left: 0; width: 100%; height: 115%;">
-
-&lt;/iframe>
-
-&lt;/div>
-
- --></description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-2-transformer-models">Portfolio Exercise 2: Transformer Models&lt;/h1>
+&lt;p>Modern bots are more complex. They evaluate the whole (or large parts of the) dialogue. In addition some have the capacity to generate text.&lt;/p></description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-2-transformer-models">Portfolio Exercise 2: Transformer Models&lt;/h1>
 &lt;blockquote>
 &lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 2 Deadline: Wednesday, February 14th at 10:00 AM&lt;/p>
 &lt;/blockquote>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C) Intro to Unsupervised Machine Learning (W38) on Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/</link><description>Recent content in C) Intro to Unsupervised Machine Learning (W38) on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/m1/03_uml/index.xml" rel="self" type="application/rss+xml"/><item><title>- Introduction to Unsupervised ML</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/01_intro_uml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/01_intro_uml/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds23/images/corgi_painting.jpg" alt="">&lt;/p>
+&lt;p>This session will introduce the principles and applications of unsupervised machine learning (UML). Students will learn about the different types of UML problems, and they will explore some of the most popular UML algorithms, such as PCA, SVD, and NMF.&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_UML_nomads.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Hands-on Intro to Dimensionality reduction and Clustering&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Assignement_UML.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Assignment for the UML&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_spotify_UML.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Assignment for the UML Solution&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.datacamp.com/courses/unsupervised-learning-in-python" target="_blank">Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook Chapter 5&lt;/a>&lt;/p></description></item></channel></rss>
