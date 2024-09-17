@@ -16,17 +16,15 @@ Corgi working on a Data Science project. 2023. Roman x &lt;a href="https://huggi
 &lt;p>Using GeoPandas to analyze geospatial data will be our focus in these notebooks.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V8.ipynb" target="_blank">GeoPandas&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- * [GeoPandas and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V8_Solutions.ipynb) -->
-&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Part1_V8_Solutions.ipynb" target="_blank">GeoPandas and Solutions&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2.ipynb" target="_blank">GeoPandas Hands-on Project&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2_Solutions.ipynb" target="_blank">GeoPandas Hands-on Project and Solutions&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!-- * [GeoPandas Hands-on Project and Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Hands_on_Project_Part2_Solutions.ipynb) -->
 &lt;h3 id="geopandas-exercises">GeoPandas Exercises&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises.ipynb" target="_blank">GeoPandas exercises&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb" target="_blank">GeoPandas exercises and solutions&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!-- * [GeoPandas exercises and solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_GeoPandas_Exercises_Solutions.ipynb) -->
 &lt;h3 id="from-geopandas-to-streamlit-app-">From Geopandas to Streamlit App 🚀&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/apps/M1-seattle-school-police/geopandas_forapp.ipynb" target="_blank">Simplified version of the analysis - with Folium Plotting&lt;/a>&lt;/li>
