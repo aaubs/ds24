@@ -39,9 +39,11 @@ Such systems are probably the most widely used and commercialy valuable form of 
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3.ipynb" target="_blank">
  &lt;i class="fas fa-laptop-code ">&lt;/i>
  Nomadlist Trips Notebook&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3_Solutions_v1.ipynb" target="_blank">
+&lt;/ul>
+&lt;!-- * [
  &lt;i class="fas fa-laptop-code ">&lt;/i>
- Nomadlist Trips Notebook Solutions&lt;/a>&lt;/li>
+ Nomadlist Trips Notebook Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3_Solutions_v1.ipynb) -->
+&lt;ul>
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Recommender_System.ipynb" target="_blank">
  &lt;i class="fas fa-laptop-code ">&lt;/i>
  Recap Nomadlist Trips Notebook&lt;/a>&lt;/li>
@@ -53,7 +55,7 @@ Such systems are probably the most widely used and commercialy valuable form of 
  Recap Dimensionality Reduction&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Class_UML_solutions.ipynb" target="_blank">
  &lt;i class="fas fa-laptop-code ">&lt;/i>
- Class UML Exemple cosine similarity&lt;/a>&lt;/li>
+ Class UML Example cosine similarity&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="app">App&lt;/h2>
 &lt;ul>
