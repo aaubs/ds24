@@ -25,4 +25,62 @@
 &lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook Chapter 5&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook Chapter 5&lt;/a>&lt;/p></description></item><item><title>- Recommendation and Similarity Search</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/02_recommender_simsea_uml/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nomad_recommender.jpg" alt="">&lt;/p>
+&lt;!-- Corgis in an Airport. 2022. Roman x [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) -->
+&lt;p>In this workshop we are going to learn about recommender systems as a type of UML.
+Such systems are probably the most widely used and commercialy valuable form of AI today. Specifically we will be looking into collaborative filtering and matrix factorization.&lt;/p>
+&lt;h2 id="plan-for-today">Plan for today&lt;/h2>
+&lt;ul>
+&lt;li>Collaborative filtering / SVD recommender using Nomadlist Trips-data in a Notebooks&lt;/li>
+&lt;li>Streamlit recommender-app&lt;/li>
+&lt;/ul>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Nomadlist Trips Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3_Solutions_v1.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Nomadlist Trips Notebook Solutions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Recommender_System.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Recap Nomadlist Trips Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Recap Similarity Notebook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Dimensionality_Reduction.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Recap Dimensionality Reduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Class_UML_solutions.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Class UML Exemple cosine similarity&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="app">App&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://aaubs.github.io/ds24/ds22/apps/nomadrecommender.zip">Source code for the app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://recommendersys1-8d5sbggabqm6wb96pyez7p.streamlit.app/" target="_blank">Deployed recommender app&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
+&lt;ul>
+&lt;li>This excellent &lt;a href="https://youtu.be/EgE0DUrYmo8" target="_blank">PyData Talk&lt;/a> by the developer of LightFM&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.datacamp.com/tutorial/recommender-systems-python" target="_blank">Beginner Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.datacamp.com/courses/building-recommendation-engines-in-python" target="_blank">RecSys-Course&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- 
+
+## Recommended Datacamp exercises:
+ * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
+
+## Recommended Readings and resources
+* [Python Data Science Handbook Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)
+ * What Is Machine Learning?
+ * Introducing Scikit-Learn
+ * Feature Engineering
+ * In Depth: Principal Component Analysis
+ * In Depth: k-Means Clustering
+
+* Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+--></description></item></channel></rss>
