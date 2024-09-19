@@ -18,8 +18,8 @@ Such systems are probably the most widely used and commercialy valuable form of 
 * Streamlit recommender-app
 
 ## Notebook(s)
-* [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V2.ipynb)
-<!-- * [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V2_Solutions.ipynb) -->
+* [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V3.ipynb)
+<!-- * [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V3_Solutions.ipynb) -->
 
 * [{{< awesome fas fa-laptop-code >}} Nomadlist Trips Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v5.ipynb)
 <!-- * [{{< awesome fas fa-laptop-code >}} Nomadlist Trips Notebook Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v5_Solutions.ipynb) -->
