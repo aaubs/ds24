@@ -18,10 +18,12 @@ Such systems are probably the most widely used and commercialy valuable form of 
 * Streamlit recommender-app
 
 ## Notebook(s)
+* [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V2.ipynb)
+<!-- * [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V2_Solutions.ipynb) -->
+
 * [{{< awesome fas fa-laptop-code >}} Nomadlist Trips Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3.ipynb)
 <!-- * [{{< awesome fas fa-laptop-code >}} Nomadlist Trips Notebook Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v3_Solutions_v1.ipynb) -->
 * [{{< awesome fas fa-laptop-code >}} Recap Nomadlist Trips Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Recommender_System.ipynb)
-* [{{< awesome fas fa-laptop-code >}} Recap Similarity Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity.ipynb)
 * [{{< awesome fas fa-laptop-code >}} Recap Dimensionality Reduction](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Dimensionality_Reduction.ipynb)
 * [{{< awesome fas fa-laptop-code >}} Class UML Example cosine similarity](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Class_UML_solutions.ipynb)
 
