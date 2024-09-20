@@ -36,58 +36,7 @@ Such systems are probably the most widely used and commercialy valuable form of 
 &lt;/ul>
 &lt;h2 id="notebooks">Notebook(s)&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V3.ipynb" target="_blank">
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V3.ipynb" target="_blank">
  &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Similarity Notebook&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- * [
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Similarity Notebook - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V3_Solutions.ipynb) -->
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v5.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Nomadlist Trips Notebook&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- * [
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Nomadlist Trips Notebook Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recommender_System_v5_Solutions.ipynb) -->
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Recommender_System.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Nomadlist Trips Notebook&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Recap_Dimensionality_Reduction.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Dimensionality Reduction&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Class_UML_solutions.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Class UML Example cosine similarity&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="app">App&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://aaubs.github.io/ds24/ds22/apps/nomadrecommender.zip">Source code for the app&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://recommendersys1-8d5sbggabqm6wb96pyez7p.streamlit.app/" target="_blank">Deployed recommender app&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
-&lt;ul>
-&lt;li>This excellent &lt;a href="https://youtu.be/EgE0DUrYmo8" target="_blank">PyData Talk&lt;/a> by the developer of LightFM&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://www.datacamp.com/tutorial/recommender-systems-python" target="_blank">Beginner Tutorial&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.datacamp.com/courses/building-recommendation-engines-in-python" target="_blank">RecSys-Course&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;!-- 
-
-## Recommended Datacamp exercises:
- * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
-
-## Recommended Readings and resources
-* [Python Data Science Handbook Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)
- * What Is Machine Learning?
- * Introducing Scikit-Learn
- * Feature Engineering
- * In Depth: Principal Component Analysis
- * In Depth: k-Means Clustering
-
-* Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
---></description></item></channel></rss>
+ Recap Similarity Notebook&lt;/a>&lt;/p></description></item></channel></rss>
