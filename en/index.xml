@@ -402,7 +402,63 @@ In this tutorial we will build a simple retrieval chatbot that can be used for e
 &lt;li>Take input and predict the type of question asked - this is called &amp;ldquo;intent&amp;rdquo;&lt;/li>
 &lt;li>Reply with a pre-defined response corresponding to the question asked.&lt;/li>
 &lt;/ol>
-&lt;p>Modern bots are more complex. They evaluate the whole (or large parts of the) dialogue. In addition some have the capacity to generate text.&lt;/p></description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-2-transformer-models">Portfolio Exercise 2: Transformer Models&lt;/h1>
+&lt;p>Modern bots are more complex. They evaluate the whole (or large parts of the) dialogue. In addition some have the capacity to generate text.&lt;/p></description></item><item><title>- Introduction to Clustering: K-means and Hierarchical Approaches</title><link>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/03_uml/04_intro_kmeans/</guid><description>&lt;p>This session will introduce the principles and applications of clustering. Students will learn about the different types of clustering problems, and they will explore some of the most popular clustering algorithms, such as K-means and hierarchical clustering.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nba_Clustering_yale.png" alt="">&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Hands-on Intro Clustering&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- * [
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Hands-on Intro Clustering Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4_Solutions.ipynb) -->
+&lt;h2 id="app">App&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ NBA Player Injury Replacement Recommender&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://injuryreplacement-9dqxgbmk9zbfqveaxqfqtd.streamlit.app/" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ NBA Player Injury Replacement Recommender Streamlit&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.datacamp.com/courses/unsupervised-learning-in-python" target="_blank">Python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook Chapter 5&lt;/a>
+&lt;ul>
+&lt;li>What Is Machine Learning?&lt;/li>
+&lt;li>Introducing Scikit-Learn&lt;/li>
+&lt;li>Feature Engineering&lt;/li>
+&lt;li>In Depth: Principal Component Analysis&lt;/li>
+&lt;li>In Depth: k-Means Clustering&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- * Implementation tutorials on YT PCA and K-means from [this list](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+
+## Intro slides
+
+Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) 
+ 
+
+
+
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;">
+ 
+ 
+ &lt;iframe src="https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf"
+ frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 115%;">
+
+&lt;/iframe>
+
+&lt;/div>
+
+ --></description></item><item><title>Group assignment 2</title><link>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m3/02_group_assignment/</guid><description>&lt;h1 id="portfolio-exercise-2-transformer-models">Portfolio Exercise 2: Transformer Models&lt;/h1>
 &lt;blockquote>
 &lt;p>&lt;strong>Note:&lt;/strong> M3 - Group Assignment 2 Deadline: Wednesday, February 14th at 10:00 AM&lt;/p>
 &lt;/blockquote>
