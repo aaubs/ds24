@@ -13,7 +13,7 @@ This session will introduce the principles and applications of clustering. Stude
 
 
 ## Notebook(s)
-* [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v6.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v7.ipynb)
 <!-- * [{{< awesome fas fa-laptop-code >}} Hands-on Intro Clustering Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v6_Solutions.ipynb) -->
 
 ## App
