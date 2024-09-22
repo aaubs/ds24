@@ -43,13 +43,13 @@ Such systems are probably the most widely used and commercialy valuable form of 
 &lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/nba_Clustering_yale.png" alt="">&lt;/p>
 &lt;h2 id="notebooks">Notebook(s)&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4.ipynb" target="_blank">
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v6.ipynb" target="_blank">
  &lt;i class="fas fa-laptop-code ">&lt;/i>
  Hands-on Intro Clustering&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;!-- * [
  &lt;i class="fas fa-laptop-code ">&lt;/i>
- Hands-on Intro Clustering Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v4_Solutions.ipynb) -->
+ Hands-on Intro Clustering Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Clustering_v6_Solutions.ipynb) -->
 &lt;h2 id="app">App&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/aaubs/ds-master/tree/main/apps/M1-InjuryReplacement-streamlit" target="_blank">
