@@ -12,15 +12,17 @@ This session introduces supervised machine learning (SML) and related main conce
 
 ## Notebook(s)
 
-* [{{< awesome fas fa-laptop-code >}} Introduction to Supervised Machine Learning](https://colab.research.google.com/github/aaubs/ds23/blob/master/notebooks/M1-sml-intro.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Introduction to Supervised Machine Learning](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_SML_application_2024_intro.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Supervised Machine Learning Regression](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_SML_application_2024_regression.ipynb)
+* [{{< awesome fas fa-laptop-code >}} Supervised Machine Learning Classification](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_SML_application_2024_classification.ipynb)
 
 * [{{< awesome fas fa-laptop-code >}} Assignment for SML](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_SML_assignment_BDS23.ipynb)
 
 ## Intro slides
 
-Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html) 
+Use arrows keys on keyboard to navigate. Alternatively [fullscreen slides](https://aaubs.github.io/ds-master/slides/M1_SML_2024_rj.html) 
   
-{{< IncludeSlides "https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html" >}}
+{{< IncludeSlides "https://aaubs.github.io/ds-master/slides/M1_SML_2024_rj.html" >}}
 
 
 
