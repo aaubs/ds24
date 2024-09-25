@@ -41,38 +41,4 @@
 
 
 &lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;p>Basics:&lt;/p></description></item><item><title>- SML - Further topics</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png" alt="">&lt;/p>
-&lt;p>This session introduces adittional topics of intertest in SML&lt;/p>
-&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-further-topics.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Introduction to Explainable ML&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-SML-pipes.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Data engineeering &amp;amp; pipelines&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;ul>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
-&lt;ul>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item><item><title>- Time Series Forecasts</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_5.png" alt="">&lt;/p>
-&lt;p>This session introduces to time series analysis and forecasting&lt;/p>
-&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-timeseries-2.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Introduction to Timeseries Forecasting&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/time-series-analysis-in-python" target="_blank">Python - Time Series Analysis&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/machine-learning-for-time-series-data-in-python" target="_blank">Python - SML for Time Series Data&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
-&lt;ul>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;p>Basics:&lt;/p></description></item></channel></rss>

@@ -141,25 +141,7 @@ Such systems are probably the most widely used and commercialy valuable form of 
 &lt;li>
 &lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_Similarity_V3.ipynb" target="_blank">
  &lt;i class="fas fa-laptop-code ">&lt;/i>
- Recap Similarity Notebook&lt;/a>&lt;/p></description></item><item><title>- SML - Further topics</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png" alt="">&lt;/p>
-&lt;p>This session introduces adittional topics of intertest in SML&lt;/p>
-&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-further-topics.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Introduction to Explainable ML&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-SML-pipes.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Data engineeering &amp;amp; pipelines&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;ul>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
-&lt;ul>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item><item><title>2 Mode Networks</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/header_goldie_space_7.png" alt="">&lt;/p>
+ Recap Similarity Notebook&lt;/a>&lt;/p></description></item><item><title>2 Mode Networks</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/header_goldie_space_7.png" alt="">&lt;/p>
 &lt;p>This session introduces to multimodel (2+) network analysis concepts.&lt;/p>
 &lt;ul>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>Recommended Datacamp exercises:&lt;/strong>
@@ -222,23 +204,7 @@ Description&lt;/p></description></item><item><title>- Exploratory Data Analysis 
 &lt;!-- ###€ Further resources -->
 &lt;!-- # Stuff
 * [Slides](https://github.com/aaubs/ds-master/blob/main/courses/ds4b-m1-2-stats/s1_slides_stats.pdf)
- --></description></item><item><title>- Time Series Forecasts</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/03-sml-ts/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_5.png" alt="">&lt;/p>
-&lt;p>This session introduces to time series analysis and forecasting&lt;/p>
-&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-sml-timeseries-2.ipynb" target="_blank">
- &lt;i class="fas fa-laptop-code ">&lt;/i>
- Introduction to Timeseries Forecasting&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/time-series-analysis-in-python" target="_blank">Python - Time Series Analysis&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/machine-learning-for-time-series-data-in-python" target="_blank">Python - SML for Time Series Data&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="recommended-readings-and-resources">Recommended Readings and resources&lt;/h2>
-&lt;ul>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item><item><title>GeoPandas</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</guid><description>&lt;p>This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.&lt;/p>
+ --></description></item><item><title>GeoPandas</title><link>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/02_rapid_prototyping/02_online_dashboard/</guid><description>&lt;p>This session will focus on building interactive online dashboards using real-world geospatial data, with an emphasis on GeoPandas for data manipulation and visualization. Students will learn how to use GeoPandas to read, filter, and manipulate geospatial data, create interactive map-based visualizations, and ultimately deploy their dashboards to the web.&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/data/Images/GeoPandas3.jpeg" alt="">&lt;/p>
 &lt;h3 id="introduction-to-geopandas">Introduction to GeoPandas&lt;/h3>
 &lt;p>Using GeoPandas to analyze geospatial data will be our focus in these notebooks.&lt;/p>
