@@ -41,4 +41,32 @@
 
 
 &lt;h2 id="recommended-datacamp-exercises">Recommended Datacamp exercises:&lt;/h2>
-&lt;p>Basics:&lt;/p></description></item></channel></rss>
+&lt;p>Basics:&lt;/p></description></item><item><title>- SML - Further topics</title><link>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/04_sml/02-sml-addon/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_4.png" alt="">&lt;/p>
+&lt;p>This session introduces adittional topics of intertest in SML&lt;/p>
+&lt;h2 id="notebooks">Notebook(s)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_SML_2024_Explainable_ML.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Introduction to Explainable ML&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_new_room_on_airbnb_train-2.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Model training for deployment - Airbnb Case&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1_new_room_on_airbnb_inference-2.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Inference - Airbnb Case&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="repos-deployment">Repos (Deployment)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://raw.githubusercontent.com/aaubs/ds-master/main/apps/M1-airbnb-2024/st_app.zip" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Streamlit Repo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://raw.githubusercontent.com/aaubs/ds-master/main/apps/M1-airbnb-fastapi-2024/fastapi.zip" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ FastAPI Repo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="addon">Addon&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M1-SML-pipes.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ Data engineeering and pipelines&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
