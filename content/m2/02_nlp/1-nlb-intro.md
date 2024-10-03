@@ -7,6 +7,11 @@ draft: false
 
 **NOTEBOOKS:**
 
+* [Bag Of Words](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Basic_Bow_with_rf_svm_xgboost.ipynb)
+* [TF-IDF](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Basic_Tfidf_financial_sentiment.ipynb)
+
+
+
 ============================================
 ## How 'computer' understands text?
 ============================================

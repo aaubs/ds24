@@ -5,6 +5,10 @@ disableToc: true
 draft: false
 ---
 
+**NOTEBOOKS:**
+
+* [Trans learning with BERT](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Seq2Seq_BERT_trans_learning.ipynb)
+
 
 
 ## Seq2Seq: The Next Step in NLP After Word2Vec
