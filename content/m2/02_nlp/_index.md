@@ -8,9 +8,6 @@ draft: false
 This chapter introduces you to statistical natural language processing. We will be focusing on NLP in combination with supervised ML as well as topic modelling for unsupervised approaches.
 
 
-* [X] **Recommended Datacamp Courses:**
-   * [Python](https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python) Intro to NLP
-   * [Python - also good](https://learn.datacamp.com/courses/feature-engineering-for-nlp-in-python) Feature Engineering for NLP in Python
 
 * [X] **Recommended Readings:**
     * Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.".

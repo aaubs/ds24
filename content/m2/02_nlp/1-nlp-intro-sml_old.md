@@ -2,7 +2,7 @@
 title: "Basics of NLP"
 weight: 1
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](/ds23/images/M2_nlp_dog1.jpg)
