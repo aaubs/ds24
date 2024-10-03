@@ -1,18 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Natural Language Processing on Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/</link><description>Recent content in Natural Language Processing on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/m2/02_nlp/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics of NLP</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlp-intro-sml/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlp-intro-sml/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds23/images/M2_nlp_dog1.jpg" alt="">
-Medieval clergy, smartphones and dogs 2023. Roman x Stable Diffusion XL&lt;/p>
-&lt;p>This session introduces basic concepts of NLP.
-We will take a Problem-Based-Learning approach and I will introduce NLP-related concepts as we go. If you need a more theoretical intro (standalone), I&amp;rsquo;ll uploaded pre-recorded videos. We will start with a project based on&lt;/p>
-&lt;h2 id="context">Context&lt;/h2>
-&lt;p>This assignment is based on data from &lt;a href="https://ojs.aaai.org/index.php/ICWSM/article/download/14955/14805" target="_blank">this paper&lt;/a>&lt;/p>
-&lt;blockquote>
-&lt;p>Davidson, T., Warmsley, D., Macy, M., &amp;amp; Weber, I. (2017, May). Automated hate speech detection and the problem of offensive language. In Proceedings of the international AAAI conference on web and social media (Vol. 11, No. 1, pp. 512-515).&lt;/p></description></item><item><title>NLP Applications Chatbot</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/3-nlp-advanced/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds22/images/viz-corgi-nlp3.png" alt="">
-Roman x &lt;a href="https://stability.ai/blog/stable-diffusion-public-release" target="_blank">Stable Diffusion&lt;/a>&lt;/p>
-&lt;p>Chatbots are one of the most wide spread NLP applications.
-In this tutorial we will build a simple retrieval chatbot that can be used for example as an alternative for FAQ applications in companies.&lt;/p>
-&lt;p>The approach is following:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Natural Language Processing on Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/</link><description>Recent content in Natural Language Processing on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/m2/02_nlp/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics of NLP</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlb-intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlb-intro/</guid><description>&lt;p>&lt;strong>NOTEBOOKS:&lt;/strong>&lt;/p>
+&lt;p>============================================&lt;/p>
+&lt;h2 id="how-computer-understands-text">How &amp;lsquo;computer&amp;rsquo; understands text?&lt;/h2>
+&lt;p>============================================&lt;/p>
+&lt;p>Imagine someone who cannot hear and uses sign language to communicate. To understand them, you need to learn the specific signs they use to express words and ideas.&lt;/p>
+&lt;p>The signs represent the meaning of words, but they aren&amp;rsquo;t the words themselves—just symbols that convey the message.&lt;/p>
+&lt;p>Similarly, computers don&amp;rsquo;t understand human language directly. Instead, we translate text into a format they understand—like sign language for machines. This &amp;lsquo;machine sign language&amp;rsquo; &lt;strong>is a numerical representation of text, called &amp;lsquo;vectors&amp;rsquo; or &amp;rsquo;embeddings.&lt;/strong>&amp;rsquo;&lt;/p></description></item><item><title>Seq2Seq &amp; Transformers</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</guid><description>&lt;h2 id="seq2seq-the-next-step-in-nlp-after-word2vec">Seq2Seq: The Next Step in NLP After Word2Vec&lt;/h2>
+&lt;p>==================================&lt;/p>
+&lt;p>&lt;strong>Word2Vec&lt;/strong> was great at learning word representations, but it lacked the ability to process or generate &lt;strong>sequences&lt;/strong> (e.g., sentences).
+&lt;br/>&lt;br/>
+&lt;br/>&lt;br/>&lt;/p>
+&lt;p>&lt;strong>What Seq2Seq Introduced:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Seq2Seq models are designed for tasks where both &lt;strong>input and output&lt;/strong> are sequences, such as:
+&lt;ul>
+&lt;li>&lt;strong>Machine translation&lt;/strong> (English to French)&lt;/li>
+&lt;li>&lt;strong>Text summarization&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Chatbot responses&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;br/>&lt;br/>
+&lt;br/>&lt;br/>&lt;/p>
+&lt;h2 id="how-seq2seq-works">How Seq2Seq Works:&lt;/h2>
+&lt;p>==================================&lt;/p>
 &lt;ol>
-&lt;li>Train a model on variants of a question.&lt;/li>
-&lt;li>Take input and predict the type of question asked - this is called &amp;ldquo;intent&amp;rdquo;&lt;/li>
-&lt;li>Reply with a pre-defined response corresponding to the question asked.&lt;/li>
-&lt;/ol>
-&lt;p>Modern bots are more complex. They evaluate the whole (or large parts of the) dialogue. In addition some have the capacity to generate text.&lt;/p></description></item></channel></rss>
+&lt;li>&lt;strong>Encoder-Decoder Architecture&lt;/strong>:
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Encoder&lt;/strong>: Processes the input sequence (e.g., a sentence) and converts it into a fixed-size vector (context vector).&lt;/p></description></item></channel></rss>
