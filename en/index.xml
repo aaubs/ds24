@@ -106,6 +106,10 @@
  &lt;/iframe>
  
  &lt;/div></description></item><item><title>Basics of NLP</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlb-intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlb-intro/</guid><description>&lt;p>&lt;strong>NOTEBOOKS:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Basic_Bow_with_rf_svm_xgboost.ipynb" target="_blank">Bag Of Words&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Basic_Tfidf_financial_sentiment.ipynb" target="_blank">TF-IDF&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;p>============================================&lt;/p>
 &lt;h2 id="how-computer-understands-text">How &amp;lsquo;computer&amp;rsquo; understands text?&lt;/h2>
 &lt;p>============================================&lt;/p>
@@ -200,7 +204,11 @@ Such systems are probably the most widely used and commercialy valuable form of 
 &lt;h3 id="background">Background&lt;/h3>
 &lt;p>Let the fun begin. You will analyze network datacollected from the managers of a high-tec company. This dataset, originating from the paper below, is widely used in research on organizational networks. Time to give it a shot as well.
 Krackhardt D. (1987). Cognitive social structures. Social Networks, 9, 104-134. The company manufactured high-tech equipment on the west coast of the United States and had just over 100 employees with 21 managers. Each manager was asked to whom do you go to for advice and who is your friend, to whom do you report was taken from company documents.
-Description&lt;/p></description></item><item><title>Seq2Seq &amp; Transformers</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</guid><description>&lt;h2 id="seq2seq-the-next-step-in-nlp-after-word2vec">Seq2Seq: The Next Step in NLP After Word2Vec&lt;/h2>
+Description&lt;/p></description></item><item><title>Seq2Seq &amp; Transformers</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</guid><description>&lt;p>&lt;strong>NOTEBOOKS:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Seq2Seq_BERT_trans_learning.ipynb" target="_blank">Trans learning with BERT&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="seq2seq-the-next-step-in-nlp-after-word2vec">Seq2Seq: The Next Step in NLP After Word2Vec&lt;/h2>
 &lt;p>==================================&lt;/p>
 &lt;p>&lt;strong>Word2Vec&lt;/strong> was great at learning word representations, but it lacked the ability to process or generate &lt;strong>sequences&lt;/strong> (e.g., sentences).
 &lt;br/>&lt;br/>

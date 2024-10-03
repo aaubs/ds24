@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Natural Language Processing on Social / Business Data Science 2024</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/</link><description>Recent content in Natural Language Processing on Social / Business Data Science 2024</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://aaubs.github.io/ds24/en/m2/02_nlp/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics of NLP</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlb-intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/1-nlb-intro/</guid><description>&lt;p>&lt;strong>NOTEBOOKS:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Basic_Bow_with_rf_svm_xgboost.ipynb" target="_blank">Bag Of Words&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Basic_Tfidf_financial_sentiment.ipynb" target="_blank">TF-IDF&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;p>============================================&lt;/p>
 &lt;h2 id="how-computer-understands-text">How &amp;lsquo;computer&amp;rsquo; understands text?&lt;/h2>
 &lt;p>============================================&lt;/p>
 &lt;p>Imagine someone who cannot hear and uses sign language to communicate. To understand them, you need to learn the specific signs they use to express words and ideas.&lt;/p>
 &lt;p>The signs represent the meaning of words, but they aren&amp;rsquo;t the words themselves—just symbols that convey the message.&lt;/p>
-&lt;p>Similarly, computers don&amp;rsquo;t understand human language directly. Instead, we translate text into a format they understand—like sign language for machines. This &amp;lsquo;machine sign language&amp;rsquo; &lt;strong>is a numerical representation of text, called &amp;lsquo;vectors&amp;rsquo; or &amp;rsquo;embeddings.&lt;/strong>&amp;rsquo;&lt;/p></description></item><item><title>Seq2Seq &amp; Transformers</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</guid><description>&lt;h2 id="seq2seq-the-next-step-in-nlp-after-word2vec">Seq2Seq: The Next Step in NLP After Word2Vec&lt;/h2>
+&lt;p>Similarly, computers don&amp;rsquo;t understand human language directly. Instead, we translate text into a format they understand—like sign language for machines. This &amp;lsquo;machine sign language&amp;rsquo; &lt;strong>is a numerical representation of text, called &amp;lsquo;vectors&amp;rsquo; or &amp;rsquo;embeddings.&lt;/strong>&amp;rsquo;&lt;/p></description></item><item><title>Seq2Seq &amp; Transformers</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/2-seq2seq/</guid><description>&lt;p>&lt;strong>NOTEBOOKS:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_Seq2Seq_BERT_trans_learning.ipynb" target="_blank">Trans learning with BERT&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="seq2seq-the-next-step-in-nlp-after-word2vec">Seq2Seq: The Next Step in NLP After Word2Vec&lt;/h2>
 &lt;p>==================================&lt;/p>
 &lt;p>&lt;strong>Word2Vec&lt;/strong> was great at learning word representations, but it lacked the ability to process or generate &lt;strong>sequences&lt;/strong> (e.g., sentences).
 &lt;br/>&lt;br/>
