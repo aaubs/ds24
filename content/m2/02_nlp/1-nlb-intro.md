@@ -22,9 +22,10 @@ Similarly, computers don't understand human language directly. Instead, we trans
 
 Each word, phrase, or sentence is converted into a series of numbers that capture its meaning.
 
+ 
 
 <div style="text-align: center;">
-    <img src="aaubs/ds24/static/images/book.png" alt="Book transforming into numbers" style="width:8cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/book.png" alt="Book transforming into numbers" style="width:8cm;">
 </div>
 
 
@@ -38,7 +39,7 @@ Each word, phrase, or sentence is converted into a series of numbers that captur
 Something that is easily understood by humans is not always easily understood by computers—and vice versa! Placing additional word in to sentences can change the main message, but it doesn' always convey the same message when converted into a numerical representation of text—and vice versa!
 
 <div style="text-align: center;">
-    <img src="./ds24/images/only.jpg" alt="Only" style="width:8cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/only.jpg" alt="Only" style="width:8cm;">
 </div>
 
 <br/><br/>
@@ -46,7 +47,7 @@ Something that is easily understood by humans is not always easily understood by
 Languages are full of synonims and words that have several meanings. Humans understand the correct meaning by knowing the context. 
 
 <div style="text-align: center;">
-    <img src="./ds24/images/wods.png" alt="Only" style="width:8cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/wods.png" alt="Only" style="width:8cm;">
 </div>
 
 <br/><br/>
@@ -56,7 +57,7 @@ Punctuation marks can change the meaning of the sentence.
 
 
 <div style="text-align: center;">
-    <img src="./ds24/images/comma.jpg" alt="Only" style="width:6cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/comma.jpg" alt="Only" style="width:6cm;">
 </div>
 
 
@@ -136,7 +137,7 @@ In the next few slides, we will look at different methods used in NLP:
 - It provides an efficient way for computers to understand human language.
 
 <div style="text-align: center;">
-    <img src="./ds24/images/bow2.png" alt="Only" style="height:6cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/bow2.png" alt="Only" style="height:6cm;">
 </div>
 
 
@@ -150,7 +151,7 @@ In the next few slides, we will look at different methods used in NLP:
         </td>
         <td style="width:60%; border: 0;">
             <div style="text-align: center;">
-    <img src="./ds24/images/bow3.png" alt="Only" style="hight:5cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/bow3.png" alt="Only" style="hight:5cm;">
 </div>
         </td>
     </tr>
@@ -169,7 +170,7 @@ In the next few slides, we will look at different methods used in NLP:
 **A statistical measure used to evaluate how important a word is to a document within a corpus.**
 
 <div style="text-align: center;">
-    <img src="./ds24/images/tf-idf-formula.png" alt="Only" style="hight:4cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/tf-idf-formula.png" alt="Only" style="hight:4cm;">
 </div>
 <br/><br/>
 <br/><br/>
@@ -193,7 +194,7 @@ In the next few slides, we will look at different methods used in NLP:
         </td>
         <td style="width:40%; border: 0;">
             <div style="text-align: center;">
-    <img src="./ds24/images/cartoon.png" alt="Only" style="width:5cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/cartoon.png" alt="Only" style="width:5cm;">
 </div>
         </td>
     </tr>
@@ -209,7 +210,7 @@ In the next few slides, we will look at different methods used in NLP:
 
 
 <div style="text-align: center;">
-    <img src="./ds24/images/word2vec.png" alt="Only" style="width:12cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/word2vec.png" alt="Only" style="width:12cm;">
 </div>
 
 

@@ -31,7 +31,7 @@ draft: false
    - **Decoder**: Takes the context vector and generates the output sequence (e.g., the translated sentence).
 
      <div style="text-align: center;">
-    <img src="./ds24/images/seq2seq.png" alt="Only" style="width:12cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/seq2seq.png" alt="Only" style="width:12cm;">
 </div>
 
 <br/><br/>
@@ -89,7 +89,7 @@ draft: false
 ==================================
 
 <div style="text-align: center;">
-    <img src="./ds24/images/tramsformers.png" alt="Only" style="width:6cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/tramsformers.png" alt="Only" style="width:6cm;">
 </div>
   
 **Transformers** overcame these challenges:
@@ -117,7 +117,7 @@ draft: false
         </td>
         <td style="width:45%; border: 0;">
             <div style="text-align: center;">
-    <img src="./ds24/images/heatmap.png" alt="Only" style="width:7cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/heatmap.png" alt="Only" style="width:7cm;">
 </div>
         </td>
     </tr>
@@ -167,5 +167,5 @@ Transfer learning is a crucial technique in NLP, especially with the advent of l
 - **Better Accuracy**: Transfer learning often leads to improved performance, especially when data is scarce.
 
 <div style="text-align: center;">
-    <img src="./ds24/images/trans.jfif" alt="Only" style="width:10cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/trans.jfif" alt="Only" style="width:10cm;">
 </div>
