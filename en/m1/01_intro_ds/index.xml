@@ -41,4 +41,18 @@
 &lt;!-- ###€ Further resources -->
 &lt;!-- # Stuff
 * [Slides](https://github.com/aaubs/ds-master/blob/main/courses/ds4b-m1-2-stats/s1_slides_stats.pdf)
- --></description></item></channel></rss>
+ --></description></item><item><title>- Data Visualization in Data Science</title><link>https://aaubs.github.io/ds24/en/m1/01_intro_ds/05_data_visualization_ds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m1/01_intro_ds/05_data_visualization_ds/</guid><description>&lt;p>This session will teach you the fundamentals of data visualization in data science. You will learn the importance of effective data visualization, the principles that drive meaningful visuals, and how to use two popular Python libraries for data visualization: Seaborn and Altair.&lt;/p>
+&lt;ul>
+&lt;li>Foundations of Visualization: Understand the importance of effective data visualization in Data Science and the principles that drive meaningful visuals.&lt;/li>
+&lt;li>Seaborn Mastery: Explore &lt;strong>&lt;a href="https://seaborn.pydata.org/" target="_blank">Seaborn&lt;/a>&lt;/strong>, a Python library for intuitive statistical graphics.&lt;/li>
+&lt;li>Altair Exploration: Delve into &lt;strong>&lt;a href="https://altair-viz.github.io/" target="_blank">Altair&lt;/a>&lt;/strong>, a declarative visualization library for Python.&lt;/li>
+&lt;li>Hands-on Visualization: Harness both &lt;strong>&lt;a href="https://seaborn.pydata.org/" target="_blank">Seaborn&lt;/a>&lt;/strong> and &lt;strong>&lt;a href="https://altair-viz.github.io/" target="_blank">Altair&lt;/a>&lt;/strong> to craft impactful visualizations with real datasets.&lt;/li>
+&lt;/ul>
+&lt;h2 id="notebooks">Notebooks&lt;/h2>
+&lt;ul>
+&lt;li>
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ &lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-4-dataviz/notebooks/s2-dataviz-example.ipynb" target="_blank">Notebook Dataviz&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="slides">Slides&lt;/h2>
+&lt;p>Use arrows keys on keyboard to navigate. Alternatively fullscreen slides &lt;a href="https://sds-aau.github.io/SDS-master/M1/notebooks/EDA_dataviz_intro.html" target="_blank">here&lt;/a>&lt;/p></description></item></channel></rss>
