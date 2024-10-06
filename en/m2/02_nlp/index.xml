@@ -35,4 +35,22 @@
 &lt;li>&lt;strong>Encoder-Decoder Architecture&lt;/strong>:
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Encoder&lt;/strong>: Processes the input sequence (e.g., a sentence) and converts it into a fixed-size vector (context vector).&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Encoder&lt;/strong>: Processes the input sequence (e.g., a sentence) and converts it into a fixed-size vector (context vector).&lt;/p></description></item><item><title>NLP and LLM Pipelines</title><link>https://aaubs.github.io/ds24/en/m2/02_nlp/5-nlp-pipelines/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/02_nlp/5-nlp-pipelines/</guid><description>&lt;p>&lt;img src="https://aaubs.github.io/ds24/ds24/images/nlp_pipe_corgie.png" alt="">&lt;/p>
+&lt;p>This module covers advanced Natural Language Processing (NLP) techniques and Large Language Model (LLM) pipelines. We&amp;rsquo;ll work with two practical applications:&lt;/p>
+&lt;ol>
+&lt;li>Structured information extraction&lt;/li>
+&lt;li>Audio-to-blog content creation&lt;/li>
+&lt;/ol>
+&lt;h2 id="structured-information-extraction-with-llms">Structured Information Extraction with LLMs&lt;/h2>
+&lt;p>We&amp;rsquo;ll explore how to extract structured data from unstructured text using Large Language Models.&lt;/p>
+&lt;p>&lt;strong>Topics covered:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>OpenAI client setup with custom API keys&lt;/li>
+&lt;li>Prompt engineering for information extraction&lt;/li>
+&lt;li>Pydantic models for structured data&lt;/li>
+&lt;li>Schema enforcement approaches&lt;/li>
+&lt;li>Few-shot learning implementation&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_LLM_structured_output_2024.ipynb" target="_blank">
+ &lt;i class="fas fa-laptop-code ">&lt;/i>
+ LLM Structured Output Notebook&lt;/a>&lt;/p></description></item></channel></rss>
