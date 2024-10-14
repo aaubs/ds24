@@ -2,7 +2,7 @@
 title: 2 Mode Networks
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/header_goldie_space_7.png)

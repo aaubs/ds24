@@ -2,7 +2,7 @@
 title: "NW Cases"
 weight: 4
 disableToc: true
-draft: false
+draft: true
 ---
 
 # Case 1: Danish Power Elites
