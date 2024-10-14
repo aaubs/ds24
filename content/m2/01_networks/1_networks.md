@@ -12,7 +12,7 @@ This session introduces basic concepts of network theory and analysis.
    
 ## Notebooks
 
-* [Lecture](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb)
+* [Lecture](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/Lecture5.ipynb)
 
 * [Basics Network Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/M2_Networks_hands_on_in_python_24.ipynb)
 
