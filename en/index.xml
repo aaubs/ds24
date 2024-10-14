@@ -79,17 +79,17 @@
 &lt;li>
 &lt;p>Ecosystem Deep Dive: Familiarize yourself with essential tools and platforms, such as Github, UCloud, Google Colab, and Jupyter. These will be integral to your studies and projects.&lt;/p></description></item><item><title>Basics Network Analysis</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/1_networks/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_6.png" alt="">&lt;/p>
 &lt;p>This session introduces basic concepts of network theory and analysis.&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>Recommended Datacamp exercises:&lt;/strong>
-&lt;ul>
-&lt;li>&lt;a href="https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python" target="_blank">Introduction to Network Analysis in Python&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
 &lt;h2 id="notebooks">Notebooks&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb" target="_blank">Basics Network Analysis&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s2-nw-intermediate.ipynb" target="_blank">Intermediate Network Analysis&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb" target="_blank">Lecture&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s1-nw-intro.ipynb" target="_blank">Basics Network Analysis&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s2-nw-intermediate.ipynb" target="_blank">Intermediate Network Analysis&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="slides">Slides&lt;/h2>
 &lt;p>Use arrows keys on keyboard to navigate. Alternatively use &lt;a href="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html" target="_blank">fullscreen slides&lt;/a>&lt;/p>
@@ -174,13 +174,6 @@ Such systems are probably the most widely used and commercialy valuable form of 
  Data engineeering and pipelines&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>2 Mode Networks</title><link>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aaubs.github.io/ds24/en/m2/01_networks/2_networks_2mode/</guid><description>&lt;p>&lt;img src="https://raw.githubusercontent.com/aaubs/ds-master/main/media/header_goldie_space_7.png" alt="">&lt;/p>
 &lt;p>This session introduces to multimodel (2+) network analysis concepts.&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>Recommended Datacamp exercises:&lt;/strong>
-&lt;ul>
-&lt;li>&lt;a href="https://app.datacamp.com/learn/courses/intermediate-network-analysis-in-python" target="_blank">Intermediate Network Analysis in Python&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
 &lt;h2 id="notebooks">Notebooks&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/s3-nw-2mode.ipynb" target="_blank">2-Mode Networks&lt;/a>&lt;/li>
