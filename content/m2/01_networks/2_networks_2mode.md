@@ -9,8 +9,6 @@ draft: false
 
 This session introduces to multimodel (2+) network analysis concepts.
 
-* [X] **Recommended Datacamp exercises:**
-   * [Intermediate Network Analysis in Python](https://app.datacamp.com/learn/courses/intermediate-network-analysis-in-python) 
 
 ## Notebooks
 

@@ -62,7 +62,7 @@ Punctuation marks can change the meaning of the sentence.
 
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/comma.jpg" alt="Only" style="width:6cm;">
+    <img src="https://raw.githubusercontent.com/aaubs/ds24/refs/heads/master/static/images/comma.jpg" alt="Only" style="width:8cm;">
 </div>
 
 
