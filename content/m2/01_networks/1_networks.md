@@ -2,7 +2,7 @@
 title: "Basics Network Analysis"
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 ![](https://raw.githubusercontent.com/aaubs/ds-master/main/media/hearder_goldie_space_6.png)
