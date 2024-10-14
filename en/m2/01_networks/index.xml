@@ -16,14 +16,14 @@
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="slides">Slides&lt;/h2>
-&lt;p>Use arrows keys on keyboard to navigate. Alternatively use &lt;a href="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html" target="_blank">fullscreen slides&lt;/a>&lt;/p>
+&lt;p>Use arrows keys on keyboard to navigate. Alternatively use &lt;a href="https://github.com/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/Lecture5_class.slides.html" target="_blank">fullscreen slides&lt;/a>&lt;/p>
 
  
  
  &lt;div style="position: relative; padding-bottom: 56.25%; height: 0;">
  
  
- &lt;iframe src="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html"
+ &lt;iframe src="https://github.com/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/Lecture5_class.slides.html"
  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen 
  style="position: absolute; top: 0; left: 0; width: 100%; height: 115%;">
  
