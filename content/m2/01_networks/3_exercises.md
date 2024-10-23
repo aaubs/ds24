@@ -2,7 +2,7 @@
 title: "Assignment 1"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 # My Heart Will Go On (but not yours?!?)
