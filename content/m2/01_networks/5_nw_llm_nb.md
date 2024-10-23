@@ -9,3 +9,5 @@ In this session, we'll explore how to analyze relationships between companies an
 
 [{{< awesome fas fa-laptop-code >}} AI Market Trends Analysis with LLM and Network Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_LLM_graph_extract.ipynb)
 
+
+Data: https://raw.githubusercontent.com/aaubs/ds-master/refs/heads/main/data/paraphrased_articles.jsonl
