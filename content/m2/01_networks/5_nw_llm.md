@@ -2,7 +2,7 @@
 title: "LLMs meet Network Analysis"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 ---
 
 
