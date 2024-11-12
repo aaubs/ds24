@@ -31,7 +31,7 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 ## Notebooks
 
 
-### Python
+#### Python
 * [Intro to Traditional Deep Learning - ANN](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_ann_intro_v5.ipynb)
 * [Intro to Traditional Deep Learning - RNN](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_RNN_Tutorial_v3.ipynb)
 * [Intro to Traditional Deep Learning - LSTM](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_LSTM_Tutorial_v3.ipynb)
@@ -39,7 +39,7 @@ Reference: Swedish Committee on Analysis of Risk Premium in Motor Insurance
 * [Intro to Activation Functions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_Activation_Functions_Tutorial.ipynb)
 * [Intro to Gradient Descent](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_1_Gradient_Descent_Tutorial_v2.ipynb)
 
-### R
+#### R
 * [Intro to Traditional Deep Learning - ANN](https://colab.research.google.com/github/HamidBekamiri/Econometrics-II/blob/main/04_R_M3_1_ann_intro_v6_Keras_Solutions.ipynb)
 * [Intro to Traditional Deep Learning - RNN](https://colab.research.google.com/github/HamidBekamiri/Econometrics-II/blob/main/05_M3_1_RNN_Tutorial_v2_R_Solutions.ipynb)
 * [Intro to Traditional Deep Learning - LSTM](https://colab.research.google.com/github/HamidBekamiri/Econometrics-II/blob/main/06_M3_1_LSTM_Tutorial_v2_R_Solution.ipynb)
