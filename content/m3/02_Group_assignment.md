@@ -6,26 +6,27 @@ draft: true
 ---
 
 # Portfolio Exercise 2: Transformer Models
-> **Note:** M3 - Group Assignment 2 Deadline: Wednesday, February 14th at 10:00 AM
+> **Note:** M3 - Group Assignment 2 Deadline: Tuesday 26th of November
 
 
 ![Corgi Pups Neon Image](/ds22/images/corgi_pups_neon.png)
 
 ## Introduction
 
-This exercise is designed to deepen your understanding and skills in modern deep learning techniques. We have two main tasks for you. The first is focused on using SBERT for semantic search, and the second involves hands-on exercises with gradient descent and the attention mechanism.
+This exercise is designed to deepen your understanding and skills in modern deep learning techniques. You should focuse on using SBERT for semantic search and craete a straemlit app for your semantic search. In addition you need to use Huggingface function to summarize or classify the results of the query research in the streamlit app.
 
-## Part 1: SBERT and Semantic Search
+## SBERT and Semantic Search
 
 ### Task Description
 
 Create something innovative using SBERT and semantic search, or even more! The guidelines are intentionally broad to encourage creativity. Here are some ideas to get you started:
 
 - Implement a GIF search engine or YouTube search function using images and CLIP.
+- Use HuggingFace pipeline to summarize or calssify the query resarch results.
 - (Optional) Use SetFit for supervised tasks with SBERT models.
 - Consider building a search engine using a Gradio or Streamlit app.
 
-## Part 2: Gradient Descent and Attention Mechanism Exercises
+<!-- ## Part 2: Gradient Descent and Attention Mechanism Exercises
 
 ### Task Description
 
@@ -33,7 +34,7 @@ Create something innovative using SBERT and semantic search, or even more! The g
 
 2. **Attention Mechanism Exercise**: Implement the attention mechanism on two distinct sentences. Choose sentences with polysmous words to demonstrate its functionality effectively.
 
-* [Workshop 2 - Transformer and Attention examples](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Workshop_2_transformer_models.ipynb)
+* [Workshop 2 - Transformer and Attention examples](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Workshop_2_transformer_models.ipynb) -->
   
 ## Data
 
