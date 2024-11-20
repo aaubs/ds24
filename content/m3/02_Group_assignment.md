@@ -2,7 +2,7 @@
 title: "Group assignment 2"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 ---
 
 # Portfolio Exercise 2: Transformer Models
@@ -13,7 +13,7 @@ draft: true
 
 ## Introduction
 
-This exercise is designed to deepen your understanding and skills in modern deep learning techniques. You should focuse on using SBERT for semantic search and craete a straemlit app for your semantic search. In addition you need to use Huggingface function to summarize or classify the results of the query research in the streamlit app.
+This exercise is designed to deepen your understanding and skills in modern deep learning techniques. You should focus on using SBERT for semantic search and create a Streamlit app for your semantic search. In addition, you need to use Hugging Face functions to summarize or classify the results of the query research in the Streamlit app.
 
 ## SBERT and Semantic Search
 
@@ -21,10 +21,12 @@ This exercise is designed to deepen your understanding and skills in modern deep
 
 Create something innovative using SBERT and semantic search, or even more! The guidelines are intentionally broad to encourage creativity. Here are some ideas to get you started:
 
-- Implement a GIF search engine or YouTube search function using images and CLIP.
-- Use HuggingFace pipeline to summarize or calssify the query resarch results.
+- Implement a semantic search engine (Text, Image or YouTube search function) using CLIP.
+- Use the Hugging Face pipeline to summarize or classify the query research results.
 - (Optional) Use SetFit for supervised tasks with SBERT models.
 - Consider building a search engine using a Gradio or Streamlit app.
+
+
 
 <!-- ## Part 2: Gradient Descent and Attention Mechanism Exercises
 
