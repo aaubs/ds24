@@ -21,7 +21,7 @@ This exercise is designed to deepen your understanding and skills in modern deep
 
 Create something innovative using SBERT and semantic search, or even more! The guidelines are intentionally broad to encourage creativity. Here are some ideas to get you started:
 
-- Implement a semantic search engine (Text, Image or YouTube search function) using CLIP.
+- Implement a semantic search engine (Text, Image or YouTube search function using CLIP).
 - Use the Hugging Face pipeline to summarize or classify the query research results.
 - (Optional) Use SetFit for supervised tasks with SBERT models.
 - Consider building a search engine using a Gradio or Streamlit app.
