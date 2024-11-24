@@ -32,9 +32,7 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 - [LangChain](https://python.langchain.com/docs/get_started/quickstart)
 - [LanceDB - Vector database](https://lancedb.github.io/lancedb/)
 
-#########################
 ## Flowiseai Framework ##
-#########################
 
 Here's a Simple Step-by-Step Tutorial for Installing Docker on Mac and Windows, and Running the `flowiseai/flowise:latest` Docker Image on Port 3000
 
