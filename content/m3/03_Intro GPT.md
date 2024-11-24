@@ -2,7 +2,7 @@
 title: "Intro to GPT Models"
 weight: 5
 disableToc: true
-draft: true
+draft: false
 ---
 
 ![](http://jalammar.github.io/images/gpt2/gpt2-sizes-hyperparameters-3.png)
@@ -31,3 +31,80 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 
 - [LangChain](https://python.langchain.com/docs/get_started/quickstart)
 - [LanceDB - Vector database](https://lancedb.github.io/lancedb/)
+
+
+## Flowiseai Framework
+
+Here's a Simple Step-by-Step Tutorial for Installing Docker on Mac and Windows, and Running the `flowiseai/flowise:latest` Docker Image on Port 3000
+
+---
+
+### **Step 1: Install Docker**
+
+#### **For Mac:**
+1. **Download Docker Desktop:**
+   - Visit [Docker Desktop for Mac](https://www.docker.com/products/docker-desktop/).
+   - Download the version suitable for your Mac (Apple Silicon or Intel-based).
+
+2. **Install Docker Desktop:**
+   - Open the downloaded `.dmg` file.
+   - Drag the Docker icon to your Applications folder.
+
+3. **Start Docker:**
+   - Open Docker Desktop from the Applications folder.
+   - Follow the on-screen instructions to complete the setup.
+
+4. **Verify Installation:**
+   - Open the Terminal and run:
+     ```bash
+     docker --version
+     ```
+   - You should see the Docker version information.
+
+#### **For Windows:**
+1. **Download Docker Desktop:**
+   - Visit [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop/).
+   - Download the installer.
+
+2. **Install Docker Desktop:**
+   - Run the downloaded installer.
+   - Follow the setup instructions. Ensure "Install required components for WSL 2" is selected.
+
+3. **Start Docker:**
+   - Open Docker Desktop.
+   - Follow the setup process to configure Docker.
+
+4. **Verify Installation:**
+   - Open Command Prompt or PowerShell and run:
+     ```bash
+     docker --version
+     ```
+   - You should see the Docker version information.
+
+---
+
+### **Step 2: Pull and Run `flowiseai/flowise:latest` Image**
+
+#### **1. Pull the Docker Image:**
+   - Open a terminal or command prompt and run:
+     ```bash
+     docker pull flowiseai/flowise:latest
+     ```
+
+#### **2. Run the Docker Image:**
+   - Run the following command to start the container on port `3000`:
+     ```bash
+     docker run -d -p 3000:3000 flowiseai/flowise:latest
+     ```
+   - Explanation:
+     - `-d`: Runs the container in detached mode (in the background).
+     - `-p 3000:3000`: Maps port 3000 of your machine to port 3000 in the container.
+
+#### **3. Access Flowise AI:**
+   - Open your web browser and go to:
+     ```
+     http://localhost:3000
+     ```
+
+---
+
