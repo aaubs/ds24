@@ -12,13 +12,13 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 ## Notebooks - Basics
 
 * [Generative Pre-trained Models - Basics](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_4.ipynb)
-* [Generative Pre-trained Models - Basics - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_4_Solutions.ipynb)
+<!-- * [Generative Pre-trained Models - Basics - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_4_Solutions.ipynb) -->
 
 ## Notebooks - Applications
 
 * [TM Applications - LangChain](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_Into_LangChain_v1.ipynb)
 * [TM Applications - LanceDB](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_LanceDB_v2.ipynb)
-* [TM Applications - LanceDB - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_LanceDB_v2_Solutions.ipynb)
+<!-- * [TM Applications - LanceDB - Solutions](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_LanceDB_v2_Solutions.ipynb) -->
 * [TM Applications - RAG](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_3_RAG_Mistral_v2.ipynb)
 
 ## Notebooks - FineTuning
