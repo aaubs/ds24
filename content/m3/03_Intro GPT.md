@@ -26,11 +26,19 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 * [Prompt Engineering](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_prompt_engineering_v2.ipynb)
 * [PEFT - LoRA](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_Finetune_opt_bnb_peft.ipynb)
 
+## Notebooks - Agents
+
+* [Agents 1](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_agent_1_v2.ipynb)
+* [Agents 2](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_agent_2_v3.ipynb)
+* [Agents 3](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_agent_3_v3.ipynb)
+* [Agents 4](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_agent_5_v1.ipynb)
+<!-- * [Agents 5](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_prompt_engineering_v2.ipynb) -->
 
 ## Resources
 
 - [LangChain](https://python.langchain.com/docs/get_started/quickstart)
 - [LanceDB - Vector database](https://lancedb.github.io/lancedb/)
+
 
 ## Flowiseai Framework ##
 
@@ -104,6 +112,9 @@ Here's a Simple Step-by-Step Tutorial for Installing Docker on Mac and Windows, 
      ```
      http://localhost:3000
      ```
+
+### **Streamlit app**
+* [Streamlit](https://github.com/HamidBekamiri/chatbot/blob/main/app.py)
 
 ---
 
