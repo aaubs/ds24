@@ -30,7 +30,7 @@ Your task is to create a system that uses RAG for extracting information from a 
 - **Database Integration:** Set up a database to store and retrieve vectors representing document information.
 - **Customized Prompts:** Design and implement prompts that effectively utilize GPT models for generation based on retrieved data.
 - **RAG Implementation:** Use Langchain to integrate retrieval-augmented generation in your system. -->
-## Assignment Title:  **Leveraging GPT Models and AI Agents for Economic Analysis Using FlowiseAI and Streamlit**
+## Assignment Title:  **GPT Models and AI Agents for Economic Analysis**
 
 ## Introduction  
 
@@ -40,27 +40,27 @@ This assignment is designed to enhance your understanding of modern AI technique
 
 Create an innovative project that employs GPT models and AI agents to address an economic question or analyze economic data. The guidelines are broad to encourage creativity. In addition to exploring the Marketplaces tab on FlowiseAI, below are some ideas to inspire your project:  
 
-##### 1. **Automated Economic Analysis Agent**  
+#### 1. **Automated Economic Analysis Agent**  
 - Develop an AI agent that autonomously collects economic data from various sources.  
 - The agent uses a GPT model to analyze the data and generate insights or summaries.  
 - Implement features where the agent can answer user queries about the data in real-time.  
 
-##### 2. **Economic Forecasting Agent**  
+#### 2. **Economic Forecasting Agent**  
 - Create an agent that predicts future economic indicators based on historical data.  
 - The agent utilizes GPT models to interpret trends and provide forecasts.  
 - Visualize predictions in your Streamlit app with interactive charts.  
 
-##### 3. **Policy Impact Simulation Agent**  
+#### 3. **Policy Impact Simulation Agent**  
 - Build an agent that simulates the potential impact of different economic policies.  
 - Users input policy parameters, and the agent uses GPT models to generate scenario analyses.  
 - The agent provides recommendations or cautions based on the simulations.  
 
-##### 4. **Market Sentiment Monitoring Agent**  
+#### 4. **Market Sentiment Monitoring Agent**  
 - Design an agent that continuously monitors news outlets, social media, and financial reports.  
 - The agent performs sentiment analysis using GPT models to gauge market mood.  
 - Present findings in the Streamlit app with sentiment scores and key highlights.  
 
-##### 5. **Educational Economic Chatbot Agent**  
+#### 5. **Educational Economic Chatbot Agent**  
 - Develop a conversational agent that educates users on economic concepts and current events.  
 - The agent answers questions, explains topics, and provides examples using GPT models.  
 - Enhance user engagement with interactive elements in the Streamlit app.  
