@@ -34,11 +34,6 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 * [Agents 4](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_agent_5_v1.ipynb)
 <!-- * [Agents 5](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_prompt_engineering_v2.ipynb) -->
 
-## Resources
-
-- [LangChain](https://python.langchain.com/docs/get_started/quickstart)
-- [LanceDB - Vector database](https://lancedb.github.io/lancedb/)
-
 ## CrewAI Streamlit App ## 
 
 - [CrewAI Streamlit App](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_CrewAI_Tutorial_v2.ipynb)
@@ -121,3 +116,7 @@ Here's a Simple Step-by-Step Tutorial for Installing Docker on Mac and Windows, 
 
 ---
 
+## Resources
+
+- [LangChain](https://python.langchain.com/docs/get_started/quickstart)
+- [LanceDB - Vector database](https://lancedb.github.io/lancedb/)
