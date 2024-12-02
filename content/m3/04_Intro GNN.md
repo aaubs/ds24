@@ -1,5 +1,5 @@
 ---
-title: "Graphs to Knowledge Graphs and GNNs: A Deep Dive into Graph-Based Machine Learning"
+title: "Into Graph-Based ML"
 weight: 7
 disableToc: true
 draft: false
