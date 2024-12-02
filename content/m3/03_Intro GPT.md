@@ -34,11 +34,11 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 * [Agents 4](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_agent_5_v1.ipynb)
 <!-- * [Agents 5](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_3_NLG_prompt_engineering_v2.ipynb) -->
 
-## CrewAI Streamlit App ## 
+## CrewAI Streamlit App 
 
 - [CrewAI Streamlit App](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_CrewAI_Tutorial_v2.ipynb)
 
-## Flowiseai Framework ##
+## Flowiseai Framework 
 
 Here's a Simple Step-by-Step Tutorial for Installing Docker on Mac and Windows, and Running the `flowiseai/flowise:latest` Docker Image on Port 3000
 
