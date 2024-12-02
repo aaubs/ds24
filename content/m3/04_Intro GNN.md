@@ -31,7 +31,7 @@ A **Knowledge Graph** is a specialized type of graph that represents structured 
 
 #### Notebooks - Basics
 
-* [Knowledge Graphs - Basics](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_4_GNN_GCN.ipynb)
+* [Knowledge Graphs - Basics](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_enhancing_rag_with_graph_v4.ipynb)
 
 ### 2. Graph Neural Networks (GNNs)
 
