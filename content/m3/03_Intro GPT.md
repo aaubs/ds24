@@ -39,7 +39,7 @@ GPT models (Decoders) play a crucial role in generating subsequent words in task
 - [LangChain](https://python.langchain.com/docs/get_started/quickstart)
 - [LanceDB - Vector database](https://lancedb.github.io/lancedb/)
 
-## CrewAI Streamlit App## 
+## CrewAI Streamlit App ## 
 
 - [CrewAI Streamlit App](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_CrewAI_Tutorial_v2.ipynb)
 
