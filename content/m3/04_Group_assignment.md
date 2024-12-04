@@ -10,7 +10,7 @@ draft: false
 
 
 ## Introduction
-Welcome to the final assignment for the Agentic System developed by CrewAI. This project is designed to deepen your understanding of modern AI techniques, particularly the integration of AI agents with GPT models, and their applications in the field of economics. You will leverage GPT models and AI agents to analyze economic data or solve an economic problem. The project entails using **CrewAI** to build and deploy your AI workflows, including agents, creating and utilizing knowledge graphs, and developing an interactive **Streamlit** app to showcase your results.
+Welcome to the final assignment for the Agentic System developed by CrewAI. This project is designed to deepen your understanding of modern AI techniques, particularly the integration of AI agents with GPT models, and their applications in the field of economics. You will leverage GPT models and AI agents to analyze economic data or solve an economic problem. The project involves using **CrewAI** to build and deploy AI workflows, utilize **knowledge graphs**, and develop an interactive **Streamlit** to showcase the results.
 
 ---
 
