@@ -6,7 +6,7 @@ draft: false
 ---
 
 # Final Assignment: GPT Models and AI Agents for Economic Analysis
-> **Note:** M4 - Final Assignment Deadline: Friday, 8 March 2024, 12:00 PM
+> **Note:** M4 - Final Assignment Deadline: 17th of December 2024, 12:00 PM
 
 
 ## Introduction
