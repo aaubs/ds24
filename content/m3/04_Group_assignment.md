@@ -14,11 +14,6 @@ Welcome to the final assignment for the Agentic System developed by CrewAI. This
 
 ---
 
-## Assignment Title
-**GPT Models and AI Agents for Economic Analysis**
-
----
-
 ## Task Description
 Create an innovative project that employs GPT models and AI agents to address an economic question or analyze economic data. The guidelines are intentionally broad to foster creativity. Below are some ideas to inspire your project:
 
