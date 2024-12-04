@@ -2,35 +2,63 @@
 title: "Group Assignment 4"
 weight: 8
 disableToc: true
-draft: true
+draft: false
 ---
 
-# Portfolio Exercise 4: Advanced AI Applications
+# Final Assignment: GPT Models and AI Agents for Economic Analysis
 > **Note:** M4 - Final Assignment Deadline: Friday, 8 March 2024, 12:00 PM
 
-![LangChain Cheat Sheet](https://python.langchain.com/assets/images/rag_retrieval_generation-1046a4668d6bb08786ef73c56d4f228a.png)
 
 ## Introduction
+Welcome to the final assignment for the Agentic System developed by CrewAI. This project is designed to deepen your understanding of modern AI techniques, particularly the integration of AI agents with GPT models, and their applications in the field of economics. You will leverage GPT models and AI agents to analyze economic data or solve an economic problem. The project entails using **CrewAI** to build and deploy your AI workflows, including agents, creating and utilizing knowledge graphs, and developing an interactive **Streamlit** app to showcase your results.
 
-This assignment is designed to explore the frontier of AI applications, focusing on the integration of Retrieval-Augmented Generation (RAG) with vector databases such as ChromDB and LanceDB, and the comparison of various prompt engineering techniques. The goal is to build an application that not only showcases advanced AI and DL capabilities but also evaluates the impact of different prompt strategies on model performance.
+---
 
-## Objective
+## Assignment Title
+**GPT Models and AI Agents for Economic Analysis**
 
-### Task Description
+---
 
-Create an application that utilizes RAG and vector databases, and systematically compares the effectiveness of at least three distinct prompt engineering techniques. 
+## Task Description
+Create an innovative project that employs GPT models and AI agents to address an economic question or analyze economic data. The guidelines are intentionally broad to foster creativity. Below are some ideas to inspire your project:
 
-### Key Components
+---
 
-- **RAG and Vector Database Integration:** Implement RAG with ChromDB and LanceDB to enhance information retrieval and content generation.
-- **Transformer Model Adaptation:** Use transformer models (SBERT or BERT)
-- **Prompt Engineering Comparison:** Experiment with and evaluate at least three different prompt engineering techniques to determine their impact on the model's performance.
-- **Platform Integration:** The model should include a Gradio app (in-notebook) for demonstration purposes. Deployment on Hugging Face Spaces is optional for exploring additional features.
+## Project Ideas
 
-## Additional Features (Nice-to-Have)
+### **1. Automated Economic Analysis Agent**
+#### **Description**  
+Develop an AI agent that autonomously collects economic data from various sources.
 
-- **Fine-Tuning Capabilities:** If possible, fine-tune a GPT model specific to your application's needs, detailing the process and its impact on application performance.
-- **Streamlit Application:** Develop a Streamlit app hosted on the HF Hub, offering a richer, more interactive user experience.
+#### **Requirements**  
+- Utilize GPT models to analyze the collected data and generate insights or summaries.  
+- Implement features that allow the agent to answer user queries about the data.  
+- **Knowledge Graph Integration**: Map the analyzed data and insights into a knowledge graph to visualize relationships and dependencies.  
+
+---
+
+### **2. Policy Impact Simulation Agent**
+#### **Description**  
+Build an agent that simulates the potential impact of different economic policies.
+
+#### **Requirements**  
+- Allow users to input policy parameters.  
+- Use GPT models to generate scenario analyses.  
+- Provide recommendations or cautions based on the simulations.  
+- **Knowledge Graph Integration**: Map policy parameters and their simulated impacts into a knowledge graph to highlight causal links and potential outcomes.  
+ 
+---
+
+### **3. Educational Economic Chatbot Agent**
+#### **Description**  
+Develop a conversational agent that educates users on economic concepts and current events.
+
+#### **Requirements**  
+- Enable the agent to answer questions, explain topics, and provide examples using GPT models.  
+- Enhance user engagement with interactive elements in the Streamlit app.  
+- **Knowledge Graph Integration**: Utilize a knowledge graph to provide structured and interconnected explanations of economic concepts and their real-world applications.  
+
+---
 
 ## Data
 
@@ -43,3 +71,5 @@ Create an application that utilizes RAG and vector databases, and systematically
 - Include all necessary materials, such as code, datasets, and a descriptive README.md.
 - Submissions can be individual or in groups of up to three members.
 - **Submission also via DigitalExam**, where you compile all your previous assignments and submit in one file for the overall portfolio for the module exam. You are welcome to tweak/improve previous module submissions for that.
+
+### Best of luck with your assignment! 🚀
