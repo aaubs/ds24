@@ -25,7 +25,7 @@ This session introduces basic concepts of network theory and analysis.
 
 ## Slides
 
-  Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides](https://github.com/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/Lecture5_class.slides.html)
+  Use arrows keys on keyboard to navigate. Alternatively use [fullscreen slides](https://aaubs.github.io/ds-master/courses/ds4b-m2-1-nw/notebooks/Lecture5_class.slides.html)
     
-  {{< IncludeSlides "https://github.com/aaubs/ds-master/blob/main/courses/ds4b-m2-1-nw/notebooks/Lecture5_class.slides.html" >}}
+  {{< IncludeSlides "https://aaubs.github.io/ds-master/courses/ds4b-m2-1-nw/notebooks/Lecture5_class.slides.html" >}}
 
