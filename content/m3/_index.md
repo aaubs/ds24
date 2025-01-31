@@ -31,6 +31,8 @@ Real-world examples from economics and other fields will be used to illustrate t
 | 💡 **Session 4: Advanced Topics in Deep Learning** | Monday, 24th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 7th Mar at 12:00 |
 | 💡 **Workshop 3: Advanced DL Applications** | Friday, 28th Feb | 12:30 - 15:00 | Room 41, Fib 11 | Christian | - |
 
+**The exam in Applied Deep Learning and Artificial Intelligence is a group exam based on a submitted assignment portfolio. It is an internal examination with a 7-point grading scale and takes place in Week 11.**
+
 
 <!-- Session 1: Intro to Traditional Deep Learning
 📅 Monday, 3rd of February | ⏰ 08.15-12.00 | 📍 Room 41, Fibigerstræde 11
