@@ -21,15 +21,15 @@ Real-world examples from economics and other fields will be used to illustrate t
 
 ## Course Schedule
 
-| **Session** | **Date** | **Time** | **Location** | **Teacher** | **Notes** |
+| **Session** | **Date** | **Time** | **Location** | **Teacher** | **Group Assignment Deadline** |
 |------------|------------|------------|----------------|------------|----------------|
-| **Session 1: Intro to Traditional Deep Learning** | Monday, 3rd Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | **Group Assignment 1 Deadline:** 10th Feb at 12:00 |
-| 💡 **Workshop 1** | Friday, 7th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | - |
-| **Session 2: Introduction to Transformer Models** | Monday, 10th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | **Group Assignment 2 Deadline:** 17th Feb at 12:00 |
-| **Session 3: Introduction to GPTs** | Monday, 17th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | **Group Assignment 3 Deadline:** 24th Feb at 12:00 |
-| 💡 **Workshop 2** | Friday, 21st Feb | 12:30 - 15:00 | Room 41, Fib 11 | Eskil | - |
-| **Session 4: Advanced Topics in Deep Learning** | Monday, 24th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | **Final Assignment Deadline:** 7th Mar at 12:00 |
-| 💡 **Workshop 3** | Friday, 28th Feb | 12:30 - 15:00 | Room 41, Fib 11 | Christian | - |
+| 💡 **Session 1: Intro to Traditional Deep Learning** | Monday, 3rd Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 10th Feb at 12:00 |
+| 💡 **Workshop 1: Traditional DL** | Friday, 7th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | - |
+| **Session 2: Introduction to Transformer Models** | Monday, 10th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 17th Feb at 12:00 |
+| 💡 *Session 3: Introduction to GPTs** | Monday, 17th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 24th Feb at 12:00 |
+| 💡 **Workshop 2: Agentic System** | Friday, 21st Feb | 12:30 - 15:00 | Room 41, Fib 11 | Eskil | - |
+| 💡 **Session 4: Advanced Topics in Deep Learning** | Monday, 24th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 7th Mar at 12:00 |
+| 💡 **Workshop 3: Advanced DL Applications** | Friday, 28th Feb | 12:30 - 15:00 | Room 41, Fib 11 | Christian | - |
 
 
 <!-- Session 1: Intro to Traditional Deep Learning
