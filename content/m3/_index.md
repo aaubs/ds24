@@ -25,7 +25,7 @@ Real-world examples from economics and other fields will be used to illustrate t
 | 💡 **Workshop 1: Traditional DL** | Friday, 7th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | - |
 | 💡 **Session 2: Introduction to Transformer Models** | Monday, 10th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 17th Feb at 12:00 |
 | 💡 **Session 3: Introduction to GPTs** | Monday, 17th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 24th Feb at 12:00 |
-| 💡 **Workshop 2: Agentic System** | Friday, 21st Feb | 12:30 - 15:00 | Room 41, Fib 11 | Eskil | - |
+| 💡 **Workshop 2: Agentic Systems & GPT Applications** | Friday, 21st Feb | 12:30 - 15:00 | Room 41, Fib 11 | Eskil | - |
 | 💡 **Session 4: Advanced Topics in Deep Learning** | Monday, 24th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 7th Mar at 12:00 |
 | 💡 **Workshop 3: Advanced DL Applications** | Friday, 28th Feb | 12:30 - 15:00 | Room 41, Fib 11 | Christian | - |
 
