@@ -17,8 +17,6 @@ Initially, the course focuses on traditional neural network architectures such a
 
 Real-world examples from economics and other fields will be used to illustrate the concepts and techniques taught throughout the course. By the end, students will have a robust understanding of deep learning and its applications in the real world, having collaborated on four mini-projects to apply these concepts to real-world research scenarios, ultimately curating a portfolio to showcase their skills.
 
-## Content for this module
-
 ## Course Schedule
 
 | **Session** | **Date** | **Time** | **Location** | **Teacher** | **Group Assignment Deadline** |
