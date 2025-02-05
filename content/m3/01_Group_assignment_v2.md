@@ -1,11 +1,9 @@
 ---
-title: "Group Assignment 1"
+title: "Portfolio Assignment 1"
 weight: 2
 disableToc: true
 draft: false
 ---
-
-# Portfolio Exercise 1
 
 > **Note:** M3 - Group Assignment 1 Deadline: *Monday, 10th Feb at 12:00*
 
