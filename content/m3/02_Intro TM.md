@@ -2,7 +2,7 @@
 title: "Intro to Transformer Models"
 weight: 3
 disableToc: true
-draft: true
+draft: false
 ---
 
 
