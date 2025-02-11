@@ -2,7 +2,7 @@
 title: "Group Assignment 1"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 # Portfolio Exercise 1

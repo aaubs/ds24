@@ -2,7 +2,7 @@
 title: "Group Assignment 4"
 weight: 8
 disableToc: true
-draft: true
+draft: false
 ---
 
 # Final Assignment: Advanced AI Applications
