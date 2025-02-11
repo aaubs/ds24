@@ -2,7 +2,7 @@
 title: "Intro to GPT Models"
 weight: 5
 disableToc: true
-draft: true
+draft: false
 ---
 
 ![](http://jalammar.github.io/images/gpt2/gpt2-sizes-hyperparameters-3.png)
