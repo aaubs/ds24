@@ -1,5 +1,5 @@
 ---
-title: "Group Assignment 2: Transformer Models for Classification"
+title: "Portfolio Assignment 2"
 weight: 4
 disableToc: true
 draft: False
