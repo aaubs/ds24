@@ -17,7 +17,7 @@ draft: false
 * [Pydantic](https://docs.pydantic.dev/latest/)
 * [Python packaging convention](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
-# Building Multi-Agent Systems with CrewAI
+## Building Multi-Agent Systems with CrewAI
 This workshop explores the development of agentic systems - building AI applications where multiple specialized agents collaborate to accomplish complex tasks. Using CrewAI as our framework, we'll examine both theoretical concepts and practical implementation.
 
 ## Key Topics
@@ -39,7 +39,7 @@ This workshop explores the development of agentic systems - building AI applicat
 - Data validation with Pydantic models  
 - Testing and debugging agent interactions
 
-## Real-World Case Study
+### Real-world application ß
 We'll examine a tender document generation system that demonstrates:
 - Analysis and writing agent collaboration
 - Structured data handling
