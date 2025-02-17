@@ -39,7 +39,7 @@ This workshop explores the development of agentic systems - building AI applicat
 - Data validation with Pydantic models  
 - Testing and debugging agent interactions
 
-### Real-world application ß
+### Real-world application
 We'll examine a tender document generation system that demonstrates:
 - Analysis and writing agent collaboration
 - Structured data handling
