@@ -16,6 +16,7 @@ draft: false
     * Also, check out [CrewAIs framework examples](https://github.com/crewAIInc/crewAI-examples/). Specifically, the workshop will depart from the [Book writing crew](https://github.com/crewAIInc/crewAI-examples/tree/main/write_a_book_with_flows) example.    
 * [Pydantic](https://docs.pydantic.dev/latest/)
 * [Python packaging convention](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [Youtube video](https://www.youtube.com/watch?v=8PtGcNE01yo) with examples and explanation of flows and states in agentic systems. 
 
 ## Building Multi-Agent Systems with CrewAI
 This workshop explores the development of agentic systems - building AI applications where multiple specialized agents collaborate to accomplish complex tasks. Using CrewAI as our framework, we'll examine both theoretical concepts and practical implementation.
