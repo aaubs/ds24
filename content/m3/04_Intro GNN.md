@@ -2,7 +2,7 @@
 title: "Into Graph-Based ML"
 weight: 7
 disableToc: true
-draft: true
+draft: false
 ---
 
 ![](https://images.datacamp.com/image/upload/v1658404112/Types_of_Graph_Neural_Networks_fd300394e8.png)
