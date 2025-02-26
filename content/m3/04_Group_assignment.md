@@ -1,5 +1,5 @@
 ---
-title: "Group Assignment 4: Advanced AI Applications"
+title: "Group Assignment 4"
 weight: 8
 disableToc: true
 draft: false
