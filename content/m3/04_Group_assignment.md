@@ -1,70 +1,93 @@
 ---
-title: "Group Assignment 4"
+title: "Group Assignment 4: Advanced AI Applications"
 weight: 8
 disableToc: true
-draft: true
+draft: false
 ---
 
-# Final Assignment: Advanced AI Applications
-> **Note:** M4 - Final Assignment Deadline: Tuesday, December 17, 2024, at 12:00 PM
+> **Note:** M4 - Final Assignment Deadline: Friday 7th Mar at 12:00 PM
 
-## GPT Models and AI Agents for Economic Analysis
-## Introduction
-Welcome to the final assignment for the Agentic System developed by CrewAI. This project is designed to deepen your understanding of modern AI techniques, particularly the integration of AI agents with GPT models, and their applications in the field of economics. You will leverage GPT models and AI agents to analyze economic data or solve an economic problem. The project involves using **CrewAI** to build and deploy AI workflows, utilize **knowledge graphs**, and develop an interactive **Streamlit** to showcase the results.
+## GPT Models and AI Agents for Real-World Problems
 
+### Introduction
+Welcome to the final assignment for the Agentic System developed by CrewAI. This project aims to deepen your understanding of modern AI techniques—particularly the integration of AI agents with GPT models—and their applications across diverse fields such as social science, business, education, healthcare, and more. In this assignment, you will leverage **prompt engineering techniques** to boost the performance of your model and develop an interactive **Streamlit** application to showcase your results.
 ---
 
 ## Task Description
-Create an innovative project that employs GPT models and AI agents to address an economic question or analyze economic data. The guidelines are intentionally broad to foster creativity. Below are some ideas to inspire your project:
+Develop an innovative project that employs GPT models and AI agents to address a **real-world problem**, **analyze a dataset**, or explore a **social science question**. The assignment guidelines are intentionally broad to foster creativity. Below are some general project ideas to inspire your work; you are welcome to propose your own.
 
 ---
 
 ## Project Ideas
 
-### **1. Automated Economic Analysis Agent**
-#### **Description**  
-Develop an AI agent that autonomously collects economic data from various sources.
+### 1. Automated Social Trends Analysis Agent
+**Description:**  
+Build an AI agent that autonomously collects and analyzes public datasets (e.g., social media feeds, public health statistics, community survey results) to identify emerging trends.
 
-#### **Requirements**  
-- Utilize GPT models to analyze the collected data and generate insights or summaries.  
-- Implement features that allow the agent to answer user queries about the data.  
-- **Knowledge Graph Integration**: Map the analyzed data and insights into a knowledge graph to visualize relationships and dependencies.  
+**Key Requirements:**  
+- **Prompt Engineering:** Design custom prompts for GPT models to extract insights, summarize key topics, and highlight patterns.
+- **User Queries:** Implement features that allow the agent to respond to user questions and provide clear summaries.
+- **(Optional) Knowledge Graph:** Visualize the connections between social trends, demographics, and other factors.
 
 ---
 
-### **2. Policy Impact Simulation Agent**
-#### **Description**  
-Build an agent that simulates the potential impact of different economic policies.
+### 2. Educational or Training Chatbot Agent
+**Description:**  
+Create a conversational AI that assists learners in understanding complex topics—be it in science, language studies, or career development.
 
-#### **Requirements**  
-- Allow users to input policy parameters.  
-- Use GPT models to generate scenario analyses.  
-- Provide recommendations or cautions based on the simulations.  
-- **Knowledge Graph Integration**: Map policy parameters and their simulated impacts into a knowledge graph to highlight causal links and potential outcomes.  
- 
+**Key Requirements:**  
+- **Interactive Explanations:** Use GPT models to deliver step-by-step explanations and real-life examples.
+- **Prompt Engineering:** Develop prompts that ensure consistent, accurate, and engaging responses from the chatbot.
+- **Streamlit App:** Incorporate interactive elements to make the learning experience dynamic and engaging.
+- **(Optional) Knowledge Graph:** Optionally, use a knowledge graph to demonstrate how different concepts interrelate.
+
 ---
 
-### **3. Educational Economic Chatbot Agent**
-#### **Description**  
-Develop a conversational agent that educates users on economic concepts and current events.
+### 3. Sustainability and Environmental Analysis Agent
+**Description:**  
+Develop an AI-driven tool that analyzes environmental data, climate trends, or sustainability metrics to support decision-making.
 
-#### **Requirements**  
-- Enable the agent to answer questions, explain topics, and provide examples using GPT models.  
-- Enhance user engagement with interactive elements in the Streamlit app.  
-- **Knowledge Graph Integration**: Utilize a knowledge graph to provide structured and interconnected explanations of economic concepts and their real-world applications.  
+**Key Requirements:**  
+- **Data Collection & Processing:** Gather and preprocess open-source environmental datasets.
+- **Prompt Engineering:** Use structured prompts for the GPT model to produce summaries, risk assessments, or recommendations.
+- **Streamlit Dashboard:** Create visualizations of key metrics, scenario models, or action plans.
+- **(Optional) Knowledge Graph:** Optionally, illustrate the relationships between climate factors, emissions, policies, and societal impacts.
 
 ---
 
 ## Data
+- You may utilize **open-source datasets** or generate your own data.
+- Ensure that your data aligns with your project's objectives and effectively showcases the capabilities of your AI solution.
 
-- You may use open-source datasets or create your own data for the application.
-- Ensure that your data choice effectively demonstrates the capabilities of your application.
+---
 
-## Submission
+## Emphasis on Prompt Engineering
+Given the importance of prompt engineering in modern LLM development, focus on:
+1. **Prompt Templates:** Crafting precise prompts that guide the model effectively.
+2. **Few-Shot Examples:** Including minimal examples to shape output quality.
+3. **Role/System Messages:** Leveraging system messages (if using OpenAI or similar APIs) to define overarching behavior.
 
-- Create a GitHub repository specifically for this assignment.
-- Include all necessary materials, such as code, datasets, and a descriptive README.md.
-- Submissions can be individual or in groups of up to three members.
-- **Submission also via DigitalExam**, where you compile all your previous assignments and submit in one file for the overall portfolio for the module exam. You are welcome to tweak/improve previous module submissions for that.
+---
 
-### Best of luck with your assignment! 🚀
+## Knowledge Graph (Optional)
+- **Optional Usage:** Integrate knowledge graphs if they enhance your project's demonstration of relationships and structured information.
+- **Visualization:** If implemented, use the knowledge graph to visualize interconnections within your chosen domain.
+
+---
+
+## Streamlit Application
+Develop a **Streamlit app** to:
+1. **Demonstrate User Interaction:** Showcase how users interact with your AI agent.
+2. **Display Outputs:** Present your agent’s analyses, visualizations, and insights.
+
+---
+
+## Submission Guidelines
+1. **GitHub Repository:** Create a dedicated GitHub repository for this assignment. Include all code, datasets, and a descriptive **README.md**.
+2. **Team Formation:** Work individually or in groups of up to three members.
+3. **DigitalExam Submission:** Additionally, submit via **DigitalExam**, compiling all previous assignments into one file for your overall module exam portfolio. You are encouraged to refine or improve your past submissions for this purpose.
+
+---
+
+### Good Luck!
+We look forward to seeing how you creatively integrate **GPT models, AI agents, prompt engineering techniques**, and optionally **knowledge graphs** to tackle a real-world or social science problem. Enjoy your journey into advanced AI applications!
