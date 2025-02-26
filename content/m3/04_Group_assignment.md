@@ -10,6 +10,7 @@ draft: false
 ## GPT Models and AI Agents for Real-World Problems
 
 ### Introduction
+
 Welcome to the final assignment for the Agentic System developed by CrewAI. This project aims to deepen your understanding of modern AI techniques—particularly the integration of AI agents with GPT models—and their applications across diverse fields such as social science, business, education, healthcare, and more. In this assignment, you will leverage **prompt engineering techniques** to boost the performance of your model and develop an interactive **Streamlit** application to showcase your results.
 ---
 
