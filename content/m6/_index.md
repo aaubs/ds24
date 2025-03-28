@@ -23,27 +23,28 @@ By the end of this module, students will have gained a robust understanding of t
 
 ### Lecture 1: Introduction to MLOps, API and Databases
 - Covering the ease of building end-to-end services with ML models without the need for complex infrastructure. Introduction to databases and API consumption.
+https://github.com/saoter/SDS25_MLOps-Lecture-1
 
 ### Lecture 2: CI/CD & Yaml & SSH
-
+https://github.com/saoter/SDS25_MLOps-Lecture-2
 
 ### Lecture 3: GitHub Branches and Pages & API(2)
-
+https://github.com/saoter/SDS25_MLOps-Lecture-3
 
 ### Lecture 4: Data in MLOps
-
+https://github.com/saoter/SDS25_MLOps-Lecture-4
 
 ### Lecture 5: Production and Upscaling
-
+https://github.com/saoter/SDS25_MLOps-Lecture-5
 
 ### Lecture 6: Code Refactoring and Monitoring
-
+https://github.com/saoter/SDS25_MLOps-Lecture-6
 
 ### Lecture 7: LLM monitoring
-
+https://github.com/saoter/SDS25_MLOps-Lecture-7
 
 ### Lecture 8: LLM Evaluation
-
+https://github.com/saoter/SDS25_MLOps-Lecture-8
 
 
 ## Literature
