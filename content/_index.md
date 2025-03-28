@@ -1,7 +1,10 @@
 ---
 title: "Social / Business Data Science 2024"
 ---
-
+weight: 5
+pre: "<b>4. </b>"
+disableToc: false
+draft: false
 # Social & Business Data Science 2024
 
 ## Aalborg University Business School
