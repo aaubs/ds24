@@ -21,35 +21,34 @@ By the end of this module, students will have gained a robust understanding of t
 
 
 
-### Lecture 1: Introduction to Serverless ML and Databases
+### Lecture 1: Introduction to MLOps, API and Databases
 - Covering the ease of building end-to-end services with ML models without the need for complex infrastructure. Introduction to databases and API consumption.
 
-### Lecture 2: Serverless ML Pipelines in Python
-- Discussing the creation of ML pipelines in Python and running your first Prediction Service using serverless technologies.
-  
-### Lecture 3: Feature Engineering and Data Modeling
-- Module on data modeling and utilizing a serverless feature store. Introduction to the credit-card fraud prediction service.
+### Lecture 2: CI/CD & Yaml & SSH
 
-### Lecture 4: MLOps and Model Management
-- Exploring training and inference pipelines and the model registry within an MLOps framework.
 
-### Lecture 5: Serverless UI for ML Systems
-- Module on creating serverless user interfaces for ML systems, focusing on stakeholder communication and interactive UI design.
+### Lecture 3: GitHub Branches and Pages & API(2)
 
-### Lecture 6: Automated Testing and Versioning in MLOps
-- Delving into MLOps principles, focusing on automated testing, version control, and managing upgrades/rollback for ML models.
 
-### Lecture 7: Advanced MLOps Strategies
-- Continuation of MLOps principles with advanced strategies for maintaining and updating machine learning systems.
+### Lecture 4: Data in MLOps
 
-### Lecture 8: Real-time Machine Learning Systems
-- Module focusing on the development and management of real-time machine learning systems and online inference pipelines.
 
-### Lecture 9: Emerging Technologies in MLOps
-- An outlook on other relevant technologies for MLOps, exploring cutting-edge tools and methodologies in the field.
+### Lecture 5: Production and Upscaling
+
+
+### Lecture 6: Code Refactoring and Monitoring
+
+
+### Lecture 7: LLM monitoring
+
+
+### Lecture 8: LLM Evaluation
+
 
 
 ## Literature
+
+- Zhang, T., Ladhak, F., Durmus, E., Liang, P., McKeown, K., & Hashimoto, T. B. (2024). Benchmarking large language models for news summarization. Transactions of the Association for Computational Linguistics, 12, 39-57.
 
 - John, M. M., Olsson, H. H., & Bosch, J. (2021, September). Towards mlops: A framework and maturity model. In *2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)* (pp. 1-8). [IEEE](https://ieeexplore.ieee.org/document/9513359)
 
