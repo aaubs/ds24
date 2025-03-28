@@ -1,6 +1,6 @@
 ---
 title: Data Engineering and Machine Learning Operations in Business
-weight: 5
+weight: 4
 pre: "<b>4. </b>"
 disableToc: false
 draft: false
