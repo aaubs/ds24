@@ -7,61 +7,71 @@ draft: false
 ---
 
 
-## M3 - Applied Deep Learning and Artificial Intelligence
-> **Note:** M3 - Final Assignment Deadline: on Friday, 07-03-2025, at 12:00
+![](/ds22/images/impressionist-corgi.png)
 
 
-This course provides a practical and applied introduction to deep learning, specifically focusing on LLMs. It covers the fundamentals of deep learning, including foundational concepts, tensors, typical architectures, and applications in different contexts. The course will also delve into various training paradigms and tools prevalent in deep learning.
+This module is meticulously designed to equip students with essential knowledge and skills required for the design, development, and implementation of data science projects in both business and research environments. Central to this module is the practical understanding of acquiring, processing, and storing real-world data within a big data framework.
 
-Initially, the course focuses on traditional neural network architectures such as ANNs, CNNs, RNNs, and LSTMs, exploring their utility in addressing economic challenges like forecasting. As the course progresses, students will delve into advanced topics such as GNNs, Transformer models, and GPT models, focusing on the attention mechanism and its role in enhancing model performance. Practical insights will be shared on tools within the GNN, Transformer, and GPT ecosystems and their applications in real-world scenarios.
+Students will be adept in querying databases through application programming interfaces (APIs), utilizing common database frameworks tailored for structured and unstructured data, and handling dynamic and large-scale data effectively. The module also imparts critical knowledge in refactoring machine learning models and associated code for deployment in web-based applications.
 
-Real-world examples from economics and other fields will be used to illustrate the concepts and techniques taught throughout the course. By the end, students will have a robust understanding of deep learning and its applications in the real world, having collaborated on four mini-projects to apply these concepts to real-world research scenarios, ultimately curating a portfolio to showcase their skills.
+Throughout the course, students will engage in hands-on activities that mirror real-world challenges associated with deploying machine learning models into end-to-end solutions. This practical approach encompasses the entire spectrum of data science workflows—from data acquisition and processing to the operational deployment of machine learning models.
 
-## Course Schedule
+By the end of this module, students will have gained a robust understanding of the processes, techniques, and workflows essential to delivering functional machine learning solutions. They will be equipped to autonomously plan, manage, and execute complex machine learning projects, including developing client-facing application interfaces, with a clear emphasis on practical application and industry relevance.
 
-| **Session** | **Date** | **Time** | **Location** | **Teacher** | **Group Assignment Deadline** |
-|------------|------------|------------|----------------|------------|----------------|
-| 💡 **Session 1: Intro to Traditional Deep Learning** | Monday, 3rd Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 10th Feb at 12:00 |
-| 💡 **Workshop 1: Traditional DL** | Friday, 7th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | - |
-| 💡 **Session 2: Introduction to Transformer Models** | Monday, 10th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 17th Feb at 12:00 |
-| 💡 **Session 3: Introduction to GPTs** | Monday, 17th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 24th Feb at 12:00 |
-| 💡 **Workshop 2: Agentic Systems & GPT Applications** | Friday, 21st Feb | 12:30 - 15:00 | Room 41, Fib 11 | Eskil | - |
-| 💡 **Session 4: Advanced Topics in Deep Learning** | Monday, 24th Feb | 08:15 - 12:00 | Room 41, Fib 11 | Hamid | 7th Mar at 12:00 |
-| 💡 **Workshop 3: Advanced DL Applications** | Friday, 28th Feb | 12:30 - 15:00 | Room 41, Fib 11 | Christian | - |
+## Session Overview
+### Lecture 1: Introduction to MLOps, API and Databases
+- Covering the ease of building end-to-end services with ML models without the need for complex infrastructure. Introduction to databases and API consumption.
+https://github.com/saoter/SDS25_MLOps-Lecture-1
 
-**The exam in Applied Deep Learning and Artificial Intelligence is a group exam based on a submitted assignment portfolio. It is an internal examination with a 7-point grading scale and takes place in Week 11.**
+### Lecture 2: CI/CD & Yaml & SSH
+https://github.com/saoter/SDS25_MLOps-Lecture-2
+
+### Lecture 3: GitHub Branches and Pages & API(2)
+https://github.com/saoter/SDS25_MLOps-Lecture-3
+
+### Lecture 4: Data in MLOps
+https://github.com/saoter/SDS25_MLOps-Lecture-4
+
+### Lecture 5: Production and Upscaling
+https://github.com/saoter/SDS25_MLOps-Lecture-5
+
+### Lecture 6: Code Refactoring and Monitoring
+https://github.com/saoter/SDS25_MLOps-Lecture-6
+
+### Lecture 7: LLM monitoring
+https://github.com/saoter/SDS25_MLOps-Lecture-7
+
+### Lecture 8: LLM Evaluation
+https://github.com/saoter/SDS25_MLOps-Lecture-8
 
 
-<!-- Session 1: Intro to Traditional Deep Learning
-📅 Monday, 3rd of February | ⏰ 08.15-12.00 | 📍 Room 41, Fibigerstræde 11
-👨‍🏫 Teacher: Hamid
-📌 Group Assignment 1 Deadline: 10th of February at 12:00
+## Literature
 
-💡 Exercise Workshop 1
-📅 Friday, 7th of February | ⏰ 08.15-12.00 | 📍 Room 41, Fibigerstræde 11
-👨‍🏫 Teacher: Hamid
+- Zhang, T., Ladhak, F., Durmus, E., Liang, P., McKeown, K., & Hashimoto, T. B. (2024). Benchmarking large language models for news summarization. Transactions of the Association for Computational Linguistics, 12, 39-57.
 
-Session 2: Introduction to Transformer Models
-📅 Monday, 10th of February | ⏰ 08.15-12.00 | 📍 Room 41, Fibigerstræde 11
-👨‍🏫 Teacher: Hamid
-📌 Group Assignment 2 Deadline: 17th of February at 12:00
+- John, M. M., Olsson, H. H., & Bosch, J. (2021, September). Towards mlops: A framework and maturity model. In *2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)* (pp. 1-8). [IEEE](https://ieeexplore.ieee.org/document/9513359)
 
-Session 3: Introduction to Generative Pre-trained Models (GPTs)
-📅 Monday, 17th of February | ⏰ 08.15-12.00 | 📍 Room 41, Fibigerstræde 11
-👨‍🏫 Teacher: Hamid
-📌 Group Assignment 3 Deadline: 24th of February at 12:00
+- Calefato, F., Lanubile, F., & Quaranta, L. (2022, September). A preliminary investigation of MLOps practices in GitHub. In *Proceedings of the 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement* (pp. 283-288). 
 
-💡 Exercise Session 2
-📅 Friday, 21st of February | ⏰ 12:30-15:00 | 📍 Room 41, Fibigerstræde 11
-👨‍🏫 Teacher: Eskil 
+- Mäkinen, S., Skogström, H., Laaksonen, E., & Mikkonen, T. (2021, May). Who needs MLOps: What data scientists seek to accomplish and how can MLOps help?. In *2021 IEEE/ACM 1st Workshop on AI Engineering-Software Engineering for AI (WAIN)* (pp. 109-112). [IEEE](https://ieeexplore.ieee.org/document/9471734)
 
-Session 4: Advanced Topics in Deep Learning - Graph Neural Networks (GNNs)
-📅 Monday, 24th of February | ⏰ 08.15-12.00 | 📍 Room 41, Fibigerstræde 11
-👨‍🏫 Teacher: Hamid
-📌 Final Assignment Deadline: Friday, 7th of March at 12:00
+- Openja, M., Majidi, F., Khomh, F., Chembakottu, B., & Li, H. (2022). Studying the Practices of Deploying Machine Learning Projects on Docker. *arXiv preprint arXiv:2206.00699*.
 
-💡 Exercise Session 3
-📅 Friday, 28th of February | ⏰ 12:30-15:00 | 📍 Room 41, Fibigerstræde 11
-👨‍🏫 Teacher: Christian  -->
+- Granlund, T., Kopponen, A., Stirbu, V., Myllyaho, L., & Mikkonen, T. (2021, May). Mlops challenges in multi-organization setup: Experiences from two real-world cases. In *2021 IEEE/ACM 1st Workshop on AI Engineering-Software Engineering for AI (WAIN)* (pp. 82-88). [IEEE](https://ieeexplore.ieee.org/document/9471716)
 
+- [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b) (2017)
+
+- Bowles, M. (2019). *Machine Learning with Spark and Python: Essential Techniques for Predictive Analytics*. John Wiley & Sons.
+
+- [Made with ML](https://madewithml.com/) (2023)
+
+- [SQLite vs TinyDB](https://medium.com/p/7d6a6a42cb97) (2021)
+
+- [How to Handle Large Datasets in Python](https://medium.com/towards-data-science/how-to-handle-large-datasets-in-python-1f077a7e7ecf) (2022)
+
+- [What is MLOps](https://medium.com/@selfouly/mlops-done-right-47cec1dbfc8d) (2019)
+
+- [MLOps Best Practices for Machine Learning Model Development, Deployment, and Maintenance](https://medium.com/towards-data-science/mlops-best-practices-for-machine-learning-model-development-deployment-and-maintenance-e70f5d2f416b) (2022)
+
+- [Build and Run a Docker Container for your Machine Learning Model](https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f) (2021)
 
