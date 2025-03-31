@@ -7,20 +7,25 @@ draft: false
 ---
 
 
-![](/ds22/images/impressionist-corgi.png)
+
 
 
 This module is meticulously designed to equip students with essential knowledge and skills required for the design, development, and implementation of data science projects in both business and research environments. Central to this module is the practical understanding of acquiring, processing, and storing real-world data within a big data framework.
 
+
 Students will be adept in querying databases through application programming interfaces (APIs), utilizing common database frameworks tailored for structured and unstructured data, and handling dynamic and large-scale data effectively. The module also imparts critical knowledge in refactoring machine learning models and associated code for deployment in web-based applications.
+
 
 Throughout the course, students will engage in hands-on activities that mirror real-world challenges associated with deploying machine learning models into end-to-end solutions. This practical approach encompasses the entire spectrum of data science workflows—from data acquisition and processing to the operational deployment of machine learning models.
 
+
 By the end of this module, students will have gained a robust understanding of the processes, techniques, and workflows essential to delivering functional machine learning solutions. They will be equipped to autonomously plan, manage, and execute complex machine learning projects, including developing client-facing application interfaces, with a clear emphasis on practical application and industry relevance.
+
 
 ## Session Overview
 ### Lecture 1: Introduction to MLOps, API and Databases
 - Covering the ease of building end-to-end services with ML models without the need for complex infrastructure. Introduction to databases and API consumption.
+- 
 https://github.com/saoter/SDS25_MLOps-Lecture-1
 
 ### Lecture 2: CI/CD & Yaml & SSH
