@@ -1,10 +1,9 @@
 ---
 title: Data Engineering and Machine Learning Operations in Business
 weight: 5
-pre: "<b>4. </b>"
-disableToc: false
+pre: "<b>3. </b>"
+chapter: false
 draft: false
-
 ---
 
 ![](/ds22/images/impressionist-corgi.png)
